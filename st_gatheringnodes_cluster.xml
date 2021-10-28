@@ -1,0 +1,503 @@
+<OverlayData>
+<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
+	<!-- <MarkerCategory name="st_gatheringnodes" DisplayName="Gathering Nodes"> -->
+		<MarkerCategory name="st_gatheringnodes_cluster" DisplayName="Node Cluster">
+
+			<MarkerCategory name="st_gatheringnodes_cluster_elderwood" DisplayName="Altes Holz [Start: Meerenge der Verwüstung - Abwege]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_elderwood_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_toggletrails_toggletrail01" DisplayName="Route 1: Abwege"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_toggletrails_toggletrail02" DisplayName="Route 2: Pagga"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_elderwood_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_teleport01" DisplayName="Teleport 1: Pagga" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_elderwood_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_artichoke" DisplayName="Artischocke [Start: Mahlstromgipfel - Ochsenjoch-Insel]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_artichoke_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail01" DisplayName="Route 1: Ochsenjoch-Insel"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail02" DisplayName="Route 2: Sockel-Waldland"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail03" DisplayName="Route 3: Nekropole"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_teleport01" DisplayName="Teleport 1: Sockel-Waldland" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_teleport02" DisplayName="Teleport 2: Nekropole" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_cauliflower" DisplayName="Blumenkohl [Start: Baumgrenzenfälle - Distelschilfhain]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail01" DisplayName="Route 1: Distelschilfhain"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail02" DisplayName="Route 2: Ozeanschlund"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail03" DisplayName="Route 3: Olishars Oasenlager"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_teleport01" DisplayName="Teleport 1: Ozeanschlund" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_teleport02" DisplayName="Teleport 2: Olishars Oasenlager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_butternut" DisplayName="Butternuss Kürbis [Start: Feuerherzhügel - Häretiker-Einöde]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_butternut_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_butternut_toggletrails_toggletrail01" DisplayName="Route 1: Häretiker-Einöde"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_butternut_toggletrails_toggletrail02" DisplayName="Route 2: Arundon"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_butternut_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_teleport01" DisplayName="Teleport 1: Arundon" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_butternut_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_strawberries" DisplayName="Erdbeeren [Start: Diessa-Plateau - Nolan]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_strawberries_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail01" DisplayName="Route 1: Nolan"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail02" DisplayName="Route 2: Reißertal"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail03" DisplayName="Route 3: Cereboth"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail04" DisplayName="Route 4: Hellwasser"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_teleport01" DisplayName="Teleport 1: Reißertal" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_teleport02" DisplayName="Teleport 2: Cereboth" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_teleport03" DisplayName="Teleport 3: Hellwasser" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_carrots" DisplayName="Karrotten [Start: Das Ödland - Knochenufer]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_carrots_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_carrots_toggletrails_toggletrail01" DisplayName="Route 1: Knochenufer"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_carrots_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_potatoes" DisplayName="Kartoffeln [Start: Ebenen von Aschfurt - Sagenklaue]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_potatoes_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail01" DisplayName="Route 1: Sagenklaue"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail02" DisplayName="Route 2: Akk-Wildnis"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail03" DisplayName="Route 3: Tempel der Kormir"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail04" DisplayName="Route 4: Basislager"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_teleport01" DisplayName="Teleport 1: Akk-Wildnis" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_teleport02" DisplayName="Teleport 2: Tempel der Kormir" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_teleport03" DisplayName="Teleport 3: Basislager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+			<MarkerCategory name="st_gatheringnodes_cluster_cabbage" DisplayName="Kohl [Start: Flammenkamm-Steppe - Lunk-Kral]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_cabbage_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail01" DisplayName="Route 1: Lunk-Kral"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail02" DisplayName="Route 2: Große Weite"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail03" DisplayName="Route 3: Demetra"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_teleport01" DisplayName="Teleport 1: Große Weite" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_teleport02" DisplayName="Teleport 2: Demetra" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_flax" DisplayName="Lein [Start: Grasgrüne Schwelle - Jaka Itzel]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_flax_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_toggletrails_toggletrail01" DisplayName="Route 1: Jaka Itzel"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_toggletrails_toggletrail02" DisplayName="Route 2: Lager d. Ord. d. Gerüchte"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_toggletrails_toggletrail03" DisplayName="Route 3: Aussichtspunkt des Eiferers"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_toggletrails_toggletrail04" DisplayName="Route 4: Heidenhalt"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_toggletrails_toggletrail05" DisplayName="Route 5: Venta-Pass"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_flax_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport01" DisplayName="Teleport 1: Lager d. Ord. d. Gerüchte" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport02" DisplayName="Teleport 2: Aussichtspunkt des Eiferers" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport03" DisplayName="Teleport 3: Heidenhalt" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport04" DisplayName="Teleport 4: Venta-Pass" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport04.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_mussels" DisplayName="Miesmuscheln (Süßwasserperlen) [Start: Grasgrüne Schwelle - Schiffswrackspitze]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail01" DisplayName="Route 1: Verdant Brink"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail02" DisplayName="Route 2: Auric Basin"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail03" DisplayName="Route 3: Dragon's Stand"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail04" DisplayName="Route 4: Bloodstone Fen"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail05" DisplayName="Route 5: Crystal Oasis"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail06" DisplayName="Route 6: Desert Highlands"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail07" DisplayName="Route 7: The Desolation"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail08" DisplayName="Route 8: Domain of Kourna"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_toggletrails_toggletrail09" DisplayName="Route 9: Jahai Bluffs"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_startsign.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport01" DisplayName="Teleport 1: Pakt-Lager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport02" DisplayName="Teleport 2: Mellaggans Tapferkeit" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport03" DisplayName="Teleport 3: Nordwacht" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport04" DisplayName="Teleport 4: Ostwacht" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport04.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport05" DisplayName="Teleport 5: Basislager des Pakts" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport05.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport06" DisplayName="Teleport 6: Seelenhüters Luftschiff" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport06.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport07" DisplayName="Teleport 7: Amnoon" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport07.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport08" DisplayName="Teleport 8: Tempel der Kormir" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport08.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport09" DisplayName="Teleport 9: Hellwasser" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport09.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport10" DisplayName="Teleport 10: Knochenufer" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport10.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport11" DisplayName="Teleport 11: Lager der Verbündeten" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport11.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport12" DisplayName="Teleport 12: Apizmic-Gründe" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport12.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport13" DisplayName="Teleport 13: Zurückeroberte Heilige Halle" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport13.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_clam" DisplayName="Muscheln [Start: Kristalloase - Amnoon]">
+				<MarkerCategory name="st_gatheringnodes_cluster_clam_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_clam_toggletrails_toggletrail01" DisplayName="Toggle Route Part1"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_clam_toggletrails_toggletrail02" DisplayName="Toggle Route Part2"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_clam_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_clam_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_teleport01" DisplayName="Teleport 1: Basislager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_clam_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		
+			<MarkerCategory name="st_gatheringnodes_cluster_lettuce" DisplayName="Salat [Start: Königintal - Beetletun]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_lettuce_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_toggletrails_toggletrail01" DisplayName="Route 1: Beetletun"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_toggletrails_toggletrail02" DisplayName="Route 2: Kraitbann-Freistatt"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_lettuce_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_teleport01" DisplayName="Teleport 1: Kraitbann-Freistatt" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_lettuce_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_seaweed" DisplayName="Seetang [Start: Glutbucht - Kap]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_seaweed_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_seaweed_toggletrails_toggletrail01" DisplayName="Route 1: Kap"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_seaweed_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_spinach" DisplayName="Spinat [Start: Gendarran-Felder - Provern-Ufer]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_spinach_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_spinach_toggletrails_toggletrail01" DisplayName="Route 1: Provern-Ufer"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_spinach_toggletrails_toggletrail02" DisplayName="Route 2: Wachsame Quelle"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_spinach_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_teleport01" DisplayName="Teleport 1: Wachsame Quelle" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_spinach_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_grapes" DisplayName="Trauben [Start: Felder der Verwüstung - Ogerstraße]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_grapes_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_grapes_toggletrails_toggletrail01" DisplayName="Route 1: Ogerstraße"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_grapes_toggletrails_toggletrail02" DisplayName="Route 2: Dämonenschlund"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_grapes_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_teleport01" DisplayName="Teleport 1: Dämonenschlund" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_grapes_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins" DisplayName="Zuckerkürbis [Start: Eisenmark - Westliches Bollwerk]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_toggletrails_toggletrail01" DisplayName="Route 1: Westliches Bollwerk"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_toggletrails_toggletrail02" DisplayName="Route 2: Remanda"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_sugarpumpkins_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_teleport01" DisplayName="Teleport 1: Remanda" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_sugarpumpkins_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory name="st_gatheringnodes_cluster_mixed" DisplayName="Gemischte Cluster [Start: Trockenkuppe - Rankenbrücke]*">
+				<MarkerCategory name="st_gatheringnodes_cluster_mixed_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_toggletrails_toggletrail01" DisplayName="Route 1: Rankenbrücke"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_toggletrails_toggletrail02" DisplayName="Toggle Route Part2"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_toggletrails_toggletrail03" DisplayName="Toggle Route Part3"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_teleport01" DisplayName="Toggle Teleport Sign 1" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_teleport02" DisplayName="Toggle Teleport Sign 2" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+		<MarkerCategory name="st_gatheringnodes_cluster_error" DisplayName="Debugger (Gathering Cluster)" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/> <!--fadeNear="3500" fadeFar="3600"-->
+		</MarkerCategory>
+	<!-- </MarkerCategory>-->
+</MarkerCategory>
+	<POIs>
+	
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   ARTICHOKE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="39" xpos="193.251" ypos="4.19995" zpos="34.2222" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_signs.st_gatheringnodes_cluster_artichoke_signs_startsign" GUID="FRsaeNMm7EeZRZWYsfMY3Q=="/>
+		<POI MapID="39" xpos="215.632" ypos="37.7112" zpos="-154.857" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_signs.st_gatheringnodes_cluster_artichoke_signs_teleport01" GUID="Pz1oBhP3l0iKTiOj51ATkA=="/>
+		<POI MapID="51" xpos="717.756" ypos="9.86862" zpos="552.166" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_signs.st_gatheringnodes_cluster_artichoke_signs_startsign" GUID="5reNkFJ4NESXUJyPqDtGag=="/>
+		<POI MapID="51" xpos="819.77" ypos="58.2305" zpos="689.537" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_signs.st_gatheringnodes_cluster_artichoke_signs_teleport02" GUID="7bOgv3wi60S2LYzvFyMD3Q=="/>
+		<POI MapID="1248" xpos="-575.044" ypos="116.94" zpos="-420.772" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_signs.st_gatheringnodes_cluster_artichoke_signs_startsign" GUID="N4aKX8LYEka6BjGDJsWtPw=="/>
+		<POI MapID="1248" xpos="-969.657" ypos="261.907" zpos="-924.872" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_signs.st_gatheringnodes_cluster_artichoke_signs_finish" GUID="QVXP66fuIUKGX5f5iYhn2A=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_toggletrails.st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail01" GUID="AQ2NPZ1IREyfJQHVUtNOOQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_toggletrails.st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail02" GUID="j8APoceNM0yoTTm54PvXyA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_artichoke.st_gatheringnodes_cluster_artichoke_toggletrails.st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail03" GUID="qvv0STr6g0agxtxPAz5fSA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   BUTTERNUT  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="22" xpos="-662.882" ypos="44.3805" zpos="-465.247" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_butternut.st_gatheringnodes_cluster_butternut_signs.st_gatheringnodes_cluster_butternut_signs_startsign" GUID="CFLpJQv97Ui9fLPu6Ey/qg=="/>
+		<POI MapID="22" xpos="-688.57" ypos="57.0501" zpos="-719.134" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_butternut.st_gatheringnodes_cluster_butternut_signs.st_gatheringnodes_cluster_butternut_signs_teleport01" GUID="4ShT45FOD0+b/2lUm5sOgw=="/>
+		<POI MapID="30" xpos="480.651" ypos="46.4141" zpos="-834.481" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_butternut.st_gatheringnodes_cluster_butternut_signs.st_gatheringnodes_cluster_butternut_signs_startsign" GUID="1wjhOfQUwUmAJ6T+/a5EGw=="/>
+		<POI MapID="30" xpos="633.769" ypos="2.8927" zpos="-624.565" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_butternut.st_gatheringnodes_cluster_butternut_signs.st_gatheringnodes_cluster_butternut_signs_finish" GUID="d6WOb3NScUOcjKWOdqRVBA=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_butternut.st_gatheringnodes_cluster_butternut_toggletrails.st_gatheringnodes_cluster_butternut_toggletrails_toggletrail01" GUID="jqzjCw51s0u2IUIxbCkdOA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_butternut_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_butternut.st_gatheringnodes_cluster_butternut_toggletrails.st_gatheringnodes_cluster_butternut_toggletrails_toggletrail02" GUID="yt5C99IASESpphgqn2pUJQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_butternut_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   CABBAGE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="20" xpos="440.297" ypos="37.519" zpos="506.578" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_signs.st_gatheringnodes_cluster_cabbage_signs_startsign" GUID="iEIx9DTGn0SJMaE8/ppPBw=="/>
+		<POI MapID="20" xpos="459.539" ypos="43.3521" zpos="586.365" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_signs.st_gatheringnodes_cluster_cabbage_signs_teleport01" GUID="w9Q305uNcUWLuUamD+ImkA=="/>
+		<POI MapID="26" xpos="468.984" ypos="77.3616" zpos="254.835" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_signs.st_gatheringnodes_cluster_cabbage_signs_startsign" GUID="/sCSJL+iuU6hBfrtofmmEQ=="/>
+		<POI MapID="26" xpos="368.224" ypos="98.0105" zpos="242.912" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_signs.st_gatheringnodes_cluster_cabbage_signs_teleport02" GUID="aT9ge67D4keFfn0znyLjWw=="/>
+		<POI MapID="17" xpos="-751.152" ypos="77.9746" zpos="-223.107" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_signs.st_gatheringnodes_cluster_cabbage_signs_startsign" GUID="NYjrGeGn/kOFsDynutz2/g=="/>
+		<POI MapID="17" xpos="-705.62" ypos="0.211238" zpos="-135.895" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_signs.st_gatheringnodes_cluster_cabbage_signs_finish" GUID="oiisKwIA+k6lZsmHy4Dx3g=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_toggletrails.st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail01" GUID="L6hx4GAxNkqOTxmetYy/Lg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_toggletrails.st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail02" GUID="swT1UkKgfUaPpbSRrw6Zkw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cabbage.st_gatheringnodes_cluster_cabbage_toggletrails.st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail03" GUID="79BoOvxJ+UGTt3xY+tU3rg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   CARROTS  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="1226" xpos="35.2474" ypos="0.425859" zpos="1432.79" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_carrots.st_gatheringnodes_cluster_carrots_signs.st_gatheringnodes_cluster_carrots_signs_startsign" GUID="E4IvnZCQo0q88HxnSYuBLA=="/>
+		<POI MapID="1226" xpos="476.598" ypos="17.4479" zpos="1474.52" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_carrots.st_gatheringnodes_cluster_carrots_signs.st_gatheringnodes_cluster_carrots_signs_finish" GUID="WD476ZawMUCIsvgX06E0xQ=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_carrots.st_gatheringnodes_cluster_carrots_toggletrails.st_gatheringnodes_cluster_carrots_toggletrails_toggletrail01" GUID="KGVqZii/tU2ONapBFS0OIA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_carrots_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   CAULIFLOWER   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="29" xpos="-384.939" ypos="24.8722" zpos="379.432" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_signs.st_gatheringnodes_cluster_cauliflower_signs_startsign" GUID="xKWPSiGOO0yNiFWV5dbOWA=="/>
+		<POI MapID="29" xpos="-569.635" ypos="40.4421" zpos="384.848" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_signs.st_gatheringnodes_cluster_cauliflower_signs_teleport01" GUID="sDWAZEz9l0+o2Fuxxnq74w=="/>
+		<POI MapID="53" xpos="-345.832" ypos="21.7283" zpos="525.551" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_signs.st_gatheringnodes_cluster_cauliflower_signs_startsign" GUID="zXuwX5fUhEKSF6TIOP7J/g=="/>
+		<POI MapID="53" xpos="-528.531" ypos="86.6964" zpos="520.051" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_signs.st_gatheringnodes_cluster_cauliflower_signs_teleport02" GUID="+xKrcir9+06N+Jg8tL0Fxw=="/>
+		<POI MapID="1228" xpos="208.415" ypos="34.2417" zpos="94.7993" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_signs.st_gatheringnodes_cluster_cauliflower_signs_startsign" GUID="PDLsoO1PgUmeyoYtiLWvpg=="/>
+		<POI MapID="1228" xpos="799.71" ypos="53.6719" zpos="-559.927" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_signs.st_gatheringnodes_cluster_cauliflower_signs_finish" GUID="abZ8HEwvFUGYxcqpGdrlVA=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_toggletrails.st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail01" GUID="Tfd91oqDhkeZ7jghEF/uCw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_toggletrails.st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail02" GUID="UXzlEMGjskKD84nqBirP1A==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_cauliflower.st_gatheringnodes_cluster_cauliflower_toggletrails.st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail03" GUID="1Fjkr73E+Uy7pQJeFubC7Q==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- *****************************************************************************************************************************
+		~~~   CLAM   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="1210" xpos="-739.265" ypos="1.13007" zpos="-97.1337" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_clam.st_gatheringnodes_cluster_clam_signs.st_gatheringnodes_cluster_clam_signs_startsign" GUID="Xz6TP+z7GEOhoAaQfFVNig=="/>
+		<POI MapID="1210" xpos="-1431.03" ypos="-36.461" zpos="-706.008" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_clam.st_gatheringnodes_cluster_clam_signs.st_gatheringnodes_cluster_clam_signs_finish" GUID="dvws/bcD0EG0nVX06JNXSA=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_clam.st_gatheringnodes_cluster_clam_toggletrails.st_gatheringnodes_cluster_clam_toggletrails_toggletrail01" GUID="s+KsIfBzWkqy6iwMlSh3DQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_clam_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_clam.st_gatheringnodes_cluster_clam_toggletrails.st_gatheringnodes_cluster_clam_toggletrails_toggletrail02" GUID="5lcd0eyVEUWCl6S5fNz+Yg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_clam_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   ELDER WOOD   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="51" xpos="-224.982" ypos="24.4854" zpos="-681.808" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_elderwood.st_gatheringnodes_cluster_elderwood_signs.st_gatheringnodes_cluster_elderwood_signs_startsign" GUID="Yv4uuLOjo0yHGlqvDECmjQ=="/>
+		<POI MapID="51" xpos="-332.177" ypos="22.3651" zpos="-635.857" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_elderwood.st_gatheringnodes_cluster_elderwood_signs.st_gatheringnodes_cluster_elderwood_signs_teleport01" GUID="RgBs8m3wXky5COGOrytN7w=="/>
+		<POI MapID="65" xpos="1026.17" ypos="30.3893" zpos="-362.337" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_elderwood.st_gatheringnodes_cluster_elderwood_signs.st_gatheringnodes_cluster_elderwood_signs_startsign" GUID="47OUoiV8kEe2OgYfyF+xyQ=="/>
+		<POI MapID="65" xpos="854.739" ypos="63.0274" zpos="-454.188" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_elderwood.st_gatheringnodes_cluster_elderwood_signs.st_gatheringnodes_cluster_elderwood_signs_finish" GUID="3ZAmeEqD7k+GWatJUQvsFg=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_elderwood.st_gatheringnodes_cluster_elderwood_toggletrails.st_gatheringnodes_cluster_elderwood_toggletrails_toggletrail01" GUID="VMFCAgP7Lkisk+qwDCv5Cg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_elderwood_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_elderwood.st_gatheringnodes_cluster_elderwood_toggletrails.st_gatheringnodes_cluster_elderwood_toggletrails_toggletrail02" GUID="O1AJncFjPEibzS9+D//a3A==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_elderwood_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   FLAX   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="1052" xpos="664.523" ypos="372.869" zpos="372.524" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_startsign" GUID="AFJq4ss1UEy4pK1heh5MQg=="/>
+		<POI MapID="1195" xpos="533.492" ypos="105.103" zpos="-468.967" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_finish" GUID="+BitJuDroEG7aRqJHBypWg=="/>
+		<POI MapID="1301" xpos="-122.365" ypos="161.252" zpos="604.297" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_finish" GUID="f8jraueSzkGGBErLAVq+IQ=="/>
+		<POI MapID="1052" xpos="664.523" ypos="372.869" zpos="372.524" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_startsign" GUID="ZFjb/6QOxE+RtXr+3Uo26g=="/>
+		<POI MapID="1052" xpos="721.273" ypos="14.1618" zpos="410.337" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_teleport01" GUID="SCG4TPuTaEOJ0H6FBtCGJw=="/>
+		<POI MapID="1045" xpos="-719.015" ypos="241.4" zpos="202.079" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_startsign" GUID="i1ru1HwdhUuwSqSpladHtQ=="/>
+		<POI MapID="1045" xpos="-298.395" ypos="329.31" zpos="-76.4284" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_teleport02" GUID="N4IdITLzDEidzjQU2Fxq6g=="/>
+		<POI MapID="1165" xpos="-53.584" ypos="653.143" zpos="17.3807" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_startsign" GUID="VQu7KWyCLEajTgK4mxPPoA=="/>
+		<POI MapID="1165" xpos="162.219" ypos="768.636" zpos="6.90606" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_teleport03" GUID="5+uBIm6aEESkddgghfiq8w=="/>
+		<POI MapID="1195" xpos="406.924" ypos="410.801" zpos="-313.544" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_startsign" GUID="Xyv/CC0qkEuLH7ElcDSgJQ=="/>
+		<POI MapID="1195" xpos="533.492" ypos="105.103" zpos="-468.967" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_signs.st_gatheringnodes_cluster_flax_signs_finish" GUID="C+RJVZxrA0a3u5Yx0oHcPA=="/>
+		
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_toggletrails.st_gatheringnodes_cluster_flax_toggletrails_toggletrail03" GUID="nPQS464/QEaugCcedk5Udw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_toggletrails_toggletrail03b.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_toggletrails.st_gatheringnodes_cluster_flax_toggletrails_toggletrail05" GUID="YXUrKeCRgUORZYF7oX8p+w==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_toggletrails_toggletrail05.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_toggletrails.st_gatheringnodes_cluster_flax_toggletrails_toggletrail01" GUID="paxY9Lyhcke81kvD5nSdXw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_toggletrails.st_gatheringnodes_cluster_flax_toggletrails_toggletrail02" GUID="f1dCCmU5IEuieooOSkXcZg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_toggletrails.st_gatheringnodes_cluster_flax_toggletrails_toggletrail03" GUID="muvpC8YkCk2g761sHxJXTA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_flax.st_gatheringnodes_cluster_flax_toggletrails.st_gatheringnodes_cluster_flax_toggletrails_toggletrail04" GUID="JvN3uujjnk6wv9OiZHncjA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_toggletrails_toggletrail04.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   GRAPES  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="21" xpos="416.259" ypos="35.0799" zpos="-466.915" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_grapes.st_gatheringnodes_cluster_grapes_signs.st_gatheringnodes_cluster_grapes_signs_startsign" GUID="PQESs7IOokiDUS2org+c/Q=="/>
+		<POI MapID="21" xpos="537.421" ypos="34.1352" zpos="-820.484" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_grapes.st_gatheringnodes_cluster_grapes_signs.st_gatheringnodes_cluster_grapes_signs_teleport01" GUID="UPy8aZoOf0umbscXcc5qtA=="/>
+		<POI MapID="27" xpos="-404.477" ypos="41.5548" zpos="-1186.09" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_grapes.st_gatheringnodes_cluster_grapes_signs.st_gatheringnodes_cluster_grapes_signs_startsign" GUID="Tqy1gKhXT0aPAPSyfLJjnw=="/>
+		<POI MapID="27" xpos="-434.829" ypos="29.4895" zpos="-1040.97" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_grapes.st_gatheringnodes_cluster_grapes_signs.st_gatheringnodes_cluster_grapes_signs_finish" GUID="y7HMIBYsEkSsUUAe7Hqafw=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_grapes.st_gatheringnodes_cluster_grapes_toggletrails.st_gatheringnodes_cluster_grapes_toggletrails_toggletrail01" GUID="lmwK2FPiOUqbdEBNNV9HFQ==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_grapes_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_grapes.st_gatheringnodes_cluster_grapes_toggletrails.st_gatheringnodes_cluster_grapes_toggletrails_toggletrail02" GUID="gREmJCC1OE+I7b2/SfOqqA==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_grapes_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   LETTUCE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="15" xpos="947.382" ypos="20.252" zpos="539.367" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_lettuce.st_gatheringnodes_cluster_lettuce_signs.st_gatheringnodes_cluster_lettuce_signs_startsign" GUID="fZ5P53VJ8kCJ0dPAHxg1JQ=="/>
+		<POI MapID="15" xpos="887.339" ypos="15.9585" zpos="415.076" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_lettuce.st_gatheringnodes_cluster_lettuce_signs.st_gatheringnodes_cluster_lettuce_signs_teleport01" GUID="0sYnkM2HRUGL+REv6T1DwA=="/>
+		<POI MapID="34" xpos="293.978" ypos="8.52715" zpos="1041.89" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_lettuce.st_gatheringnodes_cluster_lettuce_signs.st_gatheringnodes_cluster_lettuce_signs_startsign" GUID="y0Q1AfnHakKIEonrU9sAHA=="/>
+		<POI MapID="34" xpos="168.16" ypos="2.81742" zpos="1105.37" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_lettuce.st_gatheringnodes_cluster_lettuce_signs.st_gatheringnodes_cluster_lettuce_signs_finish" GUID="JYzBejZjl0a/0aLY42saTQ=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_lettuce.st_gatheringnodes_cluster_lettuce_toggletrails.st_gatheringnodes_cluster_lettuce_toggletrails_toggletrail01" GUID="+uOVYc6H4kO1q2eiRtf/mw==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_lettuce_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_lettuce.st_gatheringnodes_cluster_lettuce_toggletrails.st_gatheringnodes_cluster_lettuce_toggletrails_toggletrail02" GUID="hPtBJR1/TkeLWrUpQo7YKw==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_lettuce_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   MUSSELS  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="1052" xpos="749.884" ypos="327.365" zpos="151.676" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport01" GUID="IQ3pSM95dEeHfBSqaIVCIQ=="/>
+		<POI MapID="1052" xpos="935.275" ypos="416.773" zpos="36.8003" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="sEchmK5F+EmDsS3O7oyYkw=="/>
+		<POI MapID="1052" xpos="130.106" ypos="428.043" zpos="-19.4538" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="2mw9QPCbCkKgCpRxXtYtnA=="/>
+		<POI MapID="1052" xpos="66.8904" ypos="342.415" zpos="-252.93" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport02" GUID="mhaS2Ox5FUGceLuOzt97vA=="/>
+		<POI MapID="1052" xpos="-276.148" ypos="543.011" zpos="149.799" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="PPTrPyXKjUW73wQdspORNg=="/>
+		<POI MapID="1052" xpos="-660.235" ypos="449.581" zpos="168.325" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport03" GUID="2YdLN+aXXEisILbY3ZNr4Q=="/>
+		<POI MapID="1043" xpos="62.6842" ypos="330.811" zpos="479.89" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="dOAMpZDFdE+Imi2i19Vu8g=="/>
+		<POI MapID="1043" xpos="272.871" ypos="325.638" zpos="638.136" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport04" GUID="n1bvAC/eZUi/pVnxl3+YEg=="/>
+		<POI MapID="1043" xpos="447.646" ypos="291.51" zpos="70.1765" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="tr7llyBvX0qa26zFZ/JyCg=="/>
+		<POI MapID="1043" xpos="482.623" ypos="246.185" zpos="-187.077" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport05" GUID="9UDIpJ095kSqQw+RO9errg=="/>
+		<POI MapID="1041" xpos="641.5" ypos="71.6013" zpos="772.549" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="P7Y7WSKEpU2TFWC3a9fZ0w=="/>
+		<POI MapID="1041" xpos="496.455" ypos="63.6295" zpos="-169.34" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport06" GUID="nQ6rjtCkwEO5nVHDA/Gdcg=="/>
+		<POI MapID="1165" xpos="-221.923" ypos="760.968" zpos="88.2771" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="4i/PnPvElkm+h8qBOzin9g=="/>
+		<POI MapID="1165" xpos="-229.251" ypos="502.292" zpos="-91.0854" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport07" GUID="r18ai94EJE2v+88umlGC7g=="/>
+		<POI MapID="1210" xpos="-721.479" ypos="1.10445" zpos="-100.647" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="Jz3COerYdEWsZkSRhpPBBA=="/>
+		<POI MapID="1210" xpos="1120.01" ypos="0.0502858" zpos="-519.542" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport13" GUID="GRczPYEM2UGeF6rEjrU/KA=="/>
+		<POI MapID="1210" xpos="706.808" ypos="122.874" zpos="208.529" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="HuIK2lpT6E2MIlSN3uj57A=="/>
+		<POI MapID="1210" xpos="92.4275" ypos="-0.654349" zpos="357.592" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport08" GUID="Jr1WJcP9nUm3LUhmxJpNQg=="/>
+		<POI MapID="1211" xpos="-280.281" ypos="14.7437" zpos="-528.961" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="bVxCUu4y2Eme1yKJYpe+tg=="/>
+		<POI MapID="1211" xpos="-1029.54" ypos="-0.0411431" zpos="-521.011" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport09" GUID="nanMbW0WlEagoe6y06eTmg=="/>
+		<POI MapID="1226" xpos="23.2189" ypos="0.244957" zpos="1434.72" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="iOCKf1E65UmIJgjRTBX9+Q=="/>
+		<POI MapID="1226" xpos="-533.725" ypos="-19.5936" zpos="1197.85" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport09" GUID="VdH+OIdIC0qfkVIm8jcR7g=="/>
+		<POI MapID="1226" xpos="44.0797" ypos="0.948014" zpos="1437.32" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="ZiXmLR+edECJoZC7YGG+gA=="/>
+		<POI MapID="1226" xpos="1030.61" ypos="-0.649686" zpos="1406.72" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport10" GUID="TFeKWpSkxUi3m0i3hvoSJA=="/>
+		<POI MapID="1288" xpos="-553.805" ypos="19.687" zpos="244.829" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="oiyamwOyQEmJjKMH4Jk+XQ=="/>
+		<POI MapID="1288" xpos="225.616" ypos="-2.68444" zpos="-430.914" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport11" GUID="A1salB9ZO0qfrGCbnw/7nw=="/>
+		<POI MapID="1288" xpos="200.79" ypos="49.9824" zpos="446.223" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="tI3Y6i/EwEOfr7JS6WJq8Q=="/>
+		<POI MapID="1288" xpos="-953.758" ypos="-309.302" zpos="914.924" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_teleport12" GUID="pZwtLolxq0GVKsl61owj7A=="/>
+		<POI MapID="1301" xpos="568.434" ypos="140.583" zpos="927.047" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_startsign" GUID="Ncc5Jj0Be0az90aneUhx2Q=="/>
+		<POI MapID="1301" xpos="756.077" ypos="-0.343444" zpos="-140.752" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_signs.st_gatheringnodes_cluster_mussels_signs_finish" GUID="Voam9SLgt0eRNXl3zCeDzQ=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail01" GUID="BM+KVcmK+EW47QDaBspMSg==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail02" GUID="d4qH34YG8kOaLCygJG58og==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail03" GUID="Fl55gUn4x0CeLTF6KQ49cQ==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail04" GUID="deTQHo5X1E6PqxY+FvMgLg==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail04.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail05" GUID="EaDKbZhapkGXV9UYiC00tA==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail05.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail06" GUID="LiAJcxi1K0mfATSInTMaJw==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail06.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail07" GUID="N/zHMEyDx0SDJztQiUAh/A==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail07.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail08" GUID="umKxdLA7gEaheGCzMv5HNA==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail08.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mussels.st_gatheringnodes_cluster_mussels_toggletrails.st_gatheringnodes_cluster_mussels_toggletrails_toggletrail09" GUID="VbZXynsT30usoxEH+hdurw==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_toggletrails_toggletrail09.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   POTATOES  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="19" xpos="765.301" ypos="2.89175" zpos="-457.473" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_signs.st_gatheringnodes_cluster_potatoes_signs_startsign" GUID="bFJmhmfbXEaB5SJKdsbzhA=="/>
+		<POI MapID="19" xpos="744.214" ypos="18.755" zpos="-541.996" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_signs.st_gatheringnodes_cluster_potatoes_signs_teleport01" GUID="PjculzJY4kaSFDeFeT5w/A=="/>
+		<POI MapID="35" xpos="469.287" ypos="16.3981" zpos="-494.276" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_signs.st_gatheringnodes_cluster_potatoes_signs_startsign" GUID="13XonG1DmUCPeiXcvKDieQ=="/>
+		<POI MapID="35" xpos="400.416" ypos="47.6063" zpos="-395.376" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_signs.st_gatheringnodes_cluster_potatoes_signs_teleport02" GUID="VVOuv5wmD0W+evVnVekipA=="/>
+		<POI MapID="1210" xpos="694.798" ypos="122.757" zpos="206.964" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_signs.st_gatheringnodes_cluster_potatoes_signs_startsign" GUID="jfDXhE/vCUSR4bz49FrScw=="/>
+		<POI MapID="1210" xpos="151.118" ypos="103.19" zpos="-81.1302" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_signs.st_gatheringnodes_cluster_potatoes_signs_finish" GUID="G+OZxEZx+k25URiiOG9Ecw=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_toggletrails.st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail01" GUID="XNmklMhNgUCgPqSKEsV/bQ==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_toggletrails.st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail02" GUID="+0HH5FuOMEq3wneMFjXhCw==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_toggletrails.st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail03" GUID="01m488NjUkC9UFACXkbp9w==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_potatoes.st_gatheringnodes_cluster_potatoes_toggletrails.st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail04" GUID="x6isO0BsA0OYM9WHQoiyhw==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_toggletrails_toggletrail04.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   SEAWEED  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="1175" xpos="-189.525" ypos="20.0158" zpos="-606.243" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_seaweed.st_gatheringnodes_cluster_seaweed_signs.st_gatheringnodes_cluster_seaweed_signs_startsign" GUID="5wnhxooQDUiGujjMtwKY+g=="/>
+		<POI MapID="1175" xpos="-92.8396" ypos="-74.4191" zpos="-915.367" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_seaweed.st_gatheringnodes_cluster_seaweed_signs.st_gatheringnodes_cluster_seaweed_signs_finish" GUID="tj9oeiEqLEemR3On5KioCw=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_seaweed.st_gatheringnodes_cluster_seaweed_toggletrails.st_gatheringnodes_cluster_seaweed_toggletrails_toggletrail01" GUID="Mzw9mZVDkUWAHo4e0KQpAg==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/st_gatheringnodes_cluster_seaweed_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   SPINACH  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="24" xpos="173.418" ypos="8.69328" zpos="506.343" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_spinach.st_gatheringnodes_cluster_spinach_signs.st_gatheringnodes_cluster_spinach_signs_startsign" GUID="RqopwHAeEkGBktaqVZfwlg=="/>
+		<POI MapID="24" xpos="-52.4042" ypos="38.7934" zpos="564.793" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_spinach.st_gatheringnodes_cluster_spinach_signs.st_gatheringnodes_cluster_spinach_signs_teleport01" GUID="uXyEFAW6+kyDIZn/OWZhJw=="/>
+		<POI MapID="54" xpos="922.544" ypos="31.6847" zpos="-264.054" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_spinach.st_gatheringnodes_cluster_spinach_signs.st_gatheringnodes_cluster_spinach_signs_startsign" GUID="sEOAuDezikSzxPF5AG2tOA=="/>
+		<POI MapID="54" xpos="997.545" ypos="126.15" zpos="-733.926" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_spinach.st_gatheringnodes_cluster_spinach_signs.st_gatheringnodes_cluster_spinach_signs_finish" GUID="fTP51dPyhkCb18dr1qBLQA=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_spinach.st_gatheringnodes_cluster_spinach_toggletrails.st_gatheringnodes_cluster_spinach_toggletrails_toggletrail01" GUID="hqPYjkoEc0af8nNY/IBs0g==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_spinach_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_spinach.st_gatheringnodes_cluster_spinach_toggletrails.st_gatheringnodes_cluster_spinach_toggletrails_toggletrail02" GUID="WuoDvIXC60StlL627xIA9Q==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_spinach_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   STRAWBERRY  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="32" xpos="-721.855" ypos="31.1861" zpos="-540.111" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_startsign" GUID="tTX33Pm73E6QpKITwvTdnA=="/>
+		<POI MapID="32" xpos="-1045.63" ypos="68.3687" zpos="-621.158" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_teleport01" GUID="10D6rnH8dUuLnkONHDth1Q=="/>
+		<POI MapID="31" xpos="907.458" ypos="90.4464" zpos="-263.403" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_startsign" GUID="EHMN8ofc70mAqp/nYbOWlg=="/>
+		<POI MapID="31" xpos="758.095" ypos="113.064" zpos="-445.327" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_teleport02" GUID="+ZVi4yXZr0KQujCB1028Ww=="/>
+		<POI MapID="23" xpos="840.201" ypos="81.8338" zpos="-285.579" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_startsign" GUID="E7NDGfj3u0iae0Sl1HHnTA=="/>
+		<POI MapID="23" xpos="1103.86" ypos="50.2186" zpos="-452.353" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_teleport03" GUID="cNBzuh8kSUquvt19co0EJQ=="/>
+		<POI MapID="1211" xpos="-284.731" ypos="14.9333" zpos="-518.145" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_startsign" GUID="rBu0Tsu2NUu5sdEiSyW0qA=="/>
+		<POI MapID="1211" xpos="-417.201" ypos="85.7196" zpos="-173.102" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_signs.st_gatheringnodes_cluster_strawberries_signs_finish" GUID="cDi2bt3pNEqzYfll2wKWIg=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_toggletrails.st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail01" GUID="OtL0SYZKfEKQJnEPwwfrCA==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_toggletrails.st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail02" GUID="b8VC5H7pBku7sE83ET4R1A==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_toggletrails.st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail03" GUID="MEBZip0W7UCj+6/biL0NpQ==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_strawberries.st_gatheringnodes_cluster_strawberries_toggletrails.st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail04" GUID="o05dfZ0R+kOQEr/a/CyxnQ==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_toggletrails_toggletrail04.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   SUGAR PUMPKINS  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="25" xpos="-535.04" ypos="16.9285" zpos="430.577" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_sugarpumpkins.st_gatheringnodes_cluster_sugarpumpkins_signs.st_gatheringnodes_cluster_sugarpumpkins_signs_startsign" GUID="hzWiJ9D1n0GowJYeFnCSsg=="/>
+		<POI MapID="25" xpos="-396.221" ypos="33.115" zpos="712.906" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_sugarpumpkins.st_gatheringnodes_cluster_sugarpumpkins_signs.st_gatheringnodes_cluster_sugarpumpkins_signs_teleport01" GUID="GeS7dC04iEWQSjBfmYwG+w=="/>
+		<POI MapID="73" xpos="510.317" ypos="1.20742" zpos="308.074" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_sugarpumpkins.st_gatheringnodes_cluster_sugarpumpkins_signs.st_gatheringnodes_cluster_sugarpumpkins_signs_startsign" GUID="BXHPXJJE9kOeMzttMhHbvA=="/>
+		<POI MapID="73" xpos="617.755" ypos="68.9782" zpos="14.8892" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_sugarpumpkins.st_gatheringnodes_cluster_sugarpumpkins_signs.st_gatheringnodes_cluster_sugarpumpkins_signs_finish" GUID="OwXejxr3v02BYROPcOeV2A=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_sugarpumpkins.st_gatheringnodes_cluster_sugarpumpkins_toggletrails.st_gatheringnodes_cluster_sugarpumpkins_toggletrails_toggletrail01" GUID="DjGrTqladUWbLXRRHGhMSg==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_sugarpumpkins_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_sugarpumpkins.st_gatheringnodes_cluster_sugarpumpkins_toggletrails.st_gatheringnodes_cluster_sugarpumpkins_toggletrails_toggletrail02" GUID="/iPH5FtaU0uS7gZ+dPfxRA==" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_sugarpumpkins_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   MIXED  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="988" xpos="-449.956" ypos="78.1453" zpos="-257.571" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mixed.st_gatheringnodes_cluster_mixed_signs.st_gatheringnodes_cluster_mixed_signs_startsign" GUID="4p8cMuxMuE6uphdK5Anbug=="/>
+		<POI MapID="1271" xpos="8.34086" ypos="34.7499" zpos="567.787" type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mixed.st_gatheringnodes_cluster_mixed_signs.st_gatheringnodes_cluster_mixed_signs_finish" GUID="/L/6rM1Ln06kt+s8TjMfzw=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mixed.st_gatheringnodes_cluster_mixed_toggletrails.st_gatheringnodes_cluster_mixed_toggletrails_toggletrail01" GUID="8jI91B2HmEKfGAbxY06x4Q==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mixed.st_gatheringnodes_cluster_mixed_toggletrails.st_gatheringnodes_cluster_mixed_toggletrails_toggletrail02" GUID="/shlOdVrsU+ESSH59eSlVA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_cluster.st_gatheringnodes_cluster_mixed.st_gatheringnodes_cluster_mixed_toggletrails.st_gatheringnodes_cluster_mixed_toggletrails_toggletrail03" GUID="+MWAIh+ybkGjV8ULo8gCgw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_toggletrails_toggletrail03.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   NEW POIs  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		
+
+
+
+		
+	</POIs>
+</OverlayData>

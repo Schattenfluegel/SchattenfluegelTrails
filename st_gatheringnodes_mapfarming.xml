@@ -1,0 +1,53 @@
+<OverlayData>
+<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
+	<!-- <MarkerCategory name="st_gatheringnodes" DisplayName="Gathering Nodes"> -->
+		<MarkerCategory name="st_gatheringnodes_mapfarming" DisplayName="Mapfarming">
+			<MarkerCategory name="st_gatheringnodes_mapfarming_ore" IsSeparator="1" DisplayName="_____ Erz ______"/>
+			<MarkerCategory name="st_gatheringnodes_mapfarming_wood" IsSeparator="1" DisplayName="_____ Holz _____"/>
+			<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood" DisplayName="Altes Holz">
+				<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_node" DisplayName="Toggle Nodes" iconFile="Data/SchattenfluegelTrails/st_gatheringnodes_mapfarming_elderwood_signs_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="1"/>
+				<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails" DisplayName="Toggle Routes">
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_header"  IsSeparator="1" DisplayName="Map (WP) [Mögl. Spawns || ~Mats/Run || ~Dauer > Mats/Min."/>
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail01" DisplayName="Meerenge der Verwüstung (??) [?? || ~?? || ~??:?? > ??]" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail02" DisplayName="Malchors Sprung (??) [?? || ~?? || ~??:?? > ??]" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail03" DisplayName="Fluchküste (??) [?? || ~?? || ~??:?? > ??]" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail04" DisplayName="Zaubersängerlände (??) [?? || ~?? || ~??:?? > ??]" />
+				</MarkerCategory>
+				<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_signs" DisplayName="Toggle Signs">
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_signs_startsign" DisplayName="Toggle Starting Sign" iconFile="Data/SchattenfluegelTrails/st_gatheringnodes_mapfarming_elderwood_signs_startsign.png" iconSize="2" heightOffset="2.5" fadeNear="5000" fadeFar="5100"/>
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_signs_finish" DisplayName="Toggle Finish Sign" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+				</MarkerCategory>    
+			</MarkerCategory>
+			<MarkerCategory name="st_gatheringnodes_mapfarming_plants" IsSeparator="1" DisplayName="___ Pflanzen __"/>
+			<MarkerCategory name="st_gatheringnodes_mapfarming_error" DisplayName="Debugger (Gathering Mapfarming)" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/> <!--fadeNear="3500" fadeFar="3600"-->
+		</MarkerCategory>
+	<!-- </MarkerCategory>-->
+</MarkerCategory>
+	<POIs>
+		
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   ELDERWOOD NODES  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<POI MapID="65" xpos="843.762" ypos="64.7273" zpos="-449.952" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_startsign" GUID="JfByrihBKk26mZnDUzJDig=="/>
+		<POI MapID="1203" xpos="481.703" ypos="3.26535" zpos="-116.785" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_startsign" GUID="1ms85+9u5EC+mgeeDIdqHg=="/>
+		<POI MapID="1203" xpos="-305.465" ypos="95.0815" zpos="184.082" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_finish" GUID="I7ibQYebf0OPa/jpqByzKA=="/>
+		<POI MapID="65" xpos="1034.48" ypos="30.2748" zpos="-361.217" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_startsign" GUID="r60vmxLbSUuy5DRNopyCHg=="/>
+		<POI MapID="1203" xpos="429.942" ypos="7.85038" zpos="-217.128" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_startsign" GUID="2crEczaZpUSG3628zsNt+A=="/>
+		<POI MapID="51" xpos="514.208" ypos="71.0063" zpos="724.005" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_startsign" GUID="kjmVSrp1PEOtcNUy0s2YUA=="/>
+		<POI MapID="51" xpos="-897.229" ypos="40.1766" zpos="-465.292" type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_signs.st_gatheringnodes_mapfarming_elderwood_signs_finish" GUID="hKaKeu+ta0ulojHNQ+ZnNg=="/>
+
+		<Trail type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_toggletrails.st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail01" GUID="avDhyE7ZdUKNs1eokqAcKw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Mapfarming/st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail01.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_toggletrails.st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail02" GUID="F1/CamDDEUux8fgR2Ok3lg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Mapfarming/st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail02.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_toggletrails.st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail03" GUID="UE08r/bj3kWVThxI+zn3kw==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Mapfarming/st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail03.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_gatheringnodes_mapfarming.st_gatheringnodes_mapfarming_elderwood.st_gatheringnodes_mapfarming_elderwood_toggletrails.st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail04" GUID="htqkjn5ilEO2filI721GSQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Mapfarming/st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail04.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+	
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~   NEW POIs  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		
+
+
+
+		
+	</POIs>
+</OverlayData>
