@@ -5484,6 +5484,15 @@
 		<POI MapID="24" xpos="627.411" ypos="23.4816" zpos="-554.145" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="ZT4fSXBYf0azRSEJtaXw4A=="/>
 		<POI MapID="35" xpos="677.835" ypos="33.0007" zpos="-77.7177" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="Ppu2FsWe70WMhDupLCVNlQ=="/>
 		<POI MapID="35" xpos="569.854" ypos="557.564" zpos="746.051" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_finish" GUID="TOKx3eSbFkeUPQwoDKl9qg=="/>
+		<POI MapID="39" xpos="1071.65" ypos="19.3826" zpos="503.381" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="hFZ226VhK0yKNh0yD8MRUg=="/>
+		<POI MapID="39" xpos="1056.21" ypos="63.4459" zpos="507.451" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_finish" GUID="wzGGnL/DBkWN4oQbPoY+fg=="/>
+		<POI MapID="865" xpos="136.65" ypos="25.7618" zpos="10.3949" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="gvteOz1kV0uEiFq2Us+tKw=="/>
+		<POI MapID="865" xpos="156.895" ypos="128.69" zpos="-18.7633" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_finish" GUID="kIYFF56e0U6/Oqp+f0FDJQ=="/>
+		<POI MapID="32" xpos="552.129" ypos="29.2107" zpos="-367.222" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="Y3YSjmZo20aVFno/+CwQpw=="/>
+		<POI MapID="32" xpos="465.641" ypos="67.4204" zpos="-380.464" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_finish" GUID="HokyP+Wla0yeG3zUxE5LjQ=="/>
+		<POI MapID="53" xpos="752.667" ypos="29.4718" zpos="-852.134" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_finish" GUID="tI+VBUChd0mEeDD+LgusIg=="/>
+		<POI MapID="899" xpos="672.9" ypos="7.31407" zpos="338.678" type="st_guides.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="De5f7qfQuUqtfOITHI1qTg=="/>
+
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		~~~ New POIs ############################################################################ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

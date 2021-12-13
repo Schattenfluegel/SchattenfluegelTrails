@@ -241,6 +241,14 @@
 		<POI MapID="19" xpos="-820.427" ypos="56.8712" zpos="-481.895" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="kdNwaW+co0Cz+ekqwsFPdA=="/>
 		<POI MapID="15" xpos="670.213" ypos="43.6892" zpos="-507.98" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="FK6WThi4wUOjxI6sxgT9nw=="/>
 		<POI MapID="35" xpos="603.634" ypos="28.1457" zpos="2.9387" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="5M7zNka+LE+KVCGlNmqDug=="/>
+		<POI MapID="35" xpos="-420.689" ypos="36.3019" zpos="-557.791" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="lRgPo3U73keWjXX/2EqBIw=="/>
+		<POI MapID="35" xpos="-336.126" ypos="26.9735" zpos="-515.371" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="nwsa6QLmaEKLyxUnUW/R3A=="/>
+		<POI MapID="35" xpos="229.745" ypos="4.32434" zpos="-46.2234" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="JSLN74UV3ESyh/OXkezRyw=="/>
+		<POI MapID="35" xpos="166.028" ypos="4.47086" zpos="8.90004" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="s5mVAU1dLESTscEwOf7XEg=="/>
+		<POI MapID="35" xpos="223.084" ypos="13.3477" zpos="33.434" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="Z9UlU4yJDE+75gqNnCe5FA=="/>
+		<POI MapID="35" xpos="-146.012" ypos="13.1558" zpos="775.806" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="NQ4ysvx4v0KV2t8EqR8loQ=="/>
+		<POI MapID="23" xpos="995.104" ypos="5.44995" zpos="515.791" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="nrtOCNefCEihj9HIVRodcA=="/>
+		<POI MapID="19" xpos="-182.494" ypos="57.6354" zpos="401.189" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="JreZEZV6tUabAETZN9zqfA=="/>
 
 
 		<!-- SOFT -->
@@ -378,6 +386,14 @@
 		<POI MapID="32" xpos="-830.684" ypos="43.9199" zpos="-197.857" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="b8Iyy7tVxUyYM3gRZeph6Q=="/>
 		<POI MapID="32" xpos="-826.414" ypos="48.9352" zpos="-123.078" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="nNUANtmcW0iIxy7u9CR4uA=="/>
 		<POI MapID="23" xpos="728.002" ypos="84.7555" zpos="-314.917" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="ysoOy7FKcUm2UcNYorWPew=="/>
+		<POI MapID="27" xpos="-94.2756" ypos="69.9539" zpos="-351.238" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="I20UwIj4rUa+g3kcDbw0Mg=="/>
+		<POI MapID="27" xpos="-160.925" ypos="73.4558" zpos="-317.763" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="FrWsPlxNukGHtHHthPekKg=="/>
+		<POI MapID="32" xpos="295.661" ypos="22.6376" zpos="-446.546" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="x8ffOrEw20WyNZ4ChilVnA=="/>
+		<POI MapID="21" xpos="542.433" ypos="33.4705" zpos="-518.793" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="T29uMtp9uEuwIh/FY4nmFQ=="/>
+		<POI MapID="21" xpos="125.558" ypos="32.7009" zpos="-595.13" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="B3TZM6xlUkyHZlzNRZCfAw=="/>
+		<POI MapID="21" xpos="68.8769" ypos="16.2751" zpos="-671.437" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="FZp7tXiCY0qG8iivrzsyWA=="/>
+		<POI MapID="21" xpos="76.1838" ypos="13.8453" zpos="-656.739" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="yH0/Yb31w0ejXTugOmzD+Q=="/>
+		<POI MapID="21" xpos="270.139" ypos="41.6976" zpos="-332.881" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_soft" GUID="hEV8uQ5pxkK16/wfscRYMA=="/>
 
 
 		<!-- SEASONED -->
@@ -460,6 +476,15 @@
 		<POI MapID="17" xpos="-519.591" ypos="30.6434" zpos="636.213" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="Ba6gZVcFsEucTrPS/+twAw=="/>
 		<POI MapID="20" xpos="345.035" ypos="20.3807" zpos="749.363" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="ol2D30BZSkuphSaYlhnosw=="/>
 		<POI MapID="20" xpos="95.2598" ypos="22.6131" zpos="772.547" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="6YlDqUEThEGOW1e1im61lQ=="/>
+		<POI MapID="26" xpos="-461.139" ypos="5.43097" zpos="638.868" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="iHxymGqCX0Ga4R2qySV+tA=="/>
+		<POI MapID="26" xpos="-294.442" ypos="61.1926" zpos="354.937" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="ChFkdRSyIkOTJM13merDfw=="/>
+		<POI MapID="26" xpos="510.206" ypos="84.4342" zpos="-342.119" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="93lKuALdLU+u74aq+/MpYw=="/>
+		<POI MapID="17" xpos="-427.043" ypos="31.9946" zpos="-132.267" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="GP55khf930SetTsFYpdn+A=="/>
+		<POI MapID="17" xpos="-391.116" ypos="30.719" zpos="-150.739" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="y4LCI1tVcECUKtr7od72yQ=="/>
+		<POI MapID="17" xpos="-468.139" ypos="37.4431" zpos="-104.665" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="dMQA8f6FVE6Zs/eFd6El5Q=="/>
+		<POI MapID="26" xpos="103.449" ypos="55.6642" zpos="-594.71" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="NVhPtXarckO4GpV8JY47Qw=="/>
+		<POI MapID="26" xpos="377.446" ypos="89.1075" zpos="-348.682" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="CDv+vcOTEky+lvZYGfHaJw=="/>
+		<POI MapID="26" xpos="359.442" ypos="84.7213" zpos="-333.415" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_seasoned" GUID="dQMoqwcql0inRZrud++lSg=="/>
 
 		
 		<!-- HARD -->
@@ -550,6 +575,79 @@
 		<POI MapID="29" xpos="368.36" ypos="3.81736" zpos="251.445" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="VQ/VJp0dwUutHXXJm7eBJg=="/>
 		<POI MapID="53" xpos="608.259" ypos="34.3989" zpos="-683.472" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="r7/1hKW25EeRDyIhyGt3OQ=="/>
 		<POI MapID="25" xpos="533.66" ypos="8.13193" zpos="-671.524" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="jTIsWB9DwE2GXzZ8T+vCjQ=="/>
+		<POI MapID="73" xpos="496.443" ypos="11.0774" zpos="-766.91" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="UMgoEA37OUKyFia24qgCMw=="/>
+		<POI MapID="73" xpos="618.984" ypos="3.436" zpos="-584.557" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="lqmHA7gyMESLUS7UfFLwSg=="/>
+		<POI MapID="39" xpos="259.428" ypos="5.60765" zpos="185.281" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="codkk66zzUa8x+vCYBT7yA=="/>
+		<POI MapID="39" xpos="286.237" ypos="4.20328" zpos="193.663" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="df2Y9HZo5kuHh2WmITu/lw=="/>
+		<POI MapID="39" xpos="325.652" ypos="1.21228" zpos="194.254" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="V2huBtyFvU6TmmscOgdORg=="/>
+		<POI MapID="39" xpos="575.817" ypos="15.6469" zpos="-485.242" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="HgKUuEVRjU6jSLWxn0eWyw=="/>
+		<POI MapID="53" xpos="534.135" ypos="6.60723" zpos="858.371" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="lQWTI79caUCFHsGnqhsMJQ=="/>
+		<POI MapID="53" xpos="-129.515" ypos="23.8928" zpos="433.098" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="nydJnamcLkGgLzFjtweTuQ=="/>
+		<POI MapID="53" xpos="-89.8724" ypos="10.1988" zpos="246.865" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="DzoNG29haEG1Ia4NNR6T9g=="/>
+		<POI MapID="53" xpos="121.125" ypos="11.9444" zpos="-48.3481" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="wUYqDyOLRU+jbbesDRnNvA=="/>
+		<POI MapID="53" xpos="-47.6857" ypos="18.0866" zpos="-137.632" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="41EDVhZvxU67AwAXGpEvUg=="/>
+		<POI MapID="53" xpos="-222.722" ypos="31.2207" zpos="-411.614" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="iuNWClzTbEWo5+KonWrpDw=="/>
+		<POI MapID="53" xpos="-249.611" ypos="31.3162" zpos="-445.841" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="vN3xL0/ghU+G4xWx2d4w4Q=="/>
+		<POI MapID="53" xpos="140.015" ypos="7.75959" zpos="-345.542" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="DsQ0DVyBDEmnYmQhRV8vjw=="/>
+		<POI MapID="53" xpos="249.633" ypos="7.87884" zpos="-322.905" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="e3xGcNBUKEyU/qQdxuQ+6Q=="/>
+		<POI MapID="53" xpos="394.909" ypos="20.9013" zpos="-184.348" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="398WvHStp0CiBV/t7HswkQ=="/>
+		<POI MapID="53" xpos="528.056" ypos="27.4422" zpos="-74.5377" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="Fknx87A0k0qPVgdNcGGlTQ=="/>
+		<POI MapID="53" xpos="461.782" ypos="39.4864" zpos="-58.1095" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="49fG3fRv006Aa4vVHlS1Lg=="/>
+		<POI MapID="53" xpos="623.718" ypos="70.918" zpos="56.1586" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="wvCpPjOsOkWppT3WeHMpLg=="/>
+		<POI MapID="53" xpos="430.605" ypos="7.1678" zpos="-368.825" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="fEF1yVm9bUyv6A/UoOdIRg=="/>
+		<POI MapID="53" xpos="404.085" ypos="2.85419" zpos="-483.277" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="DaqCqWd3NEy41e6rm2x4DQ=="/>
+		<POI MapID="53" xpos="406.689" ypos="5.56263" zpos="-563.219" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="M6J7di0DxUG8pe+ztWBVyA=="/>
+		<POI MapID="53" xpos="353.55" ypos="7.20777" zpos="-549.961" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="dWSqjK/ozE6iHKHYMIJbNA=="/>
+		<POI MapID="53" xpos="403.542" ypos="4.37468" zpos="-779.916" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="RTuFc7CaG02H/V5a9WAAeg=="/>
+		<POI MapID="53" xpos="361.057" ypos="11.7496" zpos="-797.953" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="8HUL9nS2KkC6nXs2c4QTzQ=="/>
+		<POI MapID="53" xpos="369.143" ypos="30.5565" zpos="-852.086" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="VEuG0d/qv0mBtSV2wrbyEA=="/>
+		<POI MapID="53" xpos="111.728" ypos="1.13146" zpos="-681.074" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="LTgIYBk9B06buWOTRwUGwA=="/>
+		<POI MapID="53" xpos="-557.26" ypos="1.45929" zpos="24.018" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="Hho+WNVYdUKXdxKbO9rg1w=="/>
+		<POI MapID="53" xpos="-487.763" ypos="24.9478" zpos="257.908" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="UxwlrQC/ZE66o/Gl8meoZA=="/>
+		<POI MapID="53" xpos="-404.414" ypos="26.4888" zpos="345.304" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="TvYckNHbm0KkTj4AnG6a0Q=="/>
+		<POI MapID="53" xpos="-398.065" ypos="30.6127" zpos="273.448" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="e/w+nVYZIkSPVoe44uvGXw=="/>
+		<POI MapID="53" xpos="-311.024" ypos="34.0073" zpos="259.344" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="wII8E9LiuEKwiS0uLMCp4A=="/>
+		<POI MapID="53" xpos="-380.151" ypos="32.7478" zpos="230.29" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="GVESlFdYYk2VKtXLhdnfFg=="/>
+		<POI MapID="53" xpos="-345.025" ypos="22.8958" zpos="545.465" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="/t4iMkk/2kqBU2t74XBljw=="/>
+		<POI MapID="53" xpos="-506.164" ypos="44.913" zpos="615.762" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="tr0ugKSFfE2bhePqmp+Brg=="/>
+		<POI MapID="53" xpos="-358.679" ypos="5.0019" zpos="743.04" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="vg3RUeCO9EOgHTYooCEVIA=="/>
+		<POI MapID="22" xpos="229.487" ypos="6.2732" zpos="-539.939" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="7VoqInV7tUOeZ3xXRpw12g=="/>
+		<POI MapID="22" xpos="-173.842" ypos="19.1535" zpos="-341.231" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="es9kJTLPqU6DicLdpmV79Q=="/>
+		<POI MapID="22" xpos="-74.8309" ypos="27.944" zpos="-249.535" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="pP/4XMagKUaJeq2PsOukmQ=="/>
+		<POI MapID="22" xpos="9.74974" ypos="43.3069" zpos="-172.136" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="/WdEFKUHUUKnxazsHvKN5g=="/>
+		<POI MapID="22" xpos="74.9344" ypos="34.8087" zpos="-179.156" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="VSoERc3atEm0wHzrR/HL5Q=="/>
+		<POI MapID="22" xpos="117.189" ypos="33.9283" zpos="-189.982" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="yXfFHGPGf02xsQ6qtNBYhg=="/>
+		<POI MapID="22" xpos="-230.656" ypos="80.3178" zpos="289.028" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="e5XvUjVkBU+KNcd4tU4XwA=="/>
+		<POI MapID="22" xpos="-446.818" ypos="34.92" zpos="11.6158" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="fDrCL7jtnUOxOHqtq0RNMw=="/>
+		<POI MapID="39" xpos="-973.915" ypos="62.2653" zpos="602.948" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="QSq3lmDYDUuG53CQyH8iFw=="/>
+		<POI MapID="39" xpos="-869.507" ypos="75.1009" zpos="540.634" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="mODxu7p/8EemVG5mHhQi0g=="/>
+		<POI MapID="39" xpos="-975.181" ypos="16.5598" zpos="244.304" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="AM3TnAHsQE22oXfO1qCVKA=="/>
+		<POI MapID="39" xpos="-965.304" ypos="16.2782" zpos="156.243" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="1o29w5lybE6WV1F/70j51g=="/>
+		<POI MapID="39" xpos="-965.801" ypos="20.2805" zpos="121.667" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="qe3Wl7kmAkitgzsR5aoZ8w=="/>
+		<POI MapID="39" xpos="-989.012" ypos="13.9517" zpos="298.555" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="kqShWCvA406ZxI/INIF9vA=="/>
+		<POI MapID="39" xpos="-1043.74" ypos="34.6847" zpos="165.344" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="K6tSnMIJ80+KtZjN8SplFA=="/>
+		<POI MapID="39" xpos="-951.994" ypos="27.9895" zpos="-572.702" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="TjwLWyKdik2xX+m3ZPKtIw=="/>
+		<POI MapID="39" xpos="-927.966" ypos="0.26985" zpos="-503.434" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="M2kJ9HBzWkODCJdWIQ5XWw=="/>
+		<POI MapID="39" xpos="-889.637" ypos="0.34182" zpos="-474.674" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="/lcdAA455U+DW1l+FJRk5A=="/>
+		<POI MapID="39" xpos="-645.1" ypos="63.736" zpos="-521.254" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="kLIxIcMlYEmUeFqSFVJZqw=="/>
+		<POI MapID="39" xpos="-628.438" ypos="65.9678" zpos="-465.854" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="h94xRJUR/U+oRu0B/hF87Q=="/>
+		<POI MapID="39" xpos="576.189" ypos="37.0176" zpos="-616.164" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="OK0YaLZzu0y7CQshS4/MXw=="/>
+		<POI MapID="39" xpos="775.627" ypos="13.6976" zpos="-598.727" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="uUx+0NTua0C0E1E2KX+vBg=="/>
+		<POI MapID="39" xpos="517.72" ypos="8.59785" zpos="256.705" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="JysSk8ohukWCs0qBSDGEsg=="/>
+		<POI MapID="39" xpos="413.16" ypos="37.9807" zpos="453.029" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="vcOaXp/rwEKVBfrlSzdAGw=="/>
+		<POI MapID="39" xpos="431.303" ypos="45.5782" zpos="494.956" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="sExL2bJCVUaxAeXiwMJtGQ=="/>
+		<POI MapID="39" xpos="-89.1033" ypos="0.308607" zpos="597.975" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="TYjS+OJqIUuGFhgqVAeN8A=="/>
+		<POI MapID="39" xpos="-122.803" ypos="3.37408" zpos="546.225" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="aACe1nIMwUO/auealu1BBA=="/>
+		<POI MapID="39" xpos="-259.367" ypos="18.8859" zpos="614.785" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="VtxMUwNV/kyGRNKrdNcONg=="/>
+		<POI MapID="39" xpos="-440.917" ypos="28.6582" zpos="357.83" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="bv+Oty+B/kCegNINNQdl4Q=="/>
+		<POI MapID="39" xpos="-355.278" ypos="36.0245" zpos="330.621" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="y4n4joJnb0WBvJZa8+bvzQ=="/>
+		<POI MapID="39" xpos="-278.967" ypos="34.7505" zpos="342.721" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="7Vui3svkmUONnDbJsBEa5Q=="/>
+		<POI MapID="53" xpos="-299.548" ypos="1.34246" zpos="-729.162" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="OmPo+wS4C0SQAuFYDeFdlA=="/>
+		<POI MapID="53" xpos="451.196" ypos="24.7597" zpos="-842.279" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="XjLFQjs29EmphM4pU9Y06Q=="/>
+		<POI MapID="53" xpos="304.635" ypos="19.3452" zpos="-821.496" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="SZy9qJHo6UelzUPaRBSI5A=="/>
+		<POI MapID="25" xpos="167.985" ypos="27.6105" zpos="574.134" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="HOEUGinRVkm3HWK3qPE0JQ=="/>
+		<POI MapID="73" xpos="-159.984" ypos="10.1818" zpos="134.286" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="Z+yRVkaqi0KXSVobZQN5jQ=="/>
+		<POI MapID="73" xpos="-307.438" ypos="19.3822" zpos="163.533" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_hard" GUID="hFVpTlHDU0a6kz2KLIxEnQ=="/>
 
 		
 		<!-- ELDER -->
@@ -1798,6 +1896,129 @@
 		<POI MapID="1310" xpos="-132.549" ypos="357.092" zpos="-155.248" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="bHEsJWExBEmdbx53aM9xow=="/>
 		<POI MapID="1310" xpos="90.3724" ypos="189.901" zpos="-342.051" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="oVnI6o1J3UWml0DT64Ta4A=="/>
 		<POI MapID="1310" xpos="288.423" ypos="329.715" zpos="26.099" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="/g6/rUZ9V0W+zj3MNqYNZA=="/>
+		<POI MapID="1317" xpos="-32.2896" ypos="121.836" zpos="564.641" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="lslUyGxvZ0SXeI2iLOkZQQ=="/>
+		<POI MapID="1317" xpos="-588.997" ypos="158.236" zpos="461.408" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="CMocag8zFk+z2Bl6sXF8+w=="/>
+		<POI MapID="1317" xpos="-600.478" ypos="257.121" zpos="491.067" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="1qyT3giRi06Ywz+N82QQUQ=="/>
+		<POI MapID="1317" xpos="-346.615" ypos="172.983" zpos="-619.915" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="fKXbQYwLlE+qP1BZIyOTtA=="/>
+		<POI MapID="1317" xpos="-677.938" ypos="65.8122" zpos="-706.265" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Yf6vk2JvF0CkuTmBYB49WQ=="/>
+		<POI MapID="1317" xpos="-1.02749" ypos="100.58" zpos="-614.225" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="/xTcxTeX1USe1kKxW+h0eA=="/>
+		<POI MapID="1317" xpos="838.737" ypos="98.8327" zpos="-620.859" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="/6JQv2yiRk23q5piKYGGAA=="/>
+		<POI MapID="1317" xpos="-424.243" ypos="117.464" zpos="656.482" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="sjKuFw/9+Uq6ZeIvmGwqYw=="/>
+		<POI MapID="1317" xpos="369.323" ypos="145.961" zpos="-199.314" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="If/VDnUqUUWYtesnAMZRHQ=="/>
+		<POI MapID="1317" xpos="595.506" ypos="170.2" zpos="-312.997" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="sz5VRYmPFU+fSvHkIorj+A=="/>
+		<POI MapID="1330" xpos="-514.487" ypos="35.5321" zpos="312.575" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ELWPJ2olY0qufETUATpPCw=="/>
+		<POI MapID="1330" xpos="107.723" ypos="70.7875" zpos="355.591" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="rqm1qv4U70e9wtsKbzJ3VA=="/>
+		<POI MapID="1330" xpos="27.2375" ypos="41.6321" zpos="220.975" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="XVP707zDfUuY8mcPmARi6w=="/>
+		<POI MapID="1330" xpos="183.316" ypos="17.7621" zpos="-265.484" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="TZmQ9sMUoUmnpEqM8kpfoQ=="/>
+		<POI MapID="1330" xpos="818.281" ypos="5.9473" zpos="490.944" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="DL+YFAgW/UiXeNhfAtbxDw=="/>
+		<POI MapID="1330" xpos="196.828" ypos="76.5003" zpos="153.685" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="x30ie2I8ekix7f8GRQZZcQ=="/>
+		<POI MapID="1343" xpos="337.124" ypos="139.215" zpos="-196.114" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="CdcrI4g9q0m9RAEH9ftOTQ=="/>
+		<POI MapID="1343" xpos="459.116" ypos="140.811" zpos="-273.146" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="3zx5piMRR0ajV0qZ8nPt5Q=="/>
+		<POI MapID="1343" xpos="445.979" ypos="151.674" zpos="105.994" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="uTbnoczNNEC/tomqfNjl7g=="/>
+		<POI MapID="1343" xpos="708.296" ypos="106.378" zpos="-28.3821" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="EeyJdlQf9kW36UAwlW5B8A=="/>
+		<POI MapID="1343" xpos="-61.9386" ypos="261.13" zpos="-259.154" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="zinJpac0yUqj/xXmLtlKbA=="/>
+		<POI MapID="1343" xpos="-490.714" ypos="175.775" zpos="-357.475" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="4cHHfSluKkymsT+UgYNS+g=="/>
+		<POI MapID="1343" xpos="-286.735" ypos="192.285" zpos="255.155" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="L+Cnr0Q+vkaxWveJPVUg6A=="/>
+		<POI MapID="1343" xpos="774.52" ypos="103.184" zpos="-117.081" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="LzAIo2NFjEGEv4NV9FTM7g=="/>
+		<POI MapID="1343" xpos="975.677" ypos="63.6801" zpos="31.8649" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="vpgB8CewkUCBWvzc/0EwKw=="/>
+		<POI MapID="1343" xpos="865.641" ypos="112.149" zpos="195.434" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="firMB1F0c0mQo4qr9GQzEw=="/>
+		<POI MapID="1343" xpos="758.594" ypos="126.89" zpos="427.99" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ROhuMIpg3Eu81iTxOzuOVQ=="/>
+		<POI MapID="1343" xpos="660.4" ypos="131.781" zpos="206.228" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="QemQR86TEUaeseRvdVszow=="/>
+		<POI MapID="62" xpos="248.7" ypos="2.1567" zpos="-1005.6" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="iNxFSP05QUGlO42iB81x7Q=="/>
+		<POI MapID="1045" xpos="738.02" ypos="238.183" zpos="-382.871" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="mXjbteVbWkyKKo64cg3m4g=="/>
+		<POI MapID="1045" xpos="808.513" ypos="262.152" zpos="-412.622" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="9aeVKxqjWk6XyxQGVMv7pQ=="/>
+		<POI MapID="1045" xpos="740.401" ypos="308.217" zpos="-556.035" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="2CGq1e6siUOaJq2NjTqm1w=="/>
+		<POI MapID="1045" xpos="-249.225" ypos="225.734" zpos="-147.471" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="vdqScLfBU0qWsFNy0axOTA=="/>
+		<POI MapID="1263" xpos="344.198" ypos="23.6704" zpos="283.176" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="4tCKR9Wd3UeU9sxpG7y6Pw=="/>
+		<POI MapID="1263" xpos="-861.003" ypos="73.8446" zpos="27.2215" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="+2ZtkRdP80upDVIFc+QgkQ=="/>
+		<POI MapID="1288" xpos="-474.528" ypos="5.23049" zpos="-139.79" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="FyPaDpGcfUCO42HfZIeTeA=="/>
+		<POI MapID="1165" xpos="-121.688" ypos="546.008" zpos="131.374" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="HddiJgNqZEWUDjhfMWxulA=="/>
+		<POI MapID="1165" xpos="-154.128" ypos="538.025" zpos="81.8406" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="oDW9eR7PeUSDn3E/S+OJqQ=="/>
+		<POI MapID="1165" xpos="-177.071" ypos="507.28" zpos="156.115" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="8PMf2m03OkCZ4yzQkGjp9g=="/>
+		<POI MapID="1165" xpos="-279.208" ypos="505.106" zpos="140.035" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ICeCKTwQb0O9Ps8+aSGn8g=="/>
+		<POI MapID="1165" xpos="-283.493" ypos="503.915" zpos="80.7381" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="n3MHsSxyfEezfpuzBar8hQ=="/>
+		<POI MapID="53" xpos="-656.391" ypos="2.81282" zpos="-220.273" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="TxgeulI7sUGnzouLWjaVdg=="/>
+		<POI MapID="1195" xpos="-55.0491" ypos="297.13" zpos="83.1197" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="RRjECDNW70KmQx5GfF69OA=="/>
+		<POI MapID="22" xpos="84.5548" ypos="34.4857" zpos="681.051" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="R2gZKUnCqU+eY68jbfu/HQ=="/>
+		<POI MapID="22" xpos="136.786" ypos="35.1096" zpos="649.232" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Cy/p0YpAFkmUmw4f0lD8BA=="/>
+		<POI MapID="22" xpos="87.6181" ypos="25.0138" zpos="596.999" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="kcx1Crr0CkqmDhEP9MUHFw=="/>
+		<POI MapID="39" xpos="568.73" ypos="19.979" zpos="236.241" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ICapHtRdf0idtlBHE+SH1A=="/>
+		<POI MapID="39" xpos="691.631" ypos="19.2526" zpos="235.38" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="JPTMx2+Pa0+TfV2MfSWdpw=="/>
+		<POI MapID="39" xpos="443.927" ypos="34.1433" zpos="418.171" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="nYPgAl40U0KN4uf0qmsJdQ=="/>
+		<POI MapID="39" xpos="346.005" ypos="0.977369" zpos="217.681" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="F3D9StmXzEW+EgWfqgrX+w=="/>
+		<POI MapID="30" xpos="747.007" ypos="27.0433" zpos="140.008" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="6KsCORpoH0KCXUlbca+1Jg=="/>
+		<POI MapID="30" xpos="736.649" ypos="88.9354" zpos="555.647" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="grX//9qDA0CisDeEke8CXA=="/>
+		<POI MapID="30" xpos="558.303" ypos="22.6685" zpos="184.562" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="VJdC0MD9LkKwL4PW/O2O5g=="/>
+		<POI MapID="30" xpos="407.964" ypos="60.2018" zpos="-127.347" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="2rLEFe0t+0+cxKWGLr/fOA=="/>
+		<POI MapID="30" xpos="613.168" ypos="32.0127" zpos="-193.669" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="O8WdyR4W7Uej+Sc2RvKFDw=="/>
+		<POI MapID="30" xpos="708.326" ypos="7.67954" zpos="-652.954" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="yhCMlyF0AkWg/JPwJb5Trg=="/>
+		<POI MapID="30" xpos="-111.815" ypos="8.85538" zpos="-517.355" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="uwHm3tCz+Umpprw53lgnwQ=="/>
+		<POI MapID="30" xpos="-332.135" ypos="27.2526" zpos="-507.347" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="JBfCYhYg70iB7iVGGlCc7g=="/>
+		<POI MapID="30" xpos="-402.153" ypos="10.8269" zpos="-512.069" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Xa4N1e9fAE2cvRaXFpuYxg=="/>
+		<POI MapID="30" xpos="-875.119" ypos="36.8114" zpos="-400.396" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="1of9tzNrhk+rVAc4pW/zvA=="/>
+		<POI MapID="30" xpos="-872.002" ypos="39.308" zpos="-366.944" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="IZYtgtAYIUiQKN2hrwrNiQ=="/>
+		<POI MapID="30" xpos="74.8564" ypos="1.51699" zpos="33.4225" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="0tFarQP8CEGrk3xrxOJvvQ=="/>
+		<POI MapID="30" xpos="183.276" ypos="26.4832" zpos="7.98355" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="YGFsIhkKzkelim2e2IUWaA=="/>
+		<POI MapID="30" xpos="257.858" ypos="7.71838" zpos="75.8778" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Cak6su3Jwk6992tbveKkJw=="/>
+		<POI MapID="30" xpos="414.47" ypos="27.1292" zpos="291.273" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="XsvSuoBh5ky7RFQ7R5XKNQ=="/>
+		<POI MapID="51" xpos="-799.807" ypos="1.77557" zpos="320.814" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="SuS5TMfMz0q3mMJl6tyKqA=="/>
+		<POI MapID="62" xpos="64.1903" ypos="16.6272" zpos="-121.439" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ftpiHFkMNEuxGW4qjlCGgg=="/>
+		<POI MapID="873" xpos="-28.1868" ypos="38.9485" zpos="-109.199" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="whciuU5AakWDBSAONcC9NQ=="/>
+		<POI MapID="65" xpos="242.49" ypos="41.2308" zpos="201.172" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="tF2OdoxIAkOnUPSFR9sxug=="/>
+		<POI MapID="65" xpos="171.112" ypos="51.045" zpos="376.441" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="acUmZrNL0Umme+GvwqYn1A=="/>
+		<POI MapID="65" xpos="-161.857" ypos="26.3942" zpos="165.241" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="YmfTUbaoWkK0qhopCopwUw=="/>
+		<POI MapID="65" xpos="-74.9521" ypos="58.1561" zpos="113.933" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="P4x1e1eNRUubG8Y7Htrz6A=="/>
+		<POI MapID="1045" xpos="-171.028" ypos="232.005" zpos="-154.868" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="YVLjDZ6UP0u7SzsbO7X63g=="/>
+		<POI MapID="1343" xpos="916.717" ypos="87.014" zpos="15.8802" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="5vyocRCEdk+tQnQP+rNxIQ=="/>
+		<POI MapID="1343" xpos="1055.99" ypos="66.4338" zpos="46.7557" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="gIulEMTPk0m85QcUonNMOA=="/>
+		<POI MapID="1343" xpos="-304.069" ypos="256.659" zpos="-405.145" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="nS6QbCoM/Uu+tjwjZv65rQ=="/>
+		<POI MapID="1343" xpos="-321.839" ypos="262.877" zpos="-460.186" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="WRTFH3SWp06d1KmzqNL7qA=="/>
+		<POI MapID="1343" xpos="-181.531" ypos="256.575" zpos="-489.747" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="9ZyLq/MErEy1J35lUAyu3A=="/>
+		<POI MapID="62" xpos="374.977" ypos="73.231" zpos="1042.35" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="fOxtKsG9DkivX/luikV2lw=="/>
+		<POI MapID="62" xpos="42.2181" ypos="65.9986" zpos="1103.24" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="VTjRQBYwB0a/BPpNBSE2Kw=="/>
+		<POI MapID="1343" xpos="-322.004" ypos="194.86" zpos="215.753" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="c3003S5ekE+T9cg26pLgWg=="/>
+		<POI MapID="1343" xpos="-372.097" ypos="176.909" zpos="392.217" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="JQ7zhmxmskq3/V4rgsTNTw=="/>
+		<POI MapID="62" xpos="365.677" ypos="32.5257" zpos="282.213" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="nlckacmwyE+0aJ3MV/FWig=="/>
+		<POI MapID="62" xpos="82.6908" ypos="23.8178" zpos="102.668" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="vAwc0zAQW0aXLZYv9QB4IA=="/>
+		<POI MapID="62" xpos="-53.7955" ypos="8.82268" zpos="144.985" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="+0zdIVPi8EOE6pOZ3cU9IA=="/>
+		<POI MapID="62" xpos="-68.4924" ypos="30.4421" zpos="-457.132" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="EGn+DwoGhUms9LPfeCqJcg=="/>
+		<POI MapID="62" xpos="134.817" ypos="15.477" zpos="-593.147" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="vJ4WzD/BFki+3lkwyhNAxw=="/>
+		<POI MapID="62" xpos="120.056" ypos="6.08332" zpos="-639.712" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="w6v+nQKZ9kma4Dt6zLWKYg=="/>
+		<POI MapID="873" xpos="26.9975" ypos="38.0057" zpos="-32.6744" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="v6vJirVUBUqhMVMcF73TIg=="/>
+		<POI MapID="873" xpos="214.123" ypos="10.2899" zpos="181.147" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="iYO1bF2vT0Cu7fq9U46B/g=="/>
+		<POI MapID="65" xpos="-336.713" ypos="77.8943" zpos="-96.5846" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="pLp1BYWrgUGZU1fftSlBGA=="/>
+		<POI MapID="1045" xpos="-295.337" ypos="212.894" zpos="-266.929" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="H3lZM9YL4EqSyBJs4dbaOA=="/>
+		<POI MapID="62" xpos="-3.59678" ypos="5.13078" zpos="179.981" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="+49EvKHxc0mCuwA8b9mx8w=="/>
+		<POI MapID="62" xpos="198.914" ypos="2.48811" zpos="-849.626" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="5AW5yXhzM0OgExujgKW+2g=="/>
+		<POI MapID="62" xpos="181.969" ypos="2.61224" zpos="-870.464" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="GGChjQ8YVUGzuZo8YYwz9w=="/>
+		<POI MapID="62" xpos="200.328" ypos="2.79158" zpos="-953.57" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="egiaj1dSakqbt6AoaQWTVg=="/>
+		<POI MapID="62" xpos="8.85273" ypos="3.31879" zpos="194.016" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="xAQlVvhnlEmVe0AF6+b7Kg=="/>
+		<POI MapID="62" xpos="-413.376" ypos="4.14858" zpos="-457.507" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="FBIW8q8ANE+/ajRNVsN6Mw=="/>
+		<POI MapID="1045" xpos="-276.939" ypos="213.054" zpos="-181.771" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="WwZpO5hZzUyXS/VzNxSd9g=="/>
+		<POI MapID="1045" xpos="-253.464" ypos="223.979" zpos="-273.284" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="vrryNT8Ka0+bFlwIms2BnQ=="/>
+		<POI MapID="1045" xpos="-82.4436" ypos="219.925" zpos="-229.147" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="LUzZEX991Ua9ohD2tsZyXA=="/>
+		<POI MapID="1045" xpos="-76.2951" ypos="218.789" zpos="-288.004" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="xMVGIIwlH0iCxXpu0aQH9A=="/>
+		<POI MapID="1271" xpos="213.345" ypos="79.5725" zpos="883.034" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="wdXdOIzpWUyhfZAJw9IcLQ=="/>
+		<POI MapID="1362" xpos="241.413" ypos="1.72217" zpos="-170.403" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="HkgBa2B6TkmHASld470Qnw=="/>
+		<POI MapID="1362" xpos="-292.001" ypos="37.4114" zpos="-305.329" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="nj2bl10JOE2HPerRcBBOcg=="/>
+		<POI MapID="1362" xpos="-28.5815" ypos="11.1513" zpos="-229.466" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="u4q34gllZUW/X0NN5BZGEg=="/>
+		<POI MapID="1362" xpos="-72.4204" ypos="106.195" zpos="-11.7562" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Z+ML33piAEqopwv43EZA6w=="/>
+		<POI MapID="1362" xpos="-154.782" ypos="127.98" zpos="223.94" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ibDEy3Tryka57HZobL+/hA=="/>
+		<POI MapID="1362" xpos="-219.796" ypos="130.362" zpos="202.16" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ze7AatUo10SC4aa/O6fa/A=="/>
+		<POI MapID="1362" xpos="287.289" ypos="2.34681" zpos="-186.887" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="xp+FtWTt7UOq5MBT/pyiYw=="/>
+		<POI MapID="1362" xpos="-98.7645" ypos="20.1216" zpos="-421.031" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="FP3pb4ieekGjkt1kRm7W3Q=="/>
+		<POI MapID="1362" xpos="-131.31" ypos="114.136" zpos="45.0526" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="CID/EnhmCku56gpqosTR3A=="/>
+		<POI MapID="1362" xpos="-95.7639" ypos="39.7224" zpos="-396.473" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="HU/MSZyUyU6DIVfsIsqiQA=="/>
+		<POI MapID="1362" xpos="-117.367" ypos="90.0649" zpos="-76.0278" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="oiG6KKZJdUCCjBh0G6FwsA=="/>
+		<POI MapID="1371" xpos="-40.9825" ypos="62.8236" zpos="13.9973" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ZOYomguQX0GoIgJRPjLEyw=="/>
+		<POI MapID="1371" xpos="26.1954" ypos="72.7346" zpos="21.3982" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="YbaXXt3vMUm3vnIg2JS2SA=="/>
+		<POI MapID="1371" xpos="134.013" ypos="55.2513" zpos="119.512" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="bF3jco9jcU2JppaF6ns+Cg=="/>
+		<POI MapID="1371" xpos="-84.065" ypos="129.552" zpos="-777.765" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="TCDB7E9zYU+/RK1EEdxn8A=="/>
+		<POI MapID="1371" xpos="-348.715" ypos="59.3785" zpos="336.393" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="b35tikZPr0OX1htb9X87hw=="/>
+		<POI MapID="1371" xpos="-186.566" ypos="58.0001" zpos="-239.482" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="LiEYE5FAgEmV+QKgVZaPug=="/>
+		<POI MapID="1371" xpos="-53.2208" ypos="55.7882" zpos="445.11" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ovYNy1duukyIuO/ycE6pNA=="/>
+		<POI MapID="1371" xpos="175.766" ypos="138.092" zpos="931.472" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="TXTovHhYU0GaJtmJ0znPPw=="/>
+		<POI MapID="1362" xpos="93.7392" ypos="137.155" zpos="391.207" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Ml6o79Hno0+meeKSFbv7ag=="/>
 
 
 		<!-- ANCIENT -->
@@ -1972,6 +2193,24 @@
 		<POI MapID="1343" xpos="-302.714" ypos="114.114" zpos="16.3225" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="Jk/WTHqVikCozENSBHUqsw=="/>
 		<POI MapID="62" xpos="-128.806" ypos="13.8302" zpos="147.044" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="APzidKzbBke3pp/Zvl1HvA=="/>
 		<POI MapID="1301" xpos="-853.397" ypos="98.6074" zpos="227.519" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="uHIJNlbCukG8+1yppbwKig=="/>
+		<POI MapID="1343" xpos="902.734" ypos="114.689" zpos="126.601" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="4Kk/rkmUzkOhPx3LFbycLQ=="/>
+		<POI MapID="1343" xpos="847.096" ypos="88.7803" zpos="-25.7799" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="UcUMDN4axkuk0eTImYMegQ=="/>
+		<POI MapID="1343" xpos="-361.074" ypos="118.716" zpos="-12.7255" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="YhuAQy33n0maqH+aiC5cUw=="/>
+		<POI MapID="1343" xpos="730.816" ypos="123.588" zpos="400.39" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="DZbdbsfCw0ivgK8/5jWg0A=="/>
+		<POI MapID="1045" xpos="686.835" ypos="227.414" zpos="-357.811" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="sYr/YzGK4EeMy7zW/pZrJA=="/>
+		<POI MapID="1226" xpos="160.171" ypos="320.153" zpos="-902.49" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="IuobJQ37Kkuza7mtbLb69g=="/>
+		<POI MapID="1165" xpos="-141.449" ypos="547.188" zpos="139.452" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="WPqUl6NXpUukb6MWwiZcRQ=="/>
+		<POI MapID="30" xpos="729.796" ypos="66.0501" zpos="500.204" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="n4CVE5zzo0ijE2v0gGyHig=="/>
+		<POI MapID="873" xpos="-51.5957" ypos="37.3158" zpos="-163.089" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="m4mteku+LEmzCdlOXM0pmw=="/>
+		<POI MapID="65" xpos="151.283" ypos="90.6989" zpos="333.69" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="yI2adn1erEWWxr7SL07T1w=="/>
+		<POI MapID="1343" xpos="-876.608" ypos="10.3812" zpos="132.568" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="Tazn04amREO9oaVvrUzvjQ=="/>
+		<POI MapID="62" xpos="82.6845" ypos="25.5733" zpos="-307.349" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="k5Kq1q/lT0yVRicRoFNo7g=="/>
+		<POI MapID="62" xpos="-30.543" ypos="2.81853" zpos="252.417" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="rG8AVpzwKU2S373qZYzDpA=="/>
+		<POI MapID="1045" xpos="-342.295" ypos="214.526" zpos="-195.123" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="bHj7iW4nQ0iOFEyOFZrBpg=="/>
+		<POI MapID="873" xpos="-109.292" ypos="39.6831" zpos="-274.096" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="qXapUhpROUOWQajSCyA/DQ=="/>
+		<POI MapID="62" xpos="-12.2767" ypos="25.1217" zpos="59.5774" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="EAaX7xGNFEiNMJlqzmssqA=="/>
+		<POI MapID="1045" xpos="-141.687" ypos="223.46" zpos="-249.757" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="t1tBMuBn1USMT6pad476/Q=="/>
+		<POI MapID="1362" xpos="-319.27" ypos="127.967" zpos="-151.111" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_ancient" GUID="vFd1djbznU+ZtuOtrYJiSw=="/>
 
 
 		
