@@ -1340,7 +1340,7 @@
 		<POI MapID="28" xpos="242.967" ypos="0.711623" zpos="-243.43" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbseedlings" GUID="NwxH9h2Lc0mZCrlGzgxNLg=="/>
 		<POI MapID="28" xpos="-173.46" ypos="99.7483" zpos="-212.405" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbseedlings" GUID="86zW7v7LSEKd8YOol8AoMg=="/>
 		<POI MapID="32" xpos="-324.618" ypos="30.7211" zpos="-510.076" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbseedlings" GUID="C1hNFBEcPUCrV8B3IaOS6Q=="/>
-
+		<POI MapID="34" xpos="369.705" ypos="22.6323" zpos="-428.656" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbseedlings" GUID="OnNNhAjvNkafwgjZfzcVlQ=="/>
 
 		<!-- HERBSPROUTS -->
 		<POI MapID="54" xpos="244.191" ypos="95.8828" zpos="665.844" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbsprouts" GUID="WlfQY9GmS0KlIhfY1jpLUg=="/>

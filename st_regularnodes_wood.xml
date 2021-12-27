@@ -249,6 +249,7 @@
 		<POI MapID="35" xpos="-146.012" ypos="13.1558" zpos="775.806" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="NQ4ysvx4v0KV2t8EqR8loQ=="/>
 		<POI MapID="23" xpos="995.104" ypos="5.44995" zpos="515.791" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="nrtOCNefCEihj9HIVRodcA=="/>
 		<POI MapID="19" xpos="-182.494" ypos="57.6354" zpos="401.189" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="JreZEZV6tUabAETZN9zqfA=="/>
+		<POI MapID="34" xpos="392.78" ypos="30.6573" zpos="-488.99" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_green" GUID="NAA1iqgVskqGHo5SZhq7Sw=="/>
 
 
 		<!-- SOFT -->
@@ -2019,6 +2020,7 @@
 		<POI MapID="1371" xpos="-53.2208" ypos="55.7882" zpos="445.11" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="ovYNy1duukyIuO/ycE6pNA=="/>
 		<POI MapID="1371" xpos="175.766" ypos="138.092" zpos="931.472" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="TXTovHhYU0GaJtmJ0znPPw=="/>
 		<POI MapID="1362" xpos="93.7392" ypos="137.155" zpos="391.207" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="Ml6o79Hno0+meeKSFbv7ag=="/>
+		<POI MapID="51" xpos="-670.393" ypos="30.862" zpos="-68.4932" type="st_guides.st_regularnodes_wood.st_regularnodes_wood_elder" GUID="qsueJ0Kmn0qeO2RIODEEIA=="/>
 
 
 		<!-- ANCIENT -->
