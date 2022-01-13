@@ -1406,6 +1406,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_fawcettsbounty.st_jumpingpuzzles_complete_fawcettsbounty_toggletrail" GUID="oUT0UCUGK0y4f5s+hoXSOw==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_fawcettsbounty_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st.guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_fawcettsbounty.st_jumpingpuzzles_shortcuts_fawcettsbounty_toggletrail" GUID="thp+UZpKCEK6MlnxKnLQpQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_fawcettsbounty_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1511,6 +1512,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_darkreverie.st_jumpingpuzzles_complete_darkreverie_toggletrail" GUID="9BZ25IWbdkS3pIKxUrQoGQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_darkreverie_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_darkreverie.st_jumpingpuzzles_shortcuts_darkreverie_toggletrail" GUID="dVtnU6K/d0i3HpfSBx1hBg==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_darkreverie_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1863,6 +1865,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_goemmslab.st_jumpingpuzzles_complete_goemmslab_toggletrail" GUID="7F/db9zX0E6NBlcWj7GA5Q==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_goemmslab_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st.guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_goemmslab.st_jumpingpuzzles_shortcuts_goemmslab_toggletrail" GUID="4JCCtArqKEmDJ2VszYyAXA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_goemmslab_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2063,6 +2066,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_spelunkersdelve.st_jumpingpuzzles_complete_spelunkersdelve_toggletrail" GUID="3sd7jIos70GnZBVbwu3LVQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_spelunkersdelve_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_spelunkersdelve.st_jumpingpuzzles_shortcuts_spelunkersdelve_toggletrail" GUID="PiKTDsNXbEeiz0HZEMQG0w==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_spelunkersdelve_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2218,6 +2222,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_coddlerscove.st_jumpingpuzzles_complete_coddlerscove_toggletrail" GUID="uQw7+h9cu0KZUP78dfvjag==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_coddlerscove_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_coddlersbayeasyway.st_jumpingpuzzles_shortcuts_coddlersbayeasyway_toggletrail" GUID="uQw7+h9cu7ZZUP78dfvjag==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_coddlersbay_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2361,6 +2366,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_morgansleap.st_jumpingpuzzles_complete_morgansleap_toggletrail" GUID="HkgbPXkPJUCXVwyW1WF8vQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_morgansleap_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st.guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_morgansleap.st_jumpingpuzzles_shortcuts_morgansleap_toggletrail" GUID="xVY9Dh++lUahcDQB6CcwMA==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_morgansleap_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2976,6 +2982,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_crimsonplateau.st_jumpingpuzzles_complete_crimsonplateau_toggletrail" GUID="SB+SijdxFUalnz9UBcsGMQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_crimsonplateau_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_crimsonplateau.st_jumpingpuzzles_shortcuts_crimsonplateau_toggletrail" GUID="74DaTxEJZEGo5eSmtevr1w==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_crimsonplateau_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3744,6 +3751,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_pigironquarry.st_jumpingpuzzles_complete_pigironquarry_toggletrail" GUID="/LhM14fdl0uT8PfHtZcEGw==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_pigironquarry_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st.guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_pigironquarry.st_jumpingpuzzles_shortcuts_pigironquarry_toggletrail" GUID="invc3bP41EWcqQf1jZuhCQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_pigironquarry_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3788,6 +3796,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_swashbucklerscove.st_jumpingpuzzles_complete_swashbucklerscove_toggletrail" GUID="8ORE5pgyOk+/4Qrp9Jfq3w==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_swashbucklerscove_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_swashbucklerscove.st_jumpingpuzzles_shortcuts_swashbucklerscove_toggletrail" GUID="W77fFEsO502sdsLs3gYQvw==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_swashbucklerscove_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3863,6 +3872,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_loreclawexpanse.st_jumpingpuzzles_complete_loreclawexpanse_toggletrail" GUID="qsPwCFHZXkewYsikyIosIQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_loreclawexpanse_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st.guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_loreclawexpanse.st_jumpingpuzzles_shortcuts_loreclawexpanse_toggletrail" GUID="MyNu0P2XwUuaqJQdbwz3dQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_loreclawexpanse_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4657,6 +4667,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_tribulationriftscaffolding.st_jumpingpuzzles_complete_tribulationriftscaffolding_toggletrail" GUID="MSqsfmV+t0OplIB5Qb7lWA==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_tribulationriftscaffolding_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_tribulationriftscaffolding.st_jumpingpuzzles_shortcuts_tribulationriftscaffolding_toggletrail" GUID="3P6CcP5A4UahViIZFrZkGg==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_tribulationriftscaffolding_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4824,6 +4835,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_undernewmanagement.st_jumpingpuzzles_complete_undernewmanagement_toggletrail" GUID="3Ci7kSFL702l6JSVljLHmQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_undernewmanagement_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_undernewmanagement.st_jumpingpuzzles_shortcuts_undernewmanagement_toggletrail" GUID="j2bnNWWeH0yhfXaEDN87cw==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_undernewmanagement_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5232,6 +5244,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_wallbreachblitz.st_jumpingpuzzles_complete_wallbreachblitz_toggletrail" GUID="ZaBRx7HjYEeOVCNXm9rqbA==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_wallbreachblitz_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_wallbreachblitz.st_jumpingpuzzles_shortcuts_wallbreachblitz_toggletrail" GUID="88QkBWQVfU2Twfk+YZnCbg==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_wallbreachblitz_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5389,6 +5402,7 @@
 
 
 		<Trail type="st_guides.st_jumpingpuzzles_complete.st_jumpingpuzzles_complete_shatterediceruins.st_jumpingpuzzles_complete_shatterediceruins_toggletrail" GUID="le3dGISAgk+WAiIkDdW+Qw==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_shatterediceruins_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
+		<Trail type="st_guides.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_shatterediceruins.st_jumpingpuzzles_shortcuts_shatterediceruins_toggletrail" GUID="u6ALyTqpwUeVMrWopWUQgQ==" fadeNear="1900" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_shatterediceruins_toggletrail.trl" animSpeed="0" mapDisplaySize="30" texture="Data/SchattenfluegelTrails/st_trail_jp.png"/>
 
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
