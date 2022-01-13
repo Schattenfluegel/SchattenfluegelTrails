@@ -1,0 +1,259 @@
+<OverlayData>
+	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
+		<MarkerCategory name="st_fractals" DisplayName="Fraktale der Nebel">
+			<MarkerCategory name="st_fractals_albtraum" DisplayName="Albtraum (23|48|73|98)">
+				<MarkerCategory name="st_fractals_albtraum_trails" DisplayName="Pfade">
+					<MarkerCategory name="st_fractals_albtraum_trails_mamaspawns" DisplayName="Spawnpunkte MAMA"/>
+					<MarkerCategory name="st_fractals_albtraum_trails_siaxspawns" DisplayName="Spawnpunkte Siax"/>
+					<MarkerCategory name="st_fractals_albtraum_trails_ensylossorbs" DisplayName="Orbs Ensyloss"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_fractals_albtraum_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_albtraum_cmtutorial" DisplayName="CM Tutorial"/>
+				<MarkerCategory name="st_fractals_albtraum_erfolge" DisplayName="Erfolge">
+					<MarkerCategory name="st_fractals_albtraum_erfolge_bergungstrupp" DisplayName="Erfolg: Bergungstrupp"/> <!-- (Leichen) -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_haifischbecken" DisplayName="Erfolg: Haifischbecken"/> <!-- (Fleisch Schlucker Hai KIll) -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_nocheineschleimpfuetze" DisplayName="Erfolg: Noch eine Schleimpfütze"/> <!-- (von Ens. zermatschen lassen) -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_30sekundeneinnahme" DisplayName="Erfolg: 30-Sekunden Einnahme"/> <!-- (Orbs Ens.) Infotafel -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_derherausforderunggewachsen" DisplayName="Erfolg: Der Herausforderung gewachsen"/> <!-- (Abschluss) Infotafel -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_fluechtigkeitsfluechtiger" DisplayName="Erfolg: Flüchtigkeits-Flüchtiger"/> <!-- (SiaX ohne Halluexplosion Treffer) Infotafel -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_mittendrinimlabyrinth" DisplayName="Mittendrin im Labyrinth"/> <!-- (3 Bereiche mitte first clear) Infotafel -->
+					<MarkerCategory name="st_fractals_albtraum_erfolge_zerbrocheneralbtraum" DisplayName="Zerbrochener Albtraum"/> <!-- (Abschluss auf T4) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_aetherklingen" DisplayName="Ätherklingen-Zuflucht (14|46|65|96)">
+				<MarkerCategory name="st_fractals_aetherklingen_lichtbruekefelder" DisplayName="Sichere Felder der Lichtbrücke"/>
+				<MarkerCategory name="st_fractals_aetherklingen_lichtwandschalter" DisplayName="Schalter der Lichtwände"/>
+				<MarkerCategory name="st_fractals_aetherklingen_fizzkampfablauf" DisplayName="Fizzkampf Gegnerreihenfolge"/>
+				<MarkerCategory name="st_fractals_aetherklingen_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_aetherklingen_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Holo-Hornflöte (Tanzen) -->
+					<!-- Erfolg: Noch immer schneller als das Licht (ohne Lasertreffer) Infotafel -->
+					<!-- Erfolg: Stabilisator der Ätherklingen Zuflucht (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_chaos" DisplayName="Chaos (13|30,38|63|88,97)">
+				<!-- Pfade -->
+					<!-- Durch Eispfad inkl Feuerstellen -->
+				<MarkerCategory name="st_fractals_chaos_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_chaos_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Notetaker? (Notizen) -->
+					<!-- Erfolg: Kitty Compactor?? (alle Golems 1x als Chamnpion besiegen) Infotafel -->
+					<!-- Erfolg: Chaos Demolisher?? (Chaos T4 Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_felswand" DisplayName="Felswand (6.21|47|69|94)">
+				<!-- Wind Bereiche -->
+				<!-- Portal Skip -->
+				<MarkerCategory name="st_fractals_felswand_tutorial" DisplayName="Tutorial"/>
+				<!-- Legendäre Sammlungen -->
+					<!-- Nebelgeysir -->
+				<MarkerCategory name="st_fractals_felswand_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Ehre wem Ehre gebührt (Verbeugen) Infotafel -->
+					<!-- Erfolg: Stabilisator des Felswand Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_feurigerboss" DisplayName="Feuriger Boss (10|40|70|90)">
+				<!-- Skip -->
+				<MarkerCategory name="st_fractals_feurigerboss_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_feurigerboss_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Stabilisator des Feurigen Boss-Fraktals (Abschluss ) Infotafel -->
+					<!-- Erfolg: Schockwellenreiter (Boss kein Wellentreffer) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_feurigerhochofen" DisplayName="Feuriger Hochofen">
+				<!-- ???Versuchskammer Waffen Pattern???? -->
+				<!-- Legendäre Sammlungen -->
+					<!-- Nebel Geysir -->
+					<!-- Werkbank -->
+				<MarkerCategory name="st_fractals_feurigerhochofen_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_feurigerhochofen_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Waffentester (ohne Treffer Waffen) Infotafel -->
+					<!-- Erfolg: Stabilisator des feurigen Hochofen-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_maitrinboss" DisplayName="Mai Trin Boss">
+				<!-- Spawnpunkte Zonn, Sturmspitze, Tarron -->
+				<!-- Legendäre Sammlungen -->
+					<!-- Ad Infinitum Händler -->
+				<MarkerCategory name="st_fractals_maitrinboss_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_maitrinboss_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Horriks Horror??? (Horrik besiegen) Infotafel -->
+					<!-- Erfolg: Stabilisierer des Ätherklingen Kapitän-Fraktals??? (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_nichtkategorisiert" DisplayName="Nicht Kategorisiert">
+				<!-- Skip -->
+				<MarkerCategory name="st_fractals_nichtkategorisiert_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_nichtkategorisiert_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Hüpfen, springen, ums Leben ringen (nicht abstürzen) Infotafel -->
+					<!-- Erfolge: Stabilisierer des nicht kategorisierten Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_schneeblind" DisplayName="Schneeblind">
+					<!-- Durch Wald -->
+					<!-- Durch Wald als Pinata??? -->
+				<MarkerCategory name="st_fractals_schneeblind_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_schneeblind_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Wenn wir doch nur ein paar Würstchen hätten (alle Lagerfeuer) -->
+					<!-- Erfolg: Stabilisator des Schneeblind-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_soliderozean" DisplayName="Solider Ozean">
+				<!-- Spawnorte Golems & Tentakel -->
+				<MarkerCategory name="st_fractals_soliderozean_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_soliderozean_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Offenes Grab (alles killen) Marker -->
+					<!-- Erfolg: Stabilisator des Soliden-Ozean-Fraktals -->
+					<!-- Erfolg: Keine Laser!??? (kein Laserhit) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_sumpfland" DisplayName="Sumpfland">
+				<!-- Fallen -->
+				<!-- Abkürzungen & Routen -->
+				<!-- Blütenschmacht Lichter x4 -->
+				<!-- Grüne Felder??? -->
+				<MarkerCategory name="st_fractals_sumpfland_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_sumpfland_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Fantastische Fußarbeit (keine Fallen) Infotafel & Pfad für wenn keine Kugel -->
+					<!-- Erfolg: Stabilisator des Sumpfland-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_thaumanova" DisplayName="Thaumanova Reaktor">
+				<!-- Skips -->
+					<!-- Ostraum -->
+					<!-- Hitzeraum -->
+				<!-- Wege Südraum -->
+				<!-- Safe Spots Südraum -->
+				<MarkerCategory name="st_fractals_thaumanova_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_thaumanova_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Große Höhen??? (Anomalie ohne dass jemand abstürzt) Infotafel -->
+					<!-- Erfolg: Subjekt 6 Deep-Sixer?? (Subjekt 6 mit max Stacks besigen) Infotafel -->
+					<!-- Erfolg: Stabilisator des Thaumanova Reaktor-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_untergrundeinrichtung" DisplayName="Untergrundeinrichtung">
+				<!-- Skips -->
+					<!-- Sprung in Käfig -->
+					<!-- Mechanismus -->
+				<MarkerCategory name="st_fractals_untergrundeinrichtung_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_untergrundeinrichtung_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Master of the Molten One???? (Nur 4 Gusstonnen nutzen) Infotafel -->
+					<!-- Erfolg: Stealth Bomber???? (keine Sicherheit auslösen bei Bomben) Infotafel -->
+					<!-- Erfolg: Kakophonie des Donnergrollens (Rabsivich besigene ohne zu sterben) Infotafel -->
+					<!-- Erfolg: Stabilisator des Untergrundeinrichtungs-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_unterwasserruinen" DisplayName="Unterwasserruinen">
+				<!-- Pfade -->
+					<!-- Dunkelheit -->
+					<!-- Delfine?!?! -->
+				<!-- Spawnorte Schutzbuff Krait Qualle?!?! -->
+				<MarkerCategory name="st_fractals_unterwasserruinen_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_unterwasserruinen_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Fantastische Flossen Foppen Feinde (kein Kraitfang als Delfin) Infotafel -->
+					<!-- Erfolg: Stabilisator des Unterwasserruinen-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_urbanesschlachtfeld" DisplayName="Urbanes Schlachtfeld">
+				<!-- Mögl. Pfade?!?! -->
+				<!-- Skip -->
+				<!-- Legendäre Sammlungen -->
+					<!-- Holz Händler Npc -->
+					<!-- ?? Händler Npc in Festung -->
+				<MarkerCategory name="st_fractals_urbanesschlachtfeld_tutorial" DisplayName="Tutorial"/>
+				<MarkerCategory name="st_fractals_urbanesschlachtfeld_erfolge" DisplayName="Erfolge">
+					<!-- Erfolg: Vom Glück verlassen (Alle Hühner töten) Marker & Pfad -->
+					<!-- Erfolg: Stabilisator des urbanen Schlachtfeld-Fraktals (Abschluss) Infotafel -->
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_vulkanisch" DisplayName="Vulkanisch (1,19|28|52|92)">
+				<!-- Pfad durch Sprungteil -->
+				<!-- Spawnorte Schamanen -->
+				<!-- Safe Wurfort Steine -->
+				<!-- Lavafeld Marker Boss?? -->
+				<!-- Skips -->
+					<!-- Portal Feuersteine -->
+					<!-- Lava Klippensprung -->
+				<!-- Legendäre Sammlungen -->
+					<!-- Heißer Stein Ding -->
+				<!-- Tutorial -->
+				<!-- Erfolge -->
+					<!-- Erfolg: Der Boden besteht aus Lava! Nicht drauftreten! (nicht in Lava fallen) Infotafel -->
+					<!-- Erfolg: Stabilisator des vulkanischen Fraktals (Abschluss) Infotafel -->
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_observatorium" DisplayName="Zerschmettertes Observatorium">
+				<!-- Ball Spots & Pfade -->
+					<!-- Ballspiel -->
+					<!-- Viirastra Ball -->
+				<!-- Skips -->
+				<!-- Weiteres -->
+					<!-- Simon -->
+				<!-- Tutorial -->
+				<!-- CM Tutorial -->
+				<!-- Erfolge -->
+					<!-- Erfolg: Außerplanmäßige Studien der astralen Art (Datenscheiben) Ortsmarker -->
+					<!-- Erfolg: Blütezeit (Skorvald ohne Blütentreffer) Infotafel -->
+					<!-- Erfolg: Dynamischer Durchlauf (CM ohne Spielertod) Infotafel -->
+					<!-- Erfolg: Kreislauf geschlossen (T4 Abschluss) Infotafel -->
+					<!-- Erfolg: Reaktionsfreudig (Arkk besigene mit allen Generatoren aktiv) Infotafel -->
+					<!-- Erfolg: Spieltalent (Ball 8x selbst springen lassen) Infotafel -->
+					<!-- Erfolg: Tschüss, Hirni! (CM Abschluss) Infotafel -->
+					<!-- Erfolg: Voll geschockt (Schock erleiden?!?!?!) Infotafel -->
+					<!-- Erfolg: Von der Wissenschaft geblendet (Treffen lassen Arkk Laser) Infotafel -->
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_zwielichtoase" DisplayName="Zwielichtoase">
+				<!-- Pfade -->
+					<!-- Einfacher Pfad -->
+					<!-- Schneller Pfad -->
+					<!-- Amala Reihenfolge Kammern -->
+				<!-- Portal-Abkürzungen -->
+				<!-- Tutorial -->
+				<!-- Erfolge -->
+					<!-- Erfolg: Gnade den Mondsicheln (15 angeschlagene finishen) Marker -->
+					<!-- Erfolg: Luftakrobat (3x über Amalas Welle springen) Infotafel -->
+					<!-- Erfolg: Bedeutungsloser Sieg (Abschluss T4) Infotafel -->
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_tiefenstein" DisplayName="Tiefenstein">
+				<!-- Pfade -->
+					<!-- Untiefe Pfade -->
+					<!-- Schatzkisten Spawnorte (& Gruppierungen?) -->
+				<!-- Tutorial -->
+				<!-- Erfolge -->
+					<!-- Erfolg: Auf dem Boden der Tatsachen (nicht abstürzen am Boss) Infotafel -->
+					<!-- Erfolg: Reichtum Enthüllt (Alle Schätze finden) Pfad zu Spawnorte vor und nach Bosskampf -->
+					<!-- Von Spinnen und Wachen (Brutkönigin und Wache innerhalb v 3 Min besiegen) Infotafel -->
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_riffdersirene" DisplayName="Riff der Sirene">
+				<!-- Taschen Spawnort & Wurfort? -->
+				<!-- Arabella Krähe Spawnorte -->
+				<!-- Kanone Zielpunkt Mauerbomben -->
+				<!-- Tutorial -->
+				<!-- Erfolge -->
+					<!-- Erfolg: Fluch-Fänger (8 Taschen fangen) Infotafel -->
+					<!-- Erfolg: Geister-Meider (T4 ohne Geisterfelder aktivieren) Infotafel -->
+					<!-- Erfolg: Wilder Kanonier (368 Kills mit Geisterkanonen) Infotafel -->
+			</MarkerCategory>
+			<MarkerCategory name="st_fractals_sunqua" DisplayName="Sunqua-Gipfel">
+				<!-- Pfade -->
+					<!-- Sprunganteile -->
+					<!-- Rochen-Babys -->
+					<!-- Aufwind Ziel Spawnorte Elementar und Erzmagierin -->
+					<!-- Wasser Strahl Spawnpunkte (Normal und CM) -->
+					<!-- Kometen Spawnorte Boss -->
+				<!-- Skip -->
+				<!-- Tutorial -->
+				<!-- CM Tutorial -->
+				<!-- Erfolge -->
+					<!-- Erfolg: Bergaufwärts gerannt (T4 in 15 Min) Infotafel -->
+					<!-- Erfolg: Eine andere Seite, eine andere Story (8 Briefe finden) Marker & Trail -->
+					<!-- Erfolg: Elementaranstieg (3 T4 Abschluss) Infotafel -->
+					<!-- Erfolg: Energie-Zersteuung (auf /4 beim Boss alle Hüpfe Winde in 10 Sek abschließen) Infotafel & Hilfspfade mit Nummern -->
+					<!-- Erfolg: Respekt für die Toten (???) Infotafel -->
+					<!-- Erfolg: Tobendes Feuer (T4 Abschluss ohne Feuertreffer u Tod) Infotafel -->
+					<!-- Erfolg: Tragt die Last gemeinsam (Wasser schaffen ohne dass ein Spieler mehr als 9 Stapel hat und ohne Tod) Infotafel -->
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+	</POIs>
+</OverlayData>

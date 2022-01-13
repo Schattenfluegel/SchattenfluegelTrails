@@ -754,8 +754,8 @@
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_jumpingpuzzles_quickruns" DisplayName="Zeitherausforderungen / Quickruns">
-				<MarkerCategory name="st_jumpingpuzzles_quickruns_startsign" DisplayName= "Quickrun Starting-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_start.png" mapDisplaySize="80" iconSize="0.7" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
-				<MarkerCategory name="st_jumpingpuzzles_quickruns_finish" DisplayName= "Qucikrun Finish-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_finish.png" mapDisplaySize="80" iconSize="0.7" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
+				<MarkerCategory name="st_jumpingpuzzles_quickruns_startsign" DisplayName= "Quickrun Starting-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_start.png" mapDisplaySize="80" iconSize="0.4" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
+				<MarkerCategory name="st_jumpingpuzzles_quickruns_finish" DisplayName= "Qucikrun Finish-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_finish.png" mapDisplaySize="80" iconSize="0.4" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 			</MarkerCategory>
 		<!--</MarkerCategory>-->
 	</MarkerCategory>
