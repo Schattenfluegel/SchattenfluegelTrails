@@ -39,13 +39,6 @@
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
-			<MarkerCategory name="st_misc_error" DisplayName="Debugger (Misc)">
-				<MarkerCategory name="st_misc_error_grp1" DisplayName="Debugger - Gruppe 1" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/>
-				<MarkerCategory name="st_misc_error_grp2" DisplayName="Debugger - Gruppe 2" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/>
-				<MarkerCategory name="st_misc_error_grp3" DisplayName="Debugger - Gruppe 3" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/>
-				<MarkerCategory name="st_misc_error_grp4" DisplayName="Debugger - Gruppe 4" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/>
-				<MarkerCategory name="st_misc_error_grp5" DisplayName="Debugger - Gruppe 5" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/>
-			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
 

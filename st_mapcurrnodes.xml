@@ -133,8 +133,10 @@
 			<MarkerCategory name="st_mapcurrnodes_quartz_quartzcrystal" DisplayName="Quarzkristallformation" iconFile="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_quartz.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			<MarkerCategory name="st_mapcurrnodes_quartz_toggletrail" DisplayName="Toggle Trail"/>
 			<MarkerCategory name="st_mapcurrnodes_quartz_togglesigns" DisplayName="Toggle Signs">
-				<MarkerCategory name="st_mapcurrnodes_quartz_togglesigns_start" DisplayName="Start" iconFile="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_orrianpearl_togglesigns_start.png" mapDisplaySize="130" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+				<MarkerCategory name="st_mapcurrnodes_quartz_togglesigns_start" DisplayName="Start" iconFile="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_quartz_togglesigns_start.png" mapDisplaySize="130" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+				<MarkerCategory name="st_mapcurrnodes_quartz_togglesigns_start2" DisplayName="Start 2" iconFile="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_quartz_togglesigns_start2.png" mapDisplaySize="130" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 				<MarkerCategory name="st_mapcurrnodes_quartz_togglesigns_finish" DisplayName="Finish" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+				<MarkerCategory name="st_mapcurrnodes_quartz_togglesigns_teleport1" DisplayName="Teleport" iconFile="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_quartz_togglesigns_teleport1.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 		</MarkerCategory>
 
@@ -1489,13 +1491,13 @@
 		<POI MapID="988" xpos="-299.413" ypos="123.234" zpos="-423.854" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_quartzcrystal" GUID="mSinUKT0EkSx3vgjPSqalw=="/>
 		<POI MapID="988" xpos="-299.398" ypos="123.246" zpos="-423.6" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_quartzcrystal" GUID="p77LLhp5KkK7d8h4XXBEKw=="/>
 
-		<POI MapID="988" xpos="-440.79" ypos="78.7636" zpos="-261.569" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_signs.st_mapcurrnodes_quartz_signs_startsign" GUID="dl8vacjkz0OMnd4NRa6GGA=="/>
-		<POI MapID="988" xpos="-204.058" ypos="80.8253" zpos="-568.218" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_signs.st_mapcurrnodes_quartz_signs_teleport01" GUID="1kr/+ZuGpkaj9hBDX11xPA=="/>
-		<POI MapID="1210" xpos="1387.9" ypos="187.707" zpos="-260.891" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_signs.st_mapcurrnodes_quartz_signs_finish" GUID="k/z/e1GzhkydBfB8tCTZow=="/>
-		<POI MapID="1210" xpos="1081.04" ypos="19.5615" zpos="-362.65" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_signs.st_mapcurrnodes_quartz_signs_startsign" GUID="PoTwsM0dT0+HX/vnwBsb6w=="/>
+		<POI MapID="988" xpos="-440.79" ypos="78.7636" zpos="-261.569" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_togglesigns.st_mapcurrnodes_quartz_togglesigns_startsign2" GUID="dl8vacjkz0OMnd4NRa6GGA=="/>
+		<POI MapID="988" xpos="-204.058" ypos="80.8253" zpos="-568.218" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_togglesigns.st_mapcurrnodes_quartz_togglesigns_teleport01" GUID="1kr/+ZuGpkaj9hBDX11xPA=="/>
+		<POI MapID="1210" xpos="1387.9" ypos="187.707" zpos="-260.891" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_togglesigns.st_mapcurrnodes_quartz_togglesigns_finish" GUID="k/z/e1GzhkydBfB8tCTZow=="/>
+		<POI MapID="1210" xpos="1081.04" ypos="19.5615" zpos="-362.65" type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_togglesigns.st_mapcurrnodes_quartz_togglesigns_startsign" GUID="PoTwsM0dT0+HX/vnwBsb6w=="/>
 
-		<Trail type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_toggletrails.st_mapcurrnodes_quartz_toggletrails_toggletrail01" GUID="h03ohUnbyUWofRvSo5YuKg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_mapcurrnodes_quartz_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
-		<Trail type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_toggletrails.st_mapcurrnodes_quartz_toggletrails_toggletrail02" GUID="aa8X2MWMH0uGidpR1XaCgQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Gathering/Cluster/st_mapcurrnodes_quartz_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_toggletrails.st_mapcurrnodes_quartz_toggletrails_toggletrail01" GUID="h03ohUnbyUTofRvSo5YuKg==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_quartz_toggletrails_toggletrail01.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
+		<Trail type="st_guides.st_mapcurrnodes.st_mapcurrnodes_quartz.st_mapcurrnodes_quartz_toggletrails.st_mapcurrnodes_quartz_toggletrails_toggletrail02" GUID="aa8X2MWMH0uZidpR1XaCgQ==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Mapcurrnodes/st_mapcurrnodes_quartz_toggletrails_toggletrail02.trl" animSpeed="0" texture="Data/SchattenfluegelTrails/st_trail_nf.png"/>
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		~~~~ SALVAGE PILE (inc. T) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

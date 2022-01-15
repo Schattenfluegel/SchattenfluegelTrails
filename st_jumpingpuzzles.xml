@@ -7,7 +7,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits" DisplayName="Dämonenraupen-Gruben *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_demongrubpitstogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_demongrubpits_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -17,7 +17,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory" DisplayName="Eingestürztes Observatorium *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_thecollapsedobservatorytogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_thecollapsedobservatory_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_thecollapsedobservatory_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -27,7 +27,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty" DisplayName="Fawcetts Beute *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_fawcettsbountytogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_fawcettsbounty_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_fawcettsbounty_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -37,7 +37,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret" DisplayName="Nicht so Geheim *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_notsosecrettogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_notsosecret_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_notsosecret_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -47,7 +47,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab" DisplayName="Professor Portmatts Labor *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_professorportmattslabtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_professorportmattslab_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_professorportmattslab_reset" DisplayName="Reset Portal" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_professorportmattslab_reset.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="2500" fadeFar="2600" heightOffset="0"/>
@@ -62,7 +62,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge" DisplayName="Rache des Trolls *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_trollsrevengetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_trollsrevenge_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_trollsrevenge_togglesigns_chest" DisplayName="Trail - Chest" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_chest.png" iconSize="0.5" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -73,7 +73,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove" DisplayName="Säbelrassler-Bucht *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_swashbucklerscovetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_torch" DisplayName="Trail - Torch" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_swashbucklerscove_togglesigns_torch.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.5" fadeNear="2500" fadeFar="2600" heightOffset="2.5" minSize="10"/>
@@ -85,7 +85,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones" DisplayName="Steine Hüpfen Lassen *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_skippingstonestogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_skippingstones_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_skippingstones_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -95,7 +95,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement" DisplayName="Unter Neuer Leitung *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_undernewmanagementtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_undernewmanagement_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_undernewmanagement_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -105,7 +105,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret" DisplayName="Urmaugs Geheimnis *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_urmaugssecrettogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_urmaugssecret_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_urmaugssecret_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -115,7 +115,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge" DisplayName="Weyandts Rache *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_weyandtsrevengetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_weyandtsrevenge_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_weyandtsrevenge_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -127,7 +127,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun" DisplayName="Greifenturmstrecke *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_griffonrookruntogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_griffonrookrun_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_griffonrookrun_togglesigns_entrance" DisplayName="Trail - Entrance" iconFile="Data/SchattenfluegelTrails/enter.png" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -139,7 +139,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove" DisplayName="Knuddlerbucht *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_coddlerscovetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_coddlerscove_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_coddlerscove_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -149,7 +149,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge" DisplayName="König Jalis' Zuflucht *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_kingjarlisrefugetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_kingjarlisrefuge_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_kingjarlisrefuge_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -159,7 +159,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl" DisplayName="Nur Zuhl *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_onlyzuhltogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_onlyzuhl_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_onlyzuhl_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -169,7 +169,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery" DisplayName="Schamanen-Kolonie *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_shamansrookerytogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_shamansrookery_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_shamansrookery_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -179,7 +179,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding" DisplayName="Trübsalriss-Gerüst *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_tribulationriftscaffoldingtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_tribulationriftscaffoldingtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationriftscaffolding_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -189,7 +189,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns" DisplayName="Trübsalriss-Höhlen *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_tribulationcavernstogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_tribulationcaverns_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_tribulationcaverns_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -199,7 +199,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins" DisplayName="Zerschmetterte Eisruinen *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_shatterediceruinstogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_shatterediceruins_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_shatterediceruins_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -213,7 +213,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_behemgauntlet_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_behemgauntlet_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_behemgauntlet_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -223,7 +223,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern" DisplayName="Chaoskristallhöhle *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_chaoscrystalcaverntogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_chaoscrystalcavern_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_chaoscrystalcavern_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -235,7 +235,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_crazesfolly_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_crazesfolly_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_crazesfolly_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -247,7 +247,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_brandedmine_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_brandedmine_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_brandedmine_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -259,7 +259,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_grendichgamble_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_grendichgamble_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_grendichgamble_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -271,7 +271,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_crimsonplateau_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_crimsonplateau_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_crimsonplateau_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -281,7 +281,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry" DisplayName="Roheisen-Grube *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_pigironquarrytogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_pigironquarry_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_pigironquarry_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -291,7 +291,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse" DisplayName="Sagenklauen-Weite *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_loreclawexpansetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_loreclawexpanse_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_loreclawexpanse_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -301,7 +301,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz" DisplayName="Wallbrecherblitz *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_wallbreachblitztogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_wallbreachblitz_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_wallbreachblitz_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -313,7 +313,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie" DisplayName="Finsterer Tagtraum *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_darkreverietogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_darkreverie_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_darkreverie_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -323,7 +323,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged" DisplayName="Fluchgießerei Abgedreht *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_hexfoundryunhingedtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_hexfoundryunhinged_togglesigns_f" DisplayName="Press F" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_f.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.5" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -334,7 +334,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab" DisplayName="Goemms Labor *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_goemmslabtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_goemmslab_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_goemmslab_togglesigns_entrance" DisplayName="Trail - Entrance" iconFile="Data/SchattenfluegelTrails/enter.png" iconSize="0.5" fadeNear="2500" fadeFar="2600" heightOffset="0" minSize="10"/>
@@ -346,7 +346,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve" DisplayName="Höhlenforscher-Senke *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_spelunkersdelvetogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_spelunkersdelve_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_spelunkersdelve_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -356,7 +356,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap" DisplayName="Morgans Sprung *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_morgansleaptogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_morgansleap_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_morgansleap_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -366,7 +366,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory" DisplayName="Spekks' Labor">
 					<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_spekkslaboratorytogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_spekkslaboratory_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_spekkslaboratory_togglesigns_f" DisplayName="Press F" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_f.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.5" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -377,7 +377,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden" DisplayName="Verborgener Garten *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_hiddengardentogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_hiddengarden_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_hiddengarden_togglesigns_entrance" DisplayName="Trail - Entrance" iconFile="Data/SchattenfluegelTrails/enter.png" iconSize="0.5" fadeNear="2500" fadeFar="2600" heightOffset="0" minSize="10"/>
@@ -389,7 +389,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed" DisplayName="Zwickmühle Hoch Drei *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_conundumcubedtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_conundumcubed_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_conundumcubed_togglesigns_entrance" DisplayName="Trail - Entrance" iconFile="Data/SchattenfluegelTrails/enter.png" iconSize="0.5" fadeNear="2500" fadeFar="2600" heightOffset="0" minSize="10"/>
@@ -403,7 +403,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_abaddonsascend_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_abaddonsascend_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_abaddonsascend_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -415,7 +415,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_scavengerschasm_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_scavengerschasm_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_scavengerschasm_togglesigns_f" DisplayName="Press F" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_f.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.5" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -427,7 +427,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment" DisplayName="Kavernöses Refugium *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_antreofadjournmenttogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_antreofadjournment_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_antreofadjournment_chest" DisplayName="Chest" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_chest.png" iconSize="0.5" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -438,7 +438,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower" DisplayName="Turm des Wesirs *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_vizierstowertogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_vizierstower_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_vizierstower_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -448,7 +448,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives" DisplayName="Verschüttete Archive *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_buriedarchivestogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_buriedarchives_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_buriedarchives_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -462,7 +462,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_prospectvalleycrashsite_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -472,7 +472,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch" DisplayName="Retrospektives Runterspringen *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_drydockscratchtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_drydockscratch_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_drydockscratch_togglesigns_entrance" DisplayName="Trail - Entrance" iconFile="Data/SchattenfluegelTrails/enter.png" iconSize="0.5" fadeNear="2500" fadeFar="2600" heightOffset="0" minSize="10"/>
@@ -486,14 +486,14 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano" DisplayName="Retrospektives Runterspringen *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_drydockscratchtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_drydockscratch_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_armisticebastion_togglesigns_glide" DisplayName="Gleiten" iconFile="Data/SchattenfluegelTrails/st_trailpoint_dot_glide.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
 					<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_toggleexplanations" DisplayName="Erläuterungen" />
 					<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglemesmerguide" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglemesmerguide_portal" DisplayName="Portal Location" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/st_portal.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglemesmerguide_portal" DisplayName="Portal Location" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_portal.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_skipupthevulcano_togglemesmerguide_toggletrail" DisplayName="Mesmerportal Trail"/>
 					</MarkerCategory>
 				</MarkerCategory>
@@ -507,7 +507,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns_startsign" DisplayName="Starting Sign" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_gauntletofthekhanur_startsign.png" mapDisplaySize="130" iconSize="3.5" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns_startsign" DisplayName="Starting Sign" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns_startsign.png" mapDisplaySize="80" iconSize="3.5" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns_finish" DisplayName="Finish Sign" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" mapDisplaySize="80" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_gauntletofthekhanur_togglesigns_torch" DisplayName="Trail - Torch" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/torch.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -520,7 +520,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_info2"  IsSeparator="1" DisplayName="~??:?? Min | Schwgk. ?"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_togglesigns_startsign" DisplayName="Starting Sign" iconFile="Data/SchattenfluegelTrails/st_jumpingpuzzles_complete_flamelegion_startsign.png" mapDisplaySize="130" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_togglesigns_startsign" DisplayName="Starting Sign" iconFile="Data/SchattenfluegelTrails/st_jumpingpuzzles_complete_flamelegion_togglesigns_startsign.png" mapDisplaySize="80" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_togglesigns_finish" DisplayName="Finish Sign" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" mapDisplaySize="80" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_flamelegion_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -546,7 +546,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer" DisplayName="Nebelsperren-Bergsteiger *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_mistlockmountaneer_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -556,7 +556,7 @@
 				<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum" DisplayName="Obsidianrefugium *">
 					<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum_toggletrail" DisplayName="Toggle Trail"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_obsidiansanctumtogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_obsidiansanctum_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_obsidiansanctum_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
@@ -567,7 +567,7 @@
 					<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_toggletrail_green" DisplayName="Toggle Trail Green"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_toggletrail_blue" DisplayName="Toggle Trail Blue"/>
 					<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_togglesigns" DisplayName="Toggle Signs">
-						<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_mistwroughtvaulttogglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
+						<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_togglesigns_startsign" DisplayName="Starting Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_mistwroughtvault_togglesigns_startsign.png" iconSize="2" fadeNear="1900" fadeFar="2000" heightOffset="2.5"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_togglesigns_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_togglesigns_jump" DisplayName="Trail - Jump" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_trailpoint_jump.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_complete_mistwroughtvault_togglesigns_chest" DisplayName="Chest" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_complete_chest.png" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
@@ -714,10 +714,16 @@
 				
 				<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway" DisplayName= "Steine Hüpfen Lassen [Springer + Gleiten]">
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_toggletrail" DisplayName="Toggle Route" />
+					<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_toggletrail2" DisplayName="Toggle Route 2" />
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns" DisplayName="Toggle Signs">
 						<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns_startsign" DisplayName="Start"  iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_startsign.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns_springer" DisplayName="Springer"  iconFile="Data/SchattenfluegelTrails/st_guides_mounts_springer.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 						<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns_leanforward" DisplayName="Lehnen"  iconFile="Data/SchattenfluegelTrails/st_guides_leanforward.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+					</MarkerCategory>
+					<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns2" DisplayName="Toggle Signs 2">
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns2_startsign" DisplayName="Start"  iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_startsign.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns2_springer" DisplayName="Springer"  iconFile="Data/SchattenfluegelTrails/st_guides_mounts_springer.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_togglesigns2_leanforward" DisplayName="Lehnen"  iconFile="Data/SchattenfluegelTrails/st_guides_leanforward.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
 					</MarkerCategory>
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_skippingstoneseasyway_toggleexplanations" DisplayName="Erläuterungen" />
 				</MarkerCategory>
@@ -754,8 +760,8 @@
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_jumpingpuzzles_quickruns" DisplayName="Zeitherausforderungen / Quickruns">
-				<MarkerCategory name="st_jumpingpuzzles_quickruns_startsign" DisplayName= "Quickrun Starting-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_start.png" mapDisplaySize="80" iconSize="0.4" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
-				<MarkerCategory name="st_jumpingpuzzles_quickruns_finish" DisplayName= "Qucikrun Finish-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_finish.png" mapDisplaySize="80" iconSize="0.4" fadeNear="1900" fadeFar="2000" heightOffset="2.5" minSize="50"/>
+				<MarkerCategory name="st_jumpingpuzzles_quickruns_startsign" DisplayName= "Quickrun Starting-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_start.png" mapDisplaySize="20" iconSize="0.2" fadeNear="1500" fadeFar="1000" heightOffset="2.5" minSize="50"/>
+				<MarkerCategory name="st_jumpingpuzzles_quickruns_finish" DisplayName= "Qucikrun Finish-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_finish.png" mapDisplaySize="20" iconSize="0.2" fadeNear="1500" fadeFar="1000" heightOffset="2.5" minSize="50"/>
 			</MarkerCategory>
 		<!--</MarkerCategory>-->
 	</MarkerCategory>
