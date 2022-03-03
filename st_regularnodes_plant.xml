@@ -3357,7 +3357,22 @@
 	################################################## NEW UNSORTED  ###########################################
 	############################################################################################################ -->
 
-
+		<POI MapID="24" xpos="879.845" ypos="37.6541" zpos="305.786" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_taproots" GUID="J+TWw5+E3ES8PStBe6JhcQ=="/>
+		<POI MapID="24" xpos="580.143" ypos="23.0025" zpos="372.84" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbsprouts" GUID="mV3PG27tLkSWZFObfqpqTQ=="/>
+		<POI MapID="24" xpos="-86.0733" ypos="-34.3098" zpos="-40.7226" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_clam" GUID="OVtczbrJDUq1BqXvqGN/Tw=="/>
+		<POI MapID="24" xpos="-102.905" ypos="-36.9785" zpos="-110.985" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_clam" GUID="xMmwUIksKk2vOgj89XvhNA=="/>
+		<POI MapID="24" xpos="-865.22" ypos="56.1533" zpos="558.209" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbsprouts" GUID="TQlibkMVPkWSSu30t+fr6g=="/>
+		<POI MapID="24" xpos="-777.816" ypos="32.3549" zpos="86.2053" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_herbsprouts" GUID="+fwuxsRWiE+qb+tfmiWrkQ=="/>
+		<POI MapID="24" xpos="-914.98" ypos="11.9297" zpos="95.2232" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_taproots" GUID="E9xMWRCrT0KUjrLOlQsggg=="/>
+		<POI MapID="24" xpos="-1143.28" ypos="14.5106" zpos="-346.493" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_buttonmushrooms" GUID="MhHnLZ3GiEKFE096JktW9Q=="/>
+		<POI MapID="24" xpos="-1193.62" ypos="15.151" zpos="-319.765" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_buttonmushrooms" GUID="y38hzk5OdE+LMbBHTime9Q=="/>
+		<POI MapID="24" xpos="-1191.6" ypos="30.6121" zpos="-249.7" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_buttonmushrooms" GUID="exZQiukDZU2MYOS5IG9M+g=="/>
+		<POI MapID="73" xpos="160.592" ypos="1.70756" zpos="934.247" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_scallions" GUID="htpfuI8bP0Gz2BeNesv1Zg=="/>
+		<POI MapID="73" xpos="391.751" ypos="28.8125" zpos="857.817" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_variegatedtaproots" GUID="1ThKhlojg027rrZqigc3kA=="/>
+		<POI MapID="73" xpos="644.177" ypos="38.0351" zpos="883.494" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_variegatedtaproots" GUID="BzgBHpyl2UWsl6jhmlPBFQ=="/>
+		<POI MapID="73" xpos="672.501" ypos="36.3066" zpos="877.65" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_variegatedtaproots" GUID="kuQmYi3RXESMnpV73OpJIg=="/>
+		<POI MapID="73" xpos="683.95" ypos="11.6377" zpos="723.901" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_portobellomushrooms" GUID="7NrYtxrs40yTTUz+oSrP7g=="/>
+		<POI MapID="73" xpos="29.4514" ypos="17.3622" zpos="452.342" type="st_guides.st_regularnodes_plant.st_regularnodes_plant_scallions" GUID="TjXEr5plakGeN02hyzVmcw=="/>
 
 
 
