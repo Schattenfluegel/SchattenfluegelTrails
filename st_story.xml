@@ -1,0 +1,53 @@
+<OverlayData>
+	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
+		<MarkerCategory name="st_story" DisplayName="Persönliche Geschichte">
+
+		<!-- ################################################################################
+		##################### END OF DRAGONS ################################################
+		#####################################################################################		-->
+		
+			<MarkerCategory name="st_story_eod" DisplayName="End of Dragons">
+				<MarkerCategory name="st_story_eod_0" DisplayName="0: Konvergenz">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_1" DisplayName="1: Alte Freunde">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_2" DisplayName="2: Öffentlichkeitsarbeit">
+					<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_3" DisplayName="3: Eure Art von Leuten">
+					<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_4" DisplayName="4: Traue keinem Piraten">
+					<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_5" DisplayName="5: Kleine Umwege">
+					<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_6" DisplayName="6: Jade und die Zukunft">
+					<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+					<MarkerCategory name="st_story_eod_6_bildungsreise" DisplayName="Bildungsreise" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="2" heightOffset="2.5" fadeNear="5000" fadeFar="5100"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+		<!-- Fesivals -->
+		
+		<!-- Error Collection -->
+
+		
+		
+		
+		<!-- ##################################### NEW POIs ############################################# -->
+		
+
+		
+		<!-- Trails -->
+		
+		
+	</POIs>
+</OverlayData>

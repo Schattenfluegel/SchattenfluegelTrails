@@ -1,6 +1,6 @@
 <OverlayData>
 	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-		<MarkerCategory name="separatorgeneral00"  IsSeparator="1" DisplayName="[Schattenfluegel Trails Build 3.2.3]"/>
+		<MarkerCategory name="separatorgeneral00"  IsSeparator="1" DisplayName="[Schattenfluegel Trails Build 3.5.1]"/>
 		<MarkerCategory name="separatorgeneral01"  IsSeparator="1" DisplayName="_________Nodefarming_________"/>
 		<MarkerCategory name="separatornf01" IsSeparator="1" DisplayName="Regular Nodes"/>
 		<MarkerCategory name="st_regularnodes_ore" DisplayName="Erz"/>
@@ -27,7 +27,16 @@
 		<MarkerCategory name="st_mapcompletion_lws4" DisplayName="Lebendige Welt Staffel 4"/>
 		<MarkerCategory name="st_mapcompletion_ebs" DisplayName="Eisbrut Saga"/>
 		<MarkerCategory name="st_mapcompletion_eod" DisplayName="End of Dragons"/>
-		<MarkerCategory name="separatorgeneral05"  IsSeparator="1" DisplayName="__________Tutorials__________"/>
+		<MarkerCategory name="separatorgeneral05"  IsSeparator="1" DisplayName="___Persönliche Geschichte____"/>
+		<MarkerCategory name="st_story_core" DisplayName="Grundspiel"/>
+		<MarkerCategory name="st_story_lws2" DisplayName="Lebendige Welt Staffel 2"/>
+		<MarkerCategory name="st_story_hot" DisplayName="Heart of Thornes"/>
+		<MarkerCategory name="st_story_lws3" DisplayName="Lebendige Welt Staffel 3"/>
+		<MarkerCategory name="st_story_pof" DisplayName="Path of Fire"/>
+		<MarkerCategory name="st_story_lws4" DisplayName="Lebendige Welt Staffel 4"/>
+		<MarkerCategory name="st_story_ebs" DisplayName="Eisbrutsaga"/>
+		<MarkerCategory name="st_story_eod" DisplayName="End of Dragons"/>
+		<MarkerCategory name="separatorgeneral06"  IsSeparator="1" DisplayName="__________Tutorials__________"/>
 		<MarkerCategory name="st_tutorials_openworld" IsSeparator="1" DisplayName="Open World (In Bearbeitung)">
 			<MarkerCategory name="st_tutorials_openworld_jumpingpuzzles" IsSeparator="1" DisplayName="Sprungrätsel (In Bearbeitung)"/>
 			<MarkerCategory name="st_tutorials_openworld_worldbosses" IsSeparator="1" DisplayName="Weltbosse (In Bearbeitung)"/>
@@ -36,7 +45,7 @@
 		<MarkerCategory name="st_tutorials_strikes" IsSeparator="1" DisplayName="Angriffsmissionen (In Bearbeitung)"/>
 		<MarkerCategory name="st_tutorials_raids" IsSeparator="1" DisplayName="Schlachtzüge (In Bearbeitung)"/>
 		<MarkerCategory name="st_tutorials_misc" IsSeparator="1" DisplayName="Weiteres (In Bearbeitung)"/>
-		<MarkerCategory name="separatorgeneral06" IsSeparator="1" DisplayName="__________Festivals__________"/>
+		<MarkerCategory name="separatorgeneral07" IsSeparator="1" DisplayName="__________Festivals__________"/>
 		<MarkerCategory name="st_festivals" DisplayName="Festivals">
 			<MarkerCategory name="st_festivals_lunanewyear" IsSeparator="1" DisplayName="Mondneujahr (In Bearbeitung)"/>
 			<MarkerCategory name="st_festivals_sab" IsSeparator="1" DisplayName="Super Adventure Box (In Bearbeitung)"/>
@@ -45,10 +54,10 @@
 			<MarkerCategory name="st_festivals_halloween" IsSeparator="1" DisplayName="Halloween (In Bearbeitung)"/>
 			<MarkerCategory name="st_festivals_wintersday" IsSeparator="1" DisplayName="Wintertag (In Bearbeitung)"/>
 		</MarkerCategory>
-		<MarkerCategory name="separatorgeneral07"  IsSeparator="1" DisplayName="__________Weiteres___________"/>
+		<MarkerCategory name="separatorgeneral08"  IsSeparator="1" DisplayName="__________Weiteres___________"/>
 		<MarkerCategory name="st_fractals" IsSeparator="1" DisplayName="Fraktale der Nebel (In Bearbeitung)"/>
 		<MarkerCategory name="st_misc" DisplayName="Weiteres"/>
-		<MarkerCategory name="separatorgeneral08"  IsSeparator="1" DisplayName="___________Gilden____________"/>
+		<MarkerCategory name="separatorgeneral09"  IsSeparator="1" DisplayName="___________Gilden____________"/>
 		<MarkerCategory name="st_guilds" IsSeparator="1" DisplayName="Gildenmissionen (In Bearbeitung)"/>
 	</MarkerCategory>
 </OverlayData>
