@@ -1,0 +1,67 @@
+<OverlayData>
+	<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_erfolge">
+<!--		#####################################################################################
+			##################### END OF DRAGONS ################################################
+			#####################################################################################	-->
+
+			<MarkerCategory name="st_erfolge_eod" DisplayName="End of Dragons">
+			
+				<MarkerCategory name="st_erfolge_eod_echowaldwildnis" DisplayName="Die Echowald-Wildnis" iconFile="Data/SchattenfluegelTrails/Erfolge/st_erfolge_eod_echowaldwildnis.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_fuerdenwald" DisplayName="Für den Wald" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_allesgutekommtvonoben" DisplayName="Alles Gute kommt von oben" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_beleuchtungderechowaldwildnis" DisplayName="Beleuchtung der Echowald-Wildnis" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_bogenschiessenvomfeinsten" DisplayName="Bogenschießen vom Feinsten" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_derverwunschenealtar" DisplayName="Der Verwunschene Altar" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_derverwunschenehof" DisplayName="Der verwunschene Hof" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_dieverwunschenewarte" DisplayName="Die verwunschene Warte" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_diebessicherung" DisplayName="Diebessicherung" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_echowaldwildnistaucher" DisplayName="Echowald-Wildnis-Taucher" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_hochstaplerunteruns" DisplayName="Ein Hochstapler ist unter uns" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_entferntevirfahren" DisplayName="Entfernte Vorfahren" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_enthuellteritualisten" DisplayName="Enthüllte Ritualisten" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_freundderpanzerechsen" DisplayName="Freund der Panzerechsen" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_fuerlebendenichttoten" DisplayName="Für die Lebenden, nicht die Toten!" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_gesundundmunter" DisplayName="Gesund und munter" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_glitschigwieeinfisch" DisplayName="Glitschig wie ein Fisch" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_gruftsucher" DisplayName="Gruftsucher" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_gutgepanzert" DisplayName="Gut gepanzert" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_klebrigefinger" DisplayName="Klebrige Finger" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_lutgardismaestro" DisplayName="Lutgardis-Maestro" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_nurleichtverbeult" DisplayName="Nur leicht verbeult" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_raptorlaeufer" DisplayName="Raptor-Läufer: Echowald-Wildnis" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_ruhendesherz" DisplayName="Ruhendes Herz" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_saboteurinmitte" DisplayName="Saboteur in unserer Mitte" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_schreckenschutzauber" DisplayName="Schrecken der Schutzzauber" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_springerschleuder" DisplayName="Springer-Schleuder: Echowald-Wildnis" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_unheimlichheimlich" DisplayName="Unheimlich heimlich" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_valdherzsieger" DisplayName="Valdherz-Sieger" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_vereitelterache" DisplayName="Vereitelte Rache" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_vogelpraezisionsschuetze" DisplayName="Vogel-Präzisionsschütze" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_washabenschreinwaechtergesagt" DisplayName="Was haben die Schreinwächter gesagt?" achievementId="XXXX"/>
+					<MarkerCategory name="st_erfolge_eod_echowaldwildnis_respektiertdieaeltesten" DisplayName="Respektiert die Ältesten" achievementId="XXXX"/>
+				</MarkerCategory>
+				
+			</MarkerCategory>
+
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+
+		
+		
+		
+		<!-- ##################################### NEW POIs ############################################# -->
+		<POI MapID="1452" xpos="-330.959" ypos="178.254" zpos="624.452" type="st_guides.st_erfolge.st_erfolge_eod.st_erfolge_eod_echowaldwildnis.st_erfolge_eod_echowaldwildnis_gruftsucher" GUID="jugG4WIYx0Sbh+d7XXH15g=="/>
+		<POI MapID="1452" xpos="291.177" ypos="247.039" zpos="371.202" type="st_guides.st_erfolge.st_erfolge_eod.st_erfolge_eod_echowaldwildnis.st_erfolge_eod_echowaldwildnis_gruftsucher" GUID="f0BwVqcQ50Cm+nOgE1Vulw=="/>
+		<POI MapID="1452" xpos="625.487" ypos="0.577701" zpos="-562.459" type="st_guides.st_erfolge.st_erfolge_eod.st_erfolge_eod_echowaldwildnis.st_erfolge_eod_echowaldwildnis_gruftsucher" GUID="W3Cg4vM0/EeJ4k4kVHh09A=="/>
+		<POI MapID="1452" xpos="-485.537" ypos="44.2161" zpos="-667.749" type="st_guides.st_erfolge.st_erfolge_eod.st_erfolge_eod_echowaldwildnis.st_erfolge_eod_echowaldwildnis_gruftsucher" GUID="d2Ute+FsmkGeULsLLkdBlQ=="/>
+		<POI MapID="1452" xpos="-330.246" ypos="178.057" zpos="622.828" type="st_guides.st_erfolge.st_erfolge_eod.st_erfolge_eod_echowaldwildnis.st_erfolge_eod_echowaldwildnis_gruftsucher" GUID="Nx1h5E+Z/kyaem4Se7yWTw=="/>
+
+
+		
+		
+	</POIs>
+</OverlayData>
