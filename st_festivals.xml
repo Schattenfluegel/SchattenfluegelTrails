@@ -1,0 +1,83 @@
+<OverlayData>
+	<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_misc">
+			<MarkerCategory name="st_misc_festivals" DisplayName="Festivals">
+				<MarkerCategory name="st_misc_festivals_moonyear" DisplayName="Mondneujahr">
+					<MarkerCategory name="st_misc_festivals_moonyear_race" DisplayName="Rennen">
+						<MarkerCategory name="st_misc_festivals_moonyear_race_toggletrails" DisplayName="Toggle Trail">
+							<MarkerCategory name="st_misc_festivals_moonyear_race_toggletrails_toggletrail01" DisplayName="Toggle Route" />
+						</MarkerCategory>
+						<MarkerCategory name="st_misc_festivals_moonyear_race_togglesigns" DisplayName="Toggle Signs">
+							<MarkerCategory name="st_misc_festivals_moonyear_race_togglesigns_startsign" DisplayName="Toggle Starting Sign" iconFile="Data/SchattenfluegelTrails/st_trail_start_g.png" iconSize="2" heightOffset="2.5" fadeNear="5000" fadeFar="5100"/>
+							<MarkerCategory name="st_misc_festivals_moonyear_race_togglesigns_finish" DisplayName="Toggle Finish Sign" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+						</MarkerCategory>
+					</MarkerCategory>
+					<MarkerCategory name="st_misc_festivals_moonyear_firework1" DisplayName="Feuerwerkskörper entzünden 1">
+						<MarkerCategory name="st_misc_festivals_moonyear_firework1_toggletrails" DisplayName="Toggle Trail">
+							<MarkerCategory name="st_misc_festivals_moonyear_firework1_toggletrails_toggletrail01" DisplayName="Toggle Route" />
+						</MarkerCategory>
+						<MarkerCategory name="st_misc_festivals_moonyear_firework1_togglesigns" DisplayName="Toggle Signs">
+							<MarkerCategory name="st_misc_festivals_moonyear_firework1_togglesigns_startsign" DisplayName="Toggle Starting Sign" iconFile="Data/SchattenfluegelTrails/st_trail_start_g.png" iconSize="2" heightOffset="2.5" fadeNear="5000" fadeFar="5100"/>
+							<MarkerCategory name="st_misc_festivals_moonyear_firework1_togglesigns_finish" DisplayName="Toggle Finish Sign" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+						</MarkerCategory>
+					</MarkerCategory>
+					<MarkerCategory name="st_misc_festivals_moonyear_firework2" DisplayName="Feuerwerkskörper entzünden 2">
+						<MarkerCategory name="st_misc_festivals_moonyear_firework2_toggletrails" DisplayName="Toggle Trail">
+							<MarkerCategory name="st_misc_festivals_moonyear_firework2_toggletrails_toggletrail01" DisplayName="Toggle Route" />
+						</MarkerCategory>
+						<MarkerCategory name="st_misc_festivals_moonyear_firework2_togglesigns" DisplayName="Toggle Signs">
+							<MarkerCategory name="st_misc_festivals_moonyear_firework2_togglesigns_startsign" DisplayName="Toggle Starting Sign" iconFile="Data/SchattenfluegelTrails/st_trail_start_g.png" iconSize="2" heightOffset="2.5" fadeNear="5000" fadeFar="5100"/>
+							<MarkerCategory name="st_misc_festivals_moonyear_firework2_togglesigns_finish" DisplayName="Toggle Finish Sign" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png" iconSize="1.2" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+						</MarkerCategory>
+					</MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_misc_maps" DisplayName="Kartenspezifisches">
+				<MarkerCategory name="st_misc_maps_lws3" DisplayName="Lebende Welt 3">
+					<MarkerCategory name="st_misc_maps_lws3_sirenslanding" DisplayName="Zaubersängerlände">
+						<MarkerCategory name="st_misc_maps_lws3_sirenslanding_storytellerabaddon" DisplayName="Geschichtenerzähler: Abaddon" iconFile="Data/SchattenfluegelTrails/st_gatheringnodes_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="7"/>
+					</MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+		<!-- Fesivals -->
+		
+		<!-- Error Collection -->
+		<POI MapID="1310" xpos="84.5196" ypos="408.74" zpos="234.048" type="st_misc_error_grp1" GUID="1qjUgZbRxUKmV+N0+63gSg=="/>
+		
+		<POI MapID="54" xpos="-736.93" ypos="55.7366" zpos="413.615" type="st_misc_error_grp2" GUID="12i0WKpwt0Ct2+HkomJMFw=="/>
+		
+		
+		
+		<!-- ##################################### NEW POIs ############################################# -->
+		
+		<POI MapID="25" xpos="-213.791" ypos="0.201467" zpos="1139.14" type="tw_guides.tw_festival_fourwinds.tw_festival_fourwinds_zephyritekitebaskets_zephyritekitebasket" GUID="Cx6r0Gkjb0CMmuwGvydSjg=="/>
+		<POI MapID="22" xpos="-645.912" ypos="86.9746" zpos="115.349" type="tw_guides.tw_festival_fourwinds.tw_festival_fourwinds_zephyritekitebaskets_zephyritekitebasket" GUID="PTsqVLFWzUayBVKmMFjmiw=="/>
+
+		<POI MapID="1178" xpos="-342.761" ypos="32.6056" zpos="45.9771" type="tw_guides.tw_lws3.tw_lws3_bitterfrostfrontier.tw_lws3_bitterfrostfrontier_winterberries.tw_lws3_bitterfrostfrontier_winterberry" GUID="G7A1De8dX02GX24nPLjvtw=="/>
+
+		<POI MapID="1203" xpos="-646.943" ypos="122.589" zpos="303.811" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="fVD5Yjr5gEWcEy90F0ZpMg=="/>
+		<POI MapID="1203" xpos="-698.656" ypos="78.1209" zpos="193.822" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="k1B/Iv2p7k2SXHVYLJ0LEw=="/>
+		<POI MapID="1203" xpos="-636.138" ypos="166.891" zpos="-126.787" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="7V/eBBWCYkiNKwFULSv5Tg=="/>
+		<POI MapID="1203" xpos="-985.197" ypos="4.80472" zpos="-290.371" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="JkbhDxux+02HLw7XMTDjXA=="/>
+		<POI MapID="1203" xpos="-249.016" ypos="72.4174" zpos="123.309" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="yf6t38fNoUe4Wdj+yboDXw=="/>
+		<POI MapID="1203" xpos="-412.863" ypos="-7.41354" zpos="90.5266" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="7/5xYAdzh0SJdlJRkScc3Q=="/>
+		<POI MapID="1203" xpos="-606.107" ypos="126.081" zpos="49.0432" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="a4HhZri7Qk68i+ALmBDeQg=="/>
+		<POI MapID="1203" xpos="84.162" ypos="133.734" zpos="362.229" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="uPe4mbiXUkis9yOUTe0KZQ=="/>
+		<POI MapID="1203" xpos="-429.714" ypos="128.211" zpos="148.364" type="st_guides.st_misc_maps.st_misc_maps_lws3.st_misc_maps_lws3_sirenslanding.st_misc_maps_lws3_sirenslanding_storytellerabaddon" GUID="lcYAxaqiNU2jTJYefVr32g=="/>
+
+		<POI MapID="18" xpos="57.2381" ypos="100.444" zpos="-469.319" type="tw_guides.tw_festival_dragonbash.tw_festival_dragonbash_dragonpinatas.tw_festival_dragonbash_dragonpinatas_signs.tw_festival_dragonbash_dragonpinatas_dragonpinata" GUID="85eZ7TymXUmG4+nPrYJaaA=="/>
+		<POI MapID="18" xpos="77.2443" ypos="100.436" zpos="-468.941" type="tw_guides.tw_festival_dragonbash.tw_festival_dragonbash_dragonpinatas.tw_festival_dragonbash_dragonpinatas_signs.tw_festival_dragonbash_dragonpinatas_dragonpinata" GUID="yTqIIdwt6EWUC7RTiDT4qQ=="/>
+
+
+		
+		<!-- Trails -->
+		<Trail type="st_guides.st_misc.st_misc_festivals.st_misc_festivals_moonyear.st_misc_festivals_moonyear_race.st_misc_festivals_moonyear_race_toggletrails.st_misc_festivals_moonyear_race_toggletrails_toggletrail01" GUID="FWdU7nNZ30+Z4eIpMieV2Q==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Mondneujahr_Rennen_Trail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_misc.png"/>
+		<Trail type="st_guides.st_misc.st_misc_festivals.st_misc_festivals_moonyear.st_misc_festivals_moonyear_firework1.st_misc_festivals_moonyear_firework1_toggletrails.st_misc_festivals_moonyear_firework1_toggletrails_toggletrail01" GUID="1ilQ2HpyQkOK4WBDlvG49w==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Mondneujahr_FeuerwerkAbenteuer_2_Trail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_misc.png"/>
+				
+		
+	</POIs>
+</OverlayData>

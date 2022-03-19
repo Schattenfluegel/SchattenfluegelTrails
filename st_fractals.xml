@@ -1,6 +1,6 @@
 <OverlayData>
-	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-		<MarkerCategory name="st_fractals" DisplayName="Fraktale der Nebel">
+	<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_fractals">
 			<MarkerCategory name="st_fractals_albtraum" DisplayName="Albtraum (23|48|73|98)">
 				<MarkerCategory name="st_fractals_albtraum_trails" DisplayName="Pfade">
 					<MarkerCategory name="st_fractals_albtraum_trails_mamaspawns" DisplayName="Spawnpunkte MAMA"/>

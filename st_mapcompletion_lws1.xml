@@ -1,0 +1,62 @@
+<OverlayData>
+<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_mapcompletion_lws1">
+			<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht" DisplayName="Südlichtbucht">
+				<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_trail" DisplayName="Trail">
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_trail_toggletrail" DisplayName="Toggle Trail"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_trail_enter" DisplayName="Eingang" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_enter.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_trail_exit" DisplayName="Ausgang" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_exit.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_trail_startsign" DisplayName="Start Icon" iconFile="Data/SchattenfluegelTrails/Erkundung/st_mapcompletion_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_trail_finish" DisplayName="Ziel Icon" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="10"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi" DisplayName="POIs">
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest01" DisplayName="Freibeuter-Anlegestelle" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest02" DisplayName="Onyx-Feld" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest03" DisplayName="Glut-Passage" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest04" DisplayName="Dampfrohr-Gehöft" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest05" DisplayName="Canachs Torheit" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest06" DisplayName="Karka-Bau" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint" DisplayName="Wegmarken">
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint01" DisplayName="Perlen-Inselchen" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint02" DisplayName="Kiels Außenposten" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint03" DisplayName="Stolzpunkt" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint04" DisplayName="Löwenpunkt" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint05" DisplayName="Karka-Lager" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+					<MarkerCategory name="st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint06" DisplayName="Owains Zuflucht" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.3" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="10"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>	
+</MarkerCategory>
+	
+	<POIs>
+<!-- POIs -->
+
+	<!-- SUEDLICHTBUCHT (873) -->
+		<POI MapID="873" xpos="646.849" ypos="33.9799" zpos="-312.309"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_trail.st_mapcompletion_lws1_suedlichtbucht_trail_startsign" GUID="YfzPXBSU7km5O4kPKPYh6Q=="/>
+		<POI MapID="873" xpos="-286.074" ypos="78.0869" zpos="167.782"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_trail.st_mapcompletion_lws1_suedlichtbucht_trail_finish" GUID="UXr6Ee4QyUqz2w9Ai004zg=="/>
+		<POI MapID="873" xpos="320.467" ypos="-22.3619" zpos="-377.46"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_poi.st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest01" GUID="INgezaywC0qzzSk2KIp/Qw=="/>
+		<POI MapID="873" xpos="478.124" ypos="49.6146" zpos="-24.2721"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_poi.st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest02" GUID="//lfWnyJIEO96GEhtzgt6w=="/>
+		<POI MapID="873" xpos="-106.945" ypos="-0.147293" zpos="137.412" type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_poi.st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest03" GUID="9Rbmjrf3LESr+4y7siaVeA=="/>
+		<POI MapID="873" xpos="172.671" ypos="29.7664" zpos="108.808"    type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_poi.st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest04" GUID="r6X+FsZd4EGZV+He0toXEQ=="/>
+		<POI MapID="873" xpos="-355.54" ypos="31.7377" zpos="-287.295"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_poi.st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest05" GUID="TcNteD+ij0aRZX9v+JmzXA=="/>
+		<POI MapID="873" xpos="-288.495" ypos="77.2301" zpos="164.675"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_poi.st_mapcompletion_lws1_suedlichtbucht_poi_pointofinterest06" GUID="SZasXB3x1kWOqKNKWmHZcg=="/>
+		<POI MapID="873" xpos="622.684" ypos="31.0133" zpos="-346.09"    type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_waypoint.st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint01" GUID="nU7VHWDYiZ6T/8r31Hd2fg=="/>
+		<POI MapID="873" xpos="485.312" ypos="29.2729" zpos="93.3894"    type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_waypoint.st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint02" GUID="0wzT1d1avBgWkUvhcNksTg=="/>
+		<POI MapID="873" xpos="651.766" ypos="0.844255" zpos="372.357"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_waypoint.st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint03" GUID="l6VZDUh1VE+/OU0/WaiRVQ=="/>
+		<POI MapID="873" xpos="-12.7168" ypos="0.691804" zpos="351.008"  type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_waypoint.st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint04" GUID="W8AoO1yEQ0iYg5aXKNA35w=="/>
+		<POI MapID="873" xpos="-539.582" ypos="31.7106" zpos="-411.625"  type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_waypoint.st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint06" GUID="45+x5VKlEkGcCajQelpOtQ=="/>
+		<POI MapID="873" xpos="24.1099" ypos="22.8403" zpos="-330.073"   type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_waypoint.st_mapcompletion_lws1_suedlichtbucht_waypoint_waypoint05" GUID="isftciimXkCsIJ8GE1Aegg=="/>
+
+		<Trail type="st_guides.st_mapcompletion_lws1.st_mapcompletion_lws1_suedlichtbucht.st_mapcompletion_lws1_suedlichtbucht_trail.st_mapcompletion_lws1_suedlichtbucht_trail_toggletrail" GUID="NmQpRzZ3PkWSD0Fou2u1zw==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Erkundung/SuedlichtMapComplete.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_mc.png"/>
+		
+
+<!-- ERRORS -->
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	 ~~~~~~~~ NEW UNSORTED ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	 
+	
+		</POIs>
+</OverlayData>

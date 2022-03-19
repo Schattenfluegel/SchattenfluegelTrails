@@ -1,7 +1,6 @@
 <OverlayData>
-<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-	<!-- <MarkerCategory name="st_gatheringnodes" DisplayName="Gathering Nodes"> -->
-		<MarkerCategory name="st_gatheringnodes_cluster" DisplayName="Node Cluster">
+<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_gatheringnodes_cluster">
 
 			<MarkerCategory name="st_gatheringnodes_cluster_elderwood" DisplayName="Altes Holz [Start: Meerenge der Verwüstung - Abwege]*">
 				<MarkerCategory name="st_gatheringnodes_cluster_elderwood_toggletrails" DisplayName="Toggle Routes">
@@ -11,7 +10,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_elderwood_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_teleport01" DisplayName="Teleport 1: Pagga" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_elderwood_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_elderwood_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -25,7 +24,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_teleport01" DisplayName="Teleport 1: Sockel-Waldland" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_teleport02" DisplayName="Teleport 2: Nekropole" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_artichoke_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_artichoke_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -39,7 +38,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_teleport01" DisplayName="Teleport 1: Ozeanschlund" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_teleport02" DisplayName="Teleport 2: Olishars Oasenlager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cauliflower_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cauliflower_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -51,7 +50,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_butternut_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_teleport01" DisplayName="Teleport 1: Arundon" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_butternut_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_butternut_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -67,7 +66,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_teleport01" DisplayName="Teleport 1: Reißertal" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_teleport02" DisplayName="Teleport 2: Cereboth" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_teleport03" DisplayName="Teleport 3: Hellwasser" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_strawberries_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_strawberries_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -77,7 +76,7 @@
 				</MarkerCategory>
 				<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_carrots_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_carrots_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -93,7 +92,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_teleport01" DisplayName="Teleport 1: Akk-Wildnis" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_teleport02" DisplayName="Teleport 2: Tempel der Kormir" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_teleport03" DisplayName="Teleport 3: Basislager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_potatoes_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_potatoes_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 
@@ -107,7 +106,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_teleport01" DisplayName="Teleport 1: Große Weite" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_teleport02" DisplayName="Teleport 2: Demetra" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_cabbage_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_cabbage_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -125,7 +124,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport02" DisplayName="Teleport 2: Aussichtspunkt des Eiferers" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport03" DisplayName="Teleport 3: Heidenhalt" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport03.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_teleport04" DisplayName="Teleport 4: Venta-Pass" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_flax_signs_teleport04.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_flax_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -156,7 +155,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport11" DisplayName="Teleport 11: Lager der Verbündeten" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport11.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport12" DisplayName="Teleport 12: Apizmic-Gründe" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport12.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_teleport13" DisplayName="Teleport 13: Zurückeroberte Heilige Halle" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mussels_signs_teleport13.png" miniMapVisibility="0" mapVisibility="0" iconSize="2.5" fadeNear="1200" fadeFar="1300" heightOffset="3" minSize="50"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mussels_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -168,7 +167,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_clam_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_clam_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_teleport01" DisplayName="Teleport 1: Basislager" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_clam_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_clam_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 		
@@ -180,7 +179,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_lettuce_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_teleport01" DisplayName="Teleport 1: Kraitbann-Freistatt" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_lettuce_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_lettuce_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -190,7 +189,7 @@
 				</MarkerCategory>
 				<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_seaweed_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_seaweed_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -202,7 +201,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_spinach_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_teleport01" DisplayName="Teleport 1: Wachsame Quelle" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_spinach_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_spinach_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -214,7 +213,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_grapes_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_teleport01" DisplayName="Teleport 1: Dämonenschlund" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_grapes_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_grapes_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -226,7 +225,7 @@
 				<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_sugarpumpkins_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_teleport01" DisplayName="Teleport 1: Remanda" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_sugarpumpkins_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_sugarpumpkins_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			
@@ -240,7 +239,7 @@
 					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_signs_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_teleport01" DisplayName="Toggle Teleport Sign 1" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_signs_teleport01.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
 					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_teleport02" DisplayName="Toggle Teleport Sign 2" iconFile="Data/SchattenfluegelTrails/Gathering/Cluster/st_gatheringnodes_cluster_mixed_signs_teleport02.png" miniMapVisibility="0" mapVisibility="0" iconSize="2" fadeNear="1200" fadeFar="1300" heightOffset="3"/>
-					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_g.png.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+					<MarkerCategory name="st_gatheringnodes_cluster_mixed_signs_finish" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
 				</MarkerCategory>
 			</MarkerCategory>
 			

@@ -1,42 +1,41 @@
 <OverlayData>
-<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-  <!--<MarkerCategory name="st_regularnodes" DisplayName="Regular Nodes">-->
-		<MarkerCategory name="st_regularnodes_ore" DisplayName="Erz">
+<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_regularnodes_ore">
 			<MarkerCategory name="st_regularnodes_ore_copper" DisplayName="Kupfer">
-				<MarkerCategory name="st_regularnodes_ore_copper_regular" DisplayName="Toggle Regular Nodes" type="CopperNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_copper_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_copper_rich" DisplayName="Toggle Rich Nodes" type="CopperRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_copper_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_copper_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_copper_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_copper_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_copper_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 		
 			<MarkerCategory name="st_regularnodes_ore_iron" DisplayName="Eisen">
-				<MarkerCategory name="st_regularnodes_ore_iron_regular" DisplayName="Toggle Regular Nodes" type="IronNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_iron_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_iron_rich" DisplayName="Toggle Rich Nodes" type="IronRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_iron_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_iron_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_iron_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_iron_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_iron_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_regularnodes_ore_silver" DisplayName="Silber">
-				<MarkerCategory name="st_regularnodes_ore_silver_regular" DisplayName="Toggle Regular Nodes" type="SilverNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_silver_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_silver_rich" DisplayName="Toggle Rich Nodes" type="SilverRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_silver_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_silver_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_silver_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_silver_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_silver_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_regularnodes_ore_gold" DisplayName="Gold">
-				<MarkerCategory name="st_regularnodes_ore_gold_regular" DisplayName="Toggle Regular Nodes" type="GoldNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_gold_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_gold_rich" DisplayName="Toggle Rich Nodes" type="GoldRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_gold_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_gold_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_gold_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_gold_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_gold_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_regularnodes_ore_platinum" DisplayName="Platin">
-				<MarkerCategory name="st_regularnodes_ore_platinum_regular" DisplayName="Toggle Regular Nodes" type="PlatinumNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_platinum_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_platinum_rich" DisplayName="Toggle Rich Nodes" type="PlatinumRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_platinum_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_platinum_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_platinum_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_platinum_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_platinum_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_regularnodes_ore_mithril" DisplayName="Mithril">
-				<MarkerCategory name="st_regularnodes_ore_mithril_regular" DisplayName="Toggle Regular Nodes" type="MithrilNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_mithril_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_mithril_rich" DisplayName="Toggle Rich Nodes" type="MithrilRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_mithril_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_mithril_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_mithril_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_mithril_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_mithril_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
 			
 			<MarkerCategory name="st_regularnodes_ore_orichalcum" DisplayName="Orichalcum">
-				<MarkerCategory name="st_regularnodes_ore_orichalcum_regular" DisplayName="Toggle Regular Nodes" type="OrichalcumNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_orichalcum_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
-				<MarkerCategory name="st_regularnodes_ore_orichalcum_rich" DisplayName="Toggle Rich Nodes" type="OrichalcumRichNode" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_orichalcum_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_orichalcum_regular" DisplayName="Toggle Regular Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_orichalcum_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
+				<MarkerCategory name="st_regularnodes_ore_orichalcum_rich" DisplayName="Toggle Rich Nodes" iconFile="Data/SchattenfluegelTrails/Regularnodes/st_regularnodes_orichalcum_node_rich.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100"  behavior="6"/>
 			</MarkerCategory>
-			<MarkerCategory name="st_regularnodes_ore_error" DisplayName="--------- Debugger Ore (Regular)" type="DebuggerRegularOre" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/> <!--fadeNear="3500" fadeFar="3600"-->
+			<MarkerCategory name="st_regularnodes_ore_error" DisplayName="--------- Debugger Ore (Regular)" iconFile="Data/SchattenfluegelTrails/error.png" iconSize="2.5" heightOffset="4.5" minSize="100"/> <!--fadeNear="3500" fadeFar="3600"-->
 		</MarkerCategory>
 	<!--</MarkerCategory>-->
 </MarkerCategory>
@@ -2228,6 +2227,116 @@
 		<POI MapID="1442" xpos="-305.257" ypos="59.195" zpos="488.261" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_mithril.st_regularnodes_ore_mithril_regular" GUID="V7te9MSpRk+3PJmXIDibkA=="/>
 		<POI MapID="1442" xpos="-341.357" ypos="42.9328" zpos="570.195" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_mithril.st_regularnodes_ore_mithril_regular" GUID="S8AvT4AqO06oWdMlbqp8Ag=="/>
 		<POI MapID="1438" xpos="-1001.55" ypos="-16.5417" zpos="-450.289" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_orichalcum.st_regularnodes_ore_orichalcum_regular" GUID="Y4ojBrVpMki16LnT5ReDIw=="/>
+		<POI MapID="1452" xpos="-602.614" ypos="217.861" zpos="-636.908" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_mithril.st_regularnodes_ore_mithril_regular" GUID="fnlRDzzVa0qSEUj1b+F5rg=="/>
+		<POI MapID="1452" xpos="-501.328" ypos="222.11" zpos="-420.253" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_mithril.st_regularnodes_ore_mithril_regular" GUID="Q9HEmKj+hki/rm2IdB91JQ=="/>
+		<POI MapID="28" xpos="222.337" ypos="133.243" zpos="1075.66" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="ACr0p/a6t0aUd+g/M79qgA=="/>
+		<POI MapID="28" xpos="-33.2063" ypos="197.79" zpos="1131.82" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="O4q5quXdOUGKK9IlLMjqHw=="/>
+		<POI MapID="28" xpos="-169.034" ypos="178.166" zpos="1159.92" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="KKRZahh5+UKrYePk6mXuNQ=="/>
+		<POI MapID="28" xpos="-347.584" ypos="124.304" zpos="385.446" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="t+rndwjz90+fAR6sf2HrOg=="/>
+		<POI MapID="28" xpos="-365.833" ypos="110.453" zpos="270.81" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="eztdXCa9CUGFKT7DIpO0oA=="/>
+		<POI MapID="28" xpos="-269.99" ypos="100.323" zpos="163.825" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="hVKqgEDVT0W6H7z+OSnTGA=="/>
+		<POI MapID="28" xpos="-286.479" ypos="140.094" zpos="122.364" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="5oYb3l9b/ESZwqGC+zNR9Q=="/>
+		<POI MapID="28" xpos="-303.738" ypos="152.97" zpos="-324.36" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="3KRpETzoUUe6cXvu/4/cfw=="/>
+		<POI MapID="28" xpos="-276.355" ypos="159.158" zpos="-407.429" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="x9sNdq22rkiDImgDCEeiig=="/>
+		<POI MapID="28" xpos="277.137" ypos="20.7257" zpos="-395.09" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="C+vWLULp8k2qsunkr9KkRA=="/>
+		<POI MapID="28" xpos="-228.961" ypos="61.4305" zpos="-361.496" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="k/ovUM/N/ka4i6cAi0ROXQ=="/>
+		<POI MapID="28" xpos="400.938" ypos="108.676" zpos="-112.851" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="aMMEC+fJoEe48bAl0ZOz2w=="/>
+		<POI MapID="28" xpos="149.947" ypos="103.379" zpos="111.018" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="zUffBK8OoESRxLMU3MFQlQ=="/>
+		<POI MapID="28" xpos="126.643" ypos="86.2645" zpos="161.035" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="TzXdMgKAVke5jjPXy5+oCA=="/>
+		<POI MapID="28" xpos="200.317" ypos="75.7843" zpos="110.796" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="tU9Z0fT0SUu1bVGwwTGH7w=="/>
+		<POI MapID="28" xpos="230.116" ypos="58.9993" zpos="82.39" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="3tbI6x/e5kOOHF/QGTE/hg=="/>
+		<POI MapID="28" xpos="371.682" ypos="74.2468" zpos="631.14" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="l6rlYYaGuE+8g02JJaIFpg=="/>
+		<POI MapID="28" xpos="441.959" ypos="77.7941" zpos="599.506" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="w8bl/eBxX0WEoiF1p1Fbhg=="/>
+		<POI MapID="28" xpos="446.455" ypos="82.7092" zpos="181.669" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="TmGrC2n6s0CqBmH01qMM2w=="/>
+		<POI MapID="28" xpos="174.351" ypos="73.8176" zpos="479.627" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="U3gcfKiRpEOr/JWwlQDpwA=="/>
+		<POI MapID="31" xpos="134.29" ypos="72.0076" zpos="562.282" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="R3Hz0iYOm0u9NJ2ZzTdxpw=="/>
+		<POI MapID="31" xpos="274.617" ypos="40.7272" zpos="-39.5341" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="huUrJYonQkC9EeaYlWALPQ=="/>
+		<POI MapID="31" xpos="368.046" ypos="24.3299" zpos="-41.4374" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="7Co/led18UOU5Hthw3cfSg=="/>
+		<POI MapID="31" xpos="543.699" ypos="58.6918" zpos="-67.1267" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="AIgiT+26gUCfsYhxKjE4mw=="/>
+		<POI MapID="31" xpos="987.177" ypos="101.826" zpos="-155.869" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="MW7JeVwif0GQqFJdwr9UDg=="/>
+		<POI MapID="31" xpos="983.933" ypos="104.712" zpos="-265.056" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="pP4dyccZpE+I4j8ZJZVJWg=="/>
+		<POI MapID="31" xpos="-269.809" ypos="10.5554" zpos="-360.603" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="vhugmKAKH0yI4XqKBuBAxw=="/>
+		<POI MapID="31" xpos="-309.591" ypos="22.1893" zpos="-400.125" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="hCYj1ki+Hk+cC847EgsHjA=="/>
+		<POI MapID="31" xpos="-611.314" ypos="30.3594" zpos="-535.976" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="fMHWTL3CYECfAhPwVH2x6A=="/>
+		<POI MapID="31" xpos="-529.589" ypos="26.7326" zpos="-335.206" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="Z2Qsk1cqRU68E1nOusJn/A=="/>
+		<POI MapID="31" xpos="-1120.69" ypos="49.2811" zpos="-466.911" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="YWOgQPbkaE2aitIPpsKjAg=="/>
+		<POI MapID="31" xpos="-665.227" ypos="78.858" zpos="105.411" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="ioaBiM9n2kK7uvFtjeIILQ=="/>
+		<POI MapID="31" xpos="-1032.32" ypos="93.4525" zpos="15.1902" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="eulAxsc7HkakotjVpD1BEg=="/>
+		<POI MapID="31" xpos="-432.627" ypos="42.8385" zpos="-440.242" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="yBs8wt9whUiLIEhx+NPaqw=="/>
+		<POI MapID="24" xpos="613.405" ypos="2.54611" zpos="-94.344" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="1yWuqFyVp0+xfUoMRsVOqA=="/>
+		<POI MapID="24" xpos="1005.75" ypos="73.9579" zpos="-436.811" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="MkSK4HHlmkage0eke85GVw=="/>
+		<POI MapID="24" xpos="1013.16" ypos="75.4837" zpos="-434.101" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="/eomi5jZwkif3nqhVWD4RA=="/>
+		<POI MapID="24" xpos="1110.8" ypos="75.7862" zpos="-505.196" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="pFUVc9gRWkWAINETbgXOFA=="/>
+		<POI MapID="24" xpos="1203.76" ypos="79.1801" zpos="-294.717" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="JBsMi9tVcEyhFRislKF+dg=="/>
+		<POI MapID="24" xpos="399.943" ypos="-9.90943" zpos="344.164" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="nGetkfPPdEa9HqXyOsE+IA=="/>
+		<POI MapID="24" xpos="199.759" ypos="2.29212" zpos="170.572" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="aXkLnNozekG301uhotmNpA=="/>
+		<POI MapID="24" xpos="177.689" ypos="0.00983691" zpos="148.294" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="8sa/2u68SEClzhkrHM3aXA=="/>
+		<POI MapID="24" xpos="-1106.84" ypos="46.0656" zpos="516.626" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="+JNfcS3mjUyacIbzHa+VUg=="/>
+		<POI MapID="24" xpos="-925.544" ypos="25.487" zpos="341.283" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="f/eybxFwGEWFjOCHgT+81g=="/>
+		<POI MapID="24" xpos="-886.764" ypos="33.0037" zpos="359.415" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="m7ByfhuVr0Wya1cDwRemyQ=="/>
+		<POI MapID="24" xpos="-1187.92" ypos="34.7814" zpos="-1.08216" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="CUtlEjM6k0OP+hbqZrqEYg=="/>
+		<POI MapID="24" xpos="-1126.11" ypos="25.4975" zpos="-378.459" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="dt0oPmVbOEGjDew7MevxpQ=="/>
+		<POI MapID="24" xpos="-1171.82" ypos="16.4865" zpos="-348.593" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="3akEE4Z250GzuTwUUEQcsw=="/>
+		<POI MapID="24" xpos="1148.53" ypos="78.6748" zpos="-211.146" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="rCQAhA9h20eZG3Wr6LuX7A=="/>
+		<POI MapID="24" xpos="1182.86" ypos="88.9419" zpos="-219.194" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="FQFAU8vdmkeag30dQ7mPVQ=="/>
+		<POI MapID="27" xpos="459.17" ypos="159.989" zpos="1389.59" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="PT9G6ZvY90uRUbHq2u3KCA=="/>
+		<POI MapID="19" xpos="1065.6" ypos="31.4152" zpos="584.207" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="jz9riOOhFUmHUDBM5qZkAw=="/>
+		<POI MapID="27" xpos="393.195" ypos="119.426" zpos="694.873" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="AQEM0+2ErUK60ajOJqeOkg=="/>
+		<POI MapID="27" xpos="164.773" ypos="154.092" zpos="826.009" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="ZEOZ5puKPkSvPf0GfdlnJw=="/>
+		<POI MapID="27" xpos="-295.734" ypos="70.0313" zpos="1378.13" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="ZKKhAvK4W0mEiWQPifMo5A=="/>
+		<POI MapID="27" xpos="-279.775" ypos="52.7516" zpos="1355.02" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="VyubMg3KBEy1CewQXfBL1g=="/>
+		<POI MapID="27" xpos="-251.075" ypos="96.6497" zpos="1041.1" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="b77Sgk3qaUmtK0xR2dstQg=="/>
+		<POI MapID="27" xpos="-120.594" ypos="42.4756" zpos="815.474" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="k2ItpA3640WIUzp0/ZQSjg=="/>
+		<POI MapID="27" xpos="459.47" ypos="153.704" zpos="525.172" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="LPUdyWjAWkqQa9u7VBCyUA=="/>
+		<POI MapID="27" xpos="509.511" ypos="179.284" zpos="434.243" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="qb42CbO8I0K84s8ODkOCJA=="/>
+		<POI MapID="27" xpos="347.708" ypos="146.576" zpos="-57.522" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="WMNHOokfIEmCRC6vnkGc0w=="/>
+		<POI MapID="27" xpos="145.891" ypos="96.2024" zpos="-23.0729" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="1YhR9KCOREm2SAfUBDBkJQ=="/>
+		<POI MapID="27" xpos="-275.162" ypos="63.8162" zpos="-214.145" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="d7YTfy00ZUGOkfSlXajoMA=="/>
+		<POI MapID="27" xpos="-319.355" ypos="31.594" zpos="-421.863" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="eVcUbIUbk0CUIRztMFa4pQ=="/>
+		<POI MapID="27" xpos="-55.2392" ypos="60.3973" zpos="-471.341" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="41hkrXwM9UeeVwhC8Ej4kA=="/>
+		<POI MapID="27" xpos="206.28" ypos="94.0073" zpos="-421.594" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="bDHIcfaeAUG/Fk0FbFeJDA=="/>
+		<POI MapID="27" xpos="272.508" ypos="98.8976" zpos="-705.697" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="9zoK4EF1+keNl7yL5tJEcg=="/>
+		<POI MapID="27" xpos="293.37" ypos="104.986" zpos="-722.43" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="7cB+ZQ+sDkuVTU1anPTBxw=="/>
+		<POI MapID="27" xpos="-122.533" ypos="44.3791" zpos="-925.279" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_rich" GUID="/82BzSVZs0GIL4pVoeHgGw=="/>
+		<POI MapID="27" xpos="-165.399" ypos="9.78163" zpos="-982.188" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="PlU2jxwBKkKOax9sw7eX/g=="/>
+		<POI MapID="27" xpos="-374.693" ypos="9.66569" zpos="-941.155" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_gold.st_regularnodes_ore_gold_regular" GUID="YUUfNRNHZ0CzYVZmcrU4xQ=="/>
+		<POI MapID="27" xpos="-52.9026" ypos="61.5291" zpos="-408.12" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="aP1aAfNTG0uhMWtAEy9Scg=="/>
+		<POI MapID="27" xpos="-319.011" ypos="57.6599" zpos="-1321.99" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="4CDGfcCnWk6fU8WLPp0OeA=="/>
+		<POI MapID="27" xpos="-202.77" ypos="95.5844" zpos="-1430.81" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="gpgv+m5ldUSJlKeKF4K7LA=="/>
+		<POI MapID="27" xpos="-40.0678" ypos="58.2274" zpos="-1117.9" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="R8sGFHkCYUKILipulIFasQ=="/>
+		<POI MapID="27" xpos="58.8668" ypos="96.4667" zpos="-1061" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_gold.st_regularnodes_ore_gold_regular" GUID="2eygsFNQF0+LeNggOCM5Cg=="/>
+		<POI MapID="27" xpos="305.638" ypos="113.881" zpos="-1022.21" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_silver.st_regularnodes_ore_silver_regular" GUID="SwVuOCij/kaE1hJiGfYbiA=="/>
+		<POI MapID="19" xpos="-489.002" ypos="53.4965" zpos="285.47" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="iY1fAvVUa0OiPdRA6rKqTA=="/>
+		<POI MapID="19" xpos="-493.162" ypos="53.927" zpos="303.781" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="2ZPcFkETHE+0v93YsfUDGw=="/>
+		<POI MapID="19" xpos="-357.735" ypos="61.4329" zpos="472.314" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="HJsW1gOMQ0GT6FjENqY9og=="/>
+		<POI MapID="19" xpos="-314.512" ypos="54.7825" zpos="420.679" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="I72KFFpNtEWQ9uDlIwylRw=="/>
+		<POI MapID="19" xpos="555.794" ypos="16.3341" zpos="278.751" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="MWhG+W57AkuZ4dqYJEqtpA=="/>
+		<POI MapID="19" xpos="583.435" ypos="53.9062" zpos="509.666" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="ZZVNPel96UWzQ1vzH9Ug2g=="/>
+		<POI MapID="19" xpos="1144.51" ypos="36.0864" zpos="549.473" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="BJ4uY2SDykO+prg3ifLoCg=="/>
+		<POI MapID="19" xpos="1187.5" ypos="36.5987" zpos="453.979" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="lan3ICYpkEyOuX30ZbzewA=="/>
+		<POI MapID="19" xpos="1171.29" ypos="28.5933" zpos="347.265" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="vqVTto9Sc0SshF09Rta+AQ=="/>
+		<POI MapID="19" xpos="1040.49" ypos="26.8095" zpos="144.847" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="Abg7xkqQNUi2ULQn3hWNgQ=="/>
+		<POI MapID="19" xpos="988.602" ypos="21.5504" zpos="10.4935" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="vDU7fZqZ/ECGkG8qvJ/Fwg=="/>
+		<POI MapID="19" xpos="951.721" ypos="33.0687" zpos="-129.556" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="xHLGOROpxUaypIfcqRRQtA=="/>
+		<POI MapID="19" xpos="1042.65" ypos="13.4258" zpos="-300.651" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="Fyo5FpbjC0evCnHOUGX0dw=="/>
+		<POI MapID="19" xpos="656.638" ypos="34.3351" zpos="-543.5" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="wKm/mjZki0GRNfXcIQO5yQ=="/>
+		<POI MapID="19" xpos="-68.0688" ypos="20.7152" zpos="-39.1298" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="Euhk5nXlAECgrdYXVbUbwA=="/>
+		<POI MapID="19" xpos="-824.409" ypos="36.0723" zpos="-252.45" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="QSO68aWatUyHyiZxsyRu8w=="/>
+		<POI MapID="19" xpos="-802.368" ypos="34.9157" zpos="-366.28" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="L31rvum8z06U5DxZ4Q2R0A=="/>
+		<POI MapID="19" xpos="-840.157" ypos="46.5417" zpos="-426.348" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="7XkAeMGrzEOzFIdqYnXqFA=="/>
+		<POI MapID="19" xpos="-813.671" ypos="49.4211" zpos="-407.465" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="sCOtje6rQEWhTb0W3FWq3A=="/>
+		<POI MapID="19" xpos="-939.945" ypos="30.6767" zpos="-282.112" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_copper.st_regularnodes_ore_copper_regular" GUID="FrM8zkysXU2DxeCWxJUqNQ=="/>
+		<POI MapID="20" xpos="396.496" ypos="16.34" zpos="-1130.56" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="V80xcR64T0K7HJB39k9DBA=="/>
+		<POI MapID="20" xpos="359.418" ypos="1.69318" zpos="-1044.4" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="8mhrs6MJb0ecuZpGK42sZg=="/>
+		<POI MapID="20" xpos="387.034" ypos="3.0237" zpos="-1083.14" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="c08eySwH/EynBSxCyVv9PQ=="/>
+		<POI MapID="20" xpos="-84.7406" ypos="28.4887" zpos="-992.391" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="j/erDASQsEeE2SuStTiyyA=="/>
+		<POI MapID="20" xpos="434.529" ypos="92.7717" zpos="-266.434" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_gold.st_regularnodes_ore_gold_regular" GUID="5i+yUaLm40OJC6atmsoKaA=="/>
+		<POI MapID="20" xpos="31.7673" ypos="63.2052" zpos="-72.1679" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="w1EmHSqqe0CfggM+qW9WSg=="/>
+		<POI MapID="20" xpos="-462.2" ypos="29.6002" zpos="546.512" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_gold.st_regularnodes_ore_gold_regular" GUID="O5fHszqSS0y11BsCD7G0ZA=="/>
+		<POI MapID="20" xpos="345.381" ypos="26.4228" zpos="886.419" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="ofaWDzIkYE6yE/QRlqde4A=="/>
+		<POI MapID="20" xpos="498.876" ypos="114.493" zpos="-66.0023" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="ijJDXO0eeUSIa6dhkn5GEA=="/>
+		<POI MapID="20" xpos="81.543" ypos="65.0956" zpos="-64.6968" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="wR0GGpEE1Uuh6MGw92jaSQ=="/>
+		<POI MapID="73" xpos="-232.333" ypos="-62.7002" zpos="631.454" type="st_guides.st_regularnodes_ore.st_regularnodes_ore_iron.st_regularnodes_ore_iron_regular" GUID="Q4kbVgQPGEGP3gCq4OM8gg=="/>
 
 
 

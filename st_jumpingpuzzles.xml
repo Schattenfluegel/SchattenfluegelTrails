@@ -1,7 +1,6 @@
 <OverlayData>
-	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-		<!--<MarkerCategory name="st_jumpingpuzzles" DisplayName="Sprungrätsel">-->
-			<MarkerCategory name="st_jumpingpuzzles_complete" DisplayName="Komplette Sprungrätsel">
+	<MarkerCategory name="st_guides">
+			<MarkerCategory name="st_jumpingpuzzles_complete">
 				<MarkerCategory name="separatorjps01"  IsSeparator="1" DisplayName="-----   Kryta   -----"/>
 				
 				<MarkerCategory name="st_jumpingpuzzles_complete_demongrubpits" DisplayName="Dämonenraupen-Gruben *">
@@ -577,7 +576,11 @@
 				
 			</MarkerCategory>
 			
-			<MarkerCategory name="st_jumpingpuzzles_shortcuts" DisplayName="Abkürzungen und Tricks">
+<!--		############################################################################################################################
+			################### ABKÜRZUNGEN & TRICKS ###################################################################################
+			############################################################################################################################ -->
+			
+			<MarkerCategory name="st_jumpingpuzzles_shortcuts">
 
 				<MarkerCategory name="st_jumpingpuzzles_shortcuts_demongrubpits" DisplayName= "Dämonenraupen-Gruben [Raptor ikl. Schluchtspr./Spr./Greif/Himmelss.]">
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_demongrubpits_toggletrail" DisplayName="Toggle Route" />
@@ -759,11 +762,10 @@
 				
 			</MarkerCategory>
 			
-			<MarkerCategory name="st_jumpingpuzzles_quickruns" DisplayName="Zeitherausforderungen / Quickruns">
-				<MarkerCategory name="st_jumpingpuzzles_quickruns_startsign" DisplayName= "Quickrun Starting-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_start.png" mapDisplaySize="20" iconSize="0.2" fadeNear="1500" fadeFar="1000" heightOffset="2.5" minSize="50"/>
-				<MarkerCategory name="st_jumpingpuzzles_quickruns_finish" DisplayName= "Qucikrun Finish-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_finish.png" mapDisplaySize="20" iconSize="0.2" fadeNear="1500" fadeFar="1000" heightOffset="2.5" minSize="50"/>
+			<MarkerCategory name="st_jumpingpuzzles_quickruns">
+				<MarkerCategory name="st_jumpingpuzzles_quickruns_startsign" DisplayName= "Quickrun Starting-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_start.png" mapDisplaySize="20" iconSize="0.2" fadeNear="1500" fadeFar="1000" heightOffset="2.5" minSize="20"/>
+				<MarkerCategory name="st_jumpingpuzzles_quickruns_finish" DisplayName= "Qucikrun Finish-Points" iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_quickrun_finish.png" mapDisplaySize="20" iconSize="0.2" fadeNear="1500" fadeFar="1000" heightOffset="2.5" minSize="20"/>
 			</MarkerCategory>
-		<!--</MarkerCategory>-->
 	</MarkerCategory>
 	<POIs>
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

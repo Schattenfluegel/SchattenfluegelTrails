@@ -1,7 +1,6 @@
 <OverlayData>
-<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-	<!-- <MarkerCategory name="st_gatheringnodes" DisplayName="Gathering Nodes"> -->
-		<MarkerCategory name="st_gatheringnodes_richnodes" DisplayName="Rich Nodes">
+<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_gatheringnodes_richnodes">
 			<MarkerCategory name="st_gatheringnodes_richnodes_copper" DisplayName="Kupfer - [Start: Ebenen von Aschfurt - Aschfurt]*">
 				<MarkerCategory name="st_gatheringnodes_richnodes_copper_toggletrails" DisplayName="Toggle Routes">
 					<MarkerCategory name="st_gatheringnodes_richnodes_copper_toggletrails_toggletrail01" DisplayName="Route 1 Aschfurt"/>

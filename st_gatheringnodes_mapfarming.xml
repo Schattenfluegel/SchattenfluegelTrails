@@ -1,17 +1,16 @@
 <OverlayData>
-<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-	<!-- <MarkerCategory name="st_gatheringnodes" DisplayName="Gathering Nodes"> -->
-		<MarkerCategory name="st_gatheringnodes_mapfarming" DisplayName="Mapfarming">
+<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_gatheringnodes_mapfarming">
 			<MarkerCategory name="st_gatheringnodes_mapfarming_ore" IsSeparator="1" DisplayName="_____ Erz ______"/>
 			<MarkerCategory name="st_gatheringnodes_mapfarming_wood" IsSeparator="1" DisplayName="_____ Holz _____"/>
 			<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood" DisplayName="Altes Holz">
 				<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_node" DisplayName="Toggle Nodes" iconFile="Data/SchattenfluegelTrails/st_gatheringnodes_mapfarming_elderwood_signs_node.png" iconSize="0.5" heightOffset="2.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="1"/>
 				<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails" DisplayName="Toggle Routes">
-					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_header"  IsSeparator="1" DisplayName="Map (WP) [Mögl. Spawns || ~Mats/Run || ~Dauer > Mats/Min."/>
-					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail01" DisplayName="Meerenge der Verwüstung (??) [?? || ~?? || ~??:?? > ??]" />
-					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail02" DisplayName="Malchors Sprung (??) [?? || ~?? || ~??:?? > ??]" />
-					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail03" DisplayName="Fluchküste (??) [?? || ~?? || ~??:?? > ??]" />
-					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail04" DisplayName="Zaubersängerlände (??) [?? || ~?? || ~??:?? > ??]" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_header"  IsSeparator="1" DisplayName="Map [WP] (Mögl. Spawns || ~Mats/Run || ~Dauer > Mats/Min.)"/>
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail01" DisplayName="Meerenge der Verwüstung [WP] (?? || ~?? || ~??:?? > ??)" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail02" DisplayName="Malchors Sprung [WP] (?? || ~?? || ~??:?? > ??)" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail03" DisplayName="Fluchküste [WP] (?? || ~?? || ~??:?? > ??)" />
+					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_toggletrails_toggletrail04" DisplayName="Zaubersängerlände [WP] (?? || ~?? || ~??:?? > ??)" />
 				</MarkerCategory>
 				<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_signs" DisplayName="Toggle Signs">
 					<MarkerCategory name="st_gatheringnodes_mapfarming_elderwood_signs_startsign" DisplayName="Toggle Starting Sign" iconFile="Data/SchattenfluegelTrails/st_gatheringnodes_mapfarming_elderwood_signs_startsign.png" iconSize="2" heightOffset="2.5" fadeNear="5000" fadeFar="5100"/>
