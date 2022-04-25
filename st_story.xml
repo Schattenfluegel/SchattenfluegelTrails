@@ -180,34 +180,56 @@
 			</MarkerCategory>
 			<MarkerCategory name="st_story_eod_6" DisplayName="6: Jade und die Zukunft" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
 				<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_6_bildungsreise" DisplayName="Bildungsreise" achievementId="6254"/>
-				<MarkerCategory name="st_story_eod_6_industriespionage" DisplayName="Industriespionage" achievementId="6425"/>
-				<MarkerCategory name="st_story_eod_6_rohrreiniger" DisplayName="Rohrreiniger" achievementId="6454"/>
-				<MarkerCategory name="st_story_eod_6_zeitpilot" DisplayName="Zeitpilot" achievementId="6101"/>
+				<MarkerCategory name="st_story_eod_6_bildungsreise" DisplayName="Bildungsreise" achievementId="6254" info="Erfolg 'Bildungsreise': XXXTextXXXMissingXXX"/>
+				<MarkerCategory name="st_story_eod_6_industriespionage" DisplayName="Industriespionage" achievementId="6425" info="Erfolg 'Industriespionage': XXXTextXXXMissingXXX"/>
+				<MarkerCategory name="st_story_eod_6_rohrreiniger" DisplayName="Rohrreiniger" achievementId="6454" info="Erfolg 'Rohrreiniger': XXXTextXXXMissingXXX"/>
+				<MarkerCategory name="st_story_eod_6_zeitpilot" DisplayName="Zeitpilot" achievementId="6101" info="Erfolg 'Zeitpilot': XXXTextXXXMissingXXX"/>
 			</MarkerCategory>
 			<MarkerCategory name="st_story_eod_7" DisplayName="7: Tiefste Geheimnisse" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
 				<MarkerCategory name="separatorstory_7_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_7_rueckendeckung" DisplayName="Rückendeckung" achievementId="6123"/>
-				<MarkerCategory name="st_story_eod_7_maiohmai" DisplayName="Mai oh Mai" achievementId="6275"/>
-				<MarkerCategory name="st_story_eod_7_gnadenstoss" DisplayName="Gnadenstoß" achievementId="6173"/>
+				<MarkerCategory name="st_story_eod_7_rueckendeckung" DisplayName="Rückendeckung" achievementId="6123" info="Erfolg 'Rückendeckung': XXXTextXXXMissingXXX"/>
+				<MarkerCategory name="st_story_eod_7_maiohmai" DisplayName="Mai oh Mai" achievementId="6275" info="Erfolg 'Mai oh Mai': XXXTextXXXMissingXXX"/>
+				<MarkerCategory name="st_story_eod_7_gnadenstoss" DisplayName="Gnadenstoß" achievementId="6173" info="Erfolg 'Gnadenstoß': XXXTextXXXMissingXXX"/>
 			</MarkerCategory>
 			<MarkerCategory name="st_story_eod_8" DisplayName="8: Auswirkungen" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
 				<MarkerCategory name="separatorstory_8_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_8_deeskalationstraining" DisplayName="Deeskalations-Training" achievementId="XXX" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_deeskalationstraining.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-				<MarkerCategory name="st_story_eod_8_nikasrache" DisplayName="Nikas Rache" achievementId="XXX" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_nikasrache.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-				<MarkerCategory name="st_story_eod_8_studiedesmakabren" DisplayName="Studie des Makabren" achievementId="XXX"/>
-				<MarkerCategory name="st_story_eod_8_beweglichkeitisttrupf" DisplayName="Beweglichkeit ist Trumpf" achievementId="XXX" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beweglichkeitisttrupf.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-				<MarkerCategory name="st_story_eod_8_beeilungkommandeur" DisplayName="Beeilung Kommandeur" achievementId="XXX" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beeilungkommandeur.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+				<MarkerCategory name="st_story_eod_8_deeskalationstraining" DisplayName="Deeskalations-Training" achievementId="XXX" info="Erfolg 'Deeskalations-Training': Krone, Herz, Herz, Krone, Herz, Krone, Krone, Herz, Krone, Krone, Faust, Herz, Krone" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_deeskalationstraining.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+				<MarkerCategory name="st_story_eod_8_nikasrache" DisplayName="Nikas Rache" achievementId="XXX" info="Erfolg 'Nikas Rache': Die Spezialität des Kochs bestellen, essen und dann Hauptmann Fa bekämpfen (dazu entweder nicht antworten und abwarten oder absichtlich falsch antworten)." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_nikasrache.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+				<MarkerCategory name="st_story_eod_8_studiedesmakabren" DisplayName="Studie des Makabren" achievementId="XXX" info="Erfolg 'Studie des Makabren': Alle 14 Hinweise auf Übergriffe finden. ACHTUNG!: Ein markiertes Missionsziel aufheben und zuletzt abschließen, sonst sind die nicht markierten Hinweise nicht mehr interagierbar!!"/>
+				<MarkerCategory name="st_story_eod_8_beweglichkeitisttrupf" DisplayName="Beweglichkeit ist Trumpf" achievementId="XXX" info="Erfolg 'Beweglichkeit ist Trumpf': Den Boss besiegen, ohne Schaden durch seinen Säureodem zu nehmen (dreieckiger Effektfeld-Angriff nach vorne). Am besten hinter dem Boss halten und nah genug um zur Not schnell nach vorne ausweichen zu können." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beweglichkeitisttrupf.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+				<MarkerCategory name="st_story_eod_8_beeilungkommandeur" DisplayName="Beeilung Kommandeur" achievementId="XXX" info="Erfolg 'Beeilung Kommandeur': Den Boss in der Zeit abschließen." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beeilungkommandeur.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
 			</MarkerCategory>
 			<MarkerCategory name="st_story_eod_9" DisplayName="9: Eine Spinne fangen" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
 				<MarkerCategory name="separatorstory_9_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_9_echowaldinauflösung" DisplayName="Echowald in Auflösung" achievementId="XXX"/>
-				<MarkerCategory name="st_story_eod_9_gestohlenerdonner" DisplayName="Gestohlener Donner" achievementId="XXX"/>
-				<MarkerCategory name="st_story_eod_9_bruderschaftsaboteur" DisplayName="Bruderschaft-Saboteur" achievementId="XXX"/>
-				<MarkerCategory name="st_story_eod_9_sprechersaboteur" DisplayName="Sprecher-Saboteur" achievementId="XXX"/>
-				<MarkerCategory name="st_story_eod_9_zumschweigengebracht" DisplayName="Zum Schweigen gebracht" achievementId="XXX"/>
-				<MarkerCategory name="st_story_eod_9_jadeschatten" DisplayName="Jadeschatten" achievementId="XXX"/>				
-				<MarkerCategory name="st_story_eod_9_fortentwicklungimverfall" DisplayName="Fortentwicklung im Verfall" achievementId="XXX"/>				
+				<MarkerCategory name="st_story_eod_9_echowaldinauflösung" DisplayName="Echowald in Auflösung" achievementId="XXX" info="Erfolg 'Echowald in Auflösung': Alle 5 Instabilitäten im Echowald finden. Dazu einfach zu den Stellen laufen."/>
+				<MarkerCategory name="st_story_eod_9_sehrzuvorkommend" DisplayName="Sehr zuvorkommend" achievementId="XXX" info="Erfolg 'Sehr zuvorkommend': Anstatt die Story-Schritte im Sprecher- oder Jadebruderschafts-Lager abzuschließen, einfach direkt zum Ätherklingen-Versteck gehen. (Konkurriert mit 'Sprecher-Saboteur' und 'Bruderschaft-Saboteur'!)"/>
+				<MarkerCategory name="st_story_eod_9_bruderschaftsaboteur" DisplayName="Bruderschaft-Saboteur" achievementId="XXX" info="Erfolg 'Bruderschaft-Saboteur': Während der Story-Mission 'Eine SPinne fangen' den Schritt im Jadebruderschafts-Lager abschließen. (Konkurriert mit 'Sprecher-Saboteur' und 'Gestohlener Donner'!)"/>
+				<MarkerCategory name="st_story_eod_9_sprechersaboteur" DisplayName="Sprecher-Saboteur" achievementId="XXX" info="Erfolg 'Sprecher-Saboteur': Während der Story-Mission 'Eine SPinne fangen' den Schritt im Sprecher-Lager abschließen. (Konkurriert mit 'Bruderschaft-Saboteur' und 'Gestohlener Donner'!)"/>
+				<MarkerCategory name="st_story_eod_9_zumschweigengebracht" DisplayName="Zum Schweigen gebracht" achievementId="XXX">
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_1" DisplayName="Schritt 1" info="Erfolg 'Zum Schweigen gebracht'- Schritt 1: BIS ABSCHLUSS DES ERFOLGS NICHT DIE NEUE NACHRICHT ÖFFNEN!! Mit dem NPC Shisokana am Sprecher-Lager sprechen (am Herz)"/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_2" DisplayName="Schritt 2" info="Erfolg 'Zum Schweigen gebracht'- Schritt 2: Zum Jadebruderschaft-Lager gehen und dort am Herzen sich verkleiden lassen."/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_3" DisplayName="Schritt 3" info="Erfolg 'Zum Schweigen gebracht'- Schritt 3: Tech aus der Truhe des Brudershcaft-Leutnants stehlen."/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_4" DisplayName="Schritt 4" info="Erfolg 'Zum Schweigen gebracht'- Schritt 4: Zum Sprecher-Lager zurückkehren. Das Lager mit Verkleidung betreten."/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_5" DisplayName="Schritt 5" info="Erfolg 'Zum Schweigen gebracht'- Schritt 5: Zugang zum Sprecher-Ritualisten-Zelt erlangen. Dazu zum Zelteingang gehen."/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_6" DisplayName="Schritt 6" info="Erfolg 'Zum Schweigen gebracht'- Schritt 6: Die gestohlene Tech im Ritualisten-Zelt platzieren. Dazu mit dem Zelt interagieren."/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_7" DisplayName="Schritt 7" info="Erfolg 'Zum Schweigen gebracht'- Schritt 7: Dem Leutnant am Sprecher-Refugium POI über den 'Verrat' des Ritualisten berichten."/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_9_jadeschatten" DisplayName="Jadeschatten" achievementId="XXX">	
+					<MarkerCategory name="st_story_eod_9_jadeschatten_1" DisplayName="Schritt 1" info="Erfolg 'Jadeschatten' - Schritt 1: BIS ABSCHLUSS DES ERFOLGS NICHT DIE NEUE NACHRICHT ÖFFNEN!! Mit Kage am Jadebruderschafts-Lager sprechen (am Herz)"/>
+					<MarkerCategory name="st_story_eod_9_jadeschatten_2" DisplayName="Schritt 2" info="Erfolg 'Jadeschatten' - Schritt 2: Verkleidet zur Vorratsversteck gehen."/>
+					<MarkerCategory name="st_story_eod_9_jadeschatten_3" DisplayName="Schritt 3" info="Erfolg 'Jadeschatten' - Schritt 3: Verkleidet mit der Vorratslager interagieren."/>
+					<MarkerCategory name="st_story_eod_9_jadeschatten_4" DisplayName="Schritt 4" info="Erfolg 'Jadeschatten' - Schritt 4: Zum Sprecher-Lager gehen und sich verkleiden lassen."/>
+					<MarkerCategory name="st_story_eod_9_jadeschatten_5" DisplayName="Schritt 5" info="Erfolg 'Jadeschatten' - Schritt 5: Die Fackel nehmen."/>
+					<MarkerCategory name="st_story_eod_9_jadeschatten_6" DisplayName="Schritt 6" info="Erfolg 'Jadeschatten' - Schritt 6: Zum Jadebruderschafts-Lager zurückkehren und verkleiden."/>
+					<MarkerCategory name="st_story_eod_9_jadeschatten_7" DisplayName="Schritt 7" info="Erfolg 'Jadeschatten' - Schritt 7: Nachdem man die Fackel erlangt hat nochmals mit dem Vorratslager interagieren."/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_9_fortentwicklungimverfall" DisplayName="Fortentwicklung im Verfall" achievementId="XXX" info="Erfolg 'Fortentwicklung im Verfall': Mit Ankkas Tagebuch interagieren."/>
+		</MarkerCategory>
+			<MarkerCategory name="st_story_eod_10" DisplayName="10: Leer" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+				<MarkerCategory name="st_story_eod_10_daswarenanderezeiten" DisplayName="Das waren andere Zeiten" achievementId="XXX" info="Erfolg 'Das waren andere Zeiten': Am Ende der Instanz, vor dem Verlassen, mit der Box hinten im Raum interagieren."/>
+				<MarkerCategory name="st_story_eod_10_leisertod" DisplayName="Leiser Tod" achievementId="XXX" info="Erfolg 'Leiser Tod': Den Bosskampf in unter 7 Minuten abschließen."/>
+				<MarkerCategory name="st_story_eod_10_unerschuettert" DisplayName="Unerschüttert" achievementId="XXX" info="Erfolg 'Unerschüttert': Den Bosskampf abschließen ohne niedergeschlagen zu werden. Es gibt viele Effektfelder und Gift-Zustände."/>
+				<MarkerCategory name="st_story_eod_10_enterkommando" DisplayName="Enterkommando" achievementId="XXX" info="Erfolg 'Enterkommando': Gleich am Anfang zu Ankkas Schiff gleiten. Dort wird man abgeschossen und erhält den Erfolg."/>	
 			</MarkerCategory>
 
 		</MarkerCategory>
