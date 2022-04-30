@@ -1,5 +1,6 @@
 <OverlayData>
 <MarkerCategory name="st_guides">
+	<MarkerCategory name="st_mapcompletion">
 		<MarkerCategory name="st_mapcompletion_ebs">
 			<MarkerCategory name="st_mapcompletion_ebs_grothmartal" DisplayName="Grothmar-Tal">
 				<MarkerCategory name="st_mapcompletion_ebs_grothmartal_trail" DisplayName="Trail">
@@ -62,6 +63,7 @@
 			</MarkerCategory>
 			<!-- ENTRIES MISSING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 		</MarkerCategory>
+	</MarkerCategory>
 </MarkerCategory>
 	
 	<POIs>

@@ -11,55 +11,59 @@
 		<MarkerCategory name="st_gatheringnodes_cluster" DisplayName="Node Cluster"/>
 		<MarkerCategory name="st_gatheringnodes_mapfarming" DisplayName="Mapfarming"/>
 		<MarkerCategory name="st_mapcurrnodes" DisplayName="Map Currencies"/>
-		<MarkerCategory name="separatorgeneral02"  IsSeparator="1" DisplayName="_______Heimatinstanzen_______"/>
 		<MarkerCategory name="st_homenodes" DisplayName="Heimatinstanzen"/>
 		<MarkerCategory name="separatorgeneral03" IsSeparator="1" DisplayName="________Sprungrätsel_________"/>
-		<MarkerCategory name="st_jumpingpuzzles_complete" DisplayName="Komplette Sprungrätsel"/>
-		<MarkerCategory name="st_jumpingpuzzles_shortcuts" DisplayName="Abkürzungen und Tricks"/>
-		<MarkerCategory name="st_jumpingpuzzles_quickruns" DisplayName="Zeitherausforderungen und Quickruns"/>
-		<MarkerCategory name="separatorgeneral04"  IsSeparator="1" DisplayName="__________Erkundung__________"/>
-		<MarkerCategory name="st_mapcompletion_core" DisplayName="Grundspiel"/>
-		<MarkerCategory name="st_mapcompletion_lws1" DisplayName="Lebendige Welt Staffel 1"/>
-		<MarkerCategory name="st_mapcompletion_lws2" DisplayName="Lebendige Welt Staffel 2"/>
-		<MarkerCategory name="st_mapcompletion_hot" DisplayName="Heart of Thornes"/>
-		<MarkerCategory name="st_mapcompletion_lws3" DisplayName="Lebendige Welt Staffel 3"/>
-		<MarkerCategory name="st_mapcompletion_pof" DisplayName="Path of Fire"/>
-		<MarkerCategory name="st_mapcompletion_lws4" DisplayName="Lebendige Welt Staffel 4"/>
-		<MarkerCategory name="st_mapcompletion_ebs" DisplayName="Eisbrut Saga"/>
-		<MarkerCategory name="st_mapcompletion_eod" DisplayName="End of Dragons"/>
-		<MarkerCategory name="separatorgeneral05"  IsSeparator="1" DisplayName="_____Persönliche Geschichte______"/>
-		<MarkerCategory name="st_story_core" DisplayName="Grundspiel (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_lws2" DisplayName="Lebendige Welt Staffel 2 (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_hot" DisplayName="Heart of Thornes (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_lws3" DisplayName="Lebendige Welt Staffel 3 (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_pof" DisplayName="Path of Fire (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_lws4" DisplayName="Lebendige Welt Staffel 4 (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_ebs" DisplayName="Eisbrutsaga (In Bearbeitung)"/>
-		<MarkerCategory name="st_story_eod" DisplayName="End of Dragons"/>
-		<MarkerCategory name="st_story_side" DisplayName="Nebengeschichten (In Bearbeitung)"/>
-		<MarkerCategory name="separatorgeneral06"  IsSeparator="1" DisplayName="________Weitere Erfolge_______"/>
-		<MarkerCategory name="st_erfolge" DisplayName="Erfolge"/>
-		<MarkerCategory name="separatorgeneral07"  IsSeparator="1" DisplayName="__________Tutorials__________"/>
-		<MarkerCategory name="st_tutorials_openworld" IsSeparator="1" DisplayName="Open World (In Bearbeitung)">
-			<MarkerCategory name="st_tutorials_openworld_jumpingpuzzles" IsSeparator="1" DisplayName="Sprungrätsel (In Bearbeitung)"/>
-			<MarkerCategory name="st_tutorials_openworld_worldbosses" IsSeparator="1" DisplayName="Weltbosse (In Bearbeitung)"/>
+		<MarkerCategory name="st_jumpingpuzzles" DisplayName="Sprungrätsel">
+			<MarkerCategory name="st_jumpingpuzzles_complete" DisplayName="Sprungrätsel-Pfade"/>
+			<MarkerCategory name="st_jumpingpuzzles_shortcuts" DisplayName="Abkürzungen und Tricks"/>
+			<MarkerCategory name="st_jumpingpuzzles_quickruns" DisplayName="Zeitherausforderungen"/>
 		</MarkerCategory>
-		<MarkerCategory name="st_tutorials_fractal" IsSeparator="1" DisplayName="Fraktale (In Bearbeitung)"/>
-		<MarkerCategory name="st_tutorials_strikes" IsSeparator="1" DisplayName="Angriffsmissionen (In Bearbeitung)"/>
-		<MarkerCategory name="st_tutorials_raids" IsSeparator="1" DisplayName="Schlachtzüge (In Bearbeitung)"/>
-		<MarkerCategory name="st_tutorials_misc" IsSeparator="1" DisplayName="Weiteres (In Bearbeitung)"/>
+		<MarkerCategory name="separatorgeneral05"  IsSeparator="1" DisplayName="____________Guides____________"/>
+		<MarkerCategory name="st_mapcompletion" DisplayName="Erkundung">
+			<MarkerCategory name="st_mapcompletion_core" DisplayName="Grundspiel"/>
+			<MarkerCategory name="st_mapcompletion_lws1" DisplayName="Lebendige Welt Staffel 1"/>
+			<MarkerCategory name="st_mapcompletion_lws2" DisplayName="Lebendige Welt Staffel 2"/>
+			<MarkerCategory name="st_mapcompletion_hot" DisplayName="Heart of Thornes"/>
+			<MarkerCategory name="st_mapcompletion_lws3" DisplayName="Lebendige Welt Staffel 3"/>
+			<MarkerCategory name="st_mapcompletion_pof" DisplayName="Path of Fire"/>
+			<MarkerCategory name="st_mapcompletion_lws4" DisplayName="Lebendige Welt Staffel 4"/>
+			<MarkerCategory name="st_mapcompletion_ebs" DisplayName="Eisbrut Saga"/>
+			<MarkerCategory name="st_mapcompletion_eod" DisplayName="End of Dragons"/>
+		</MarkerCategory>
+		<MarkerCategory name="st_fractals" DisplayName="Fraktale der Nebel (In Bearbeitung)"/>
+		<MarkerCategory name="st_raids" IsSeparator="1" DisplayName="Schlachtzüge (In Bearbeitung)"/>
+		<MarkerCategory name="st_wvw" IsSeparator="1" DisplayName="Welt vs. Welt (In Bearbeitung)"/>
+		<MarkerCategory name="st_story" DisplayName="Persönliche Geschichte">
+			<MarkerCategory name="st_story_core" DisplayName="Grundspiel (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_lws2" DisplayName="Lebendige Welt Staffel 2 (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_hot" DisplayName="Heart of Thornes (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_lws3" DisplayName="Lebendige Welt Staffel 3 (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_pof" DisplayName="Path of Fire (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_lws4" DisplayName="Lebendige Welt Staffel 4 (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_ebs" DisplayName="Eisbrutsaga (In Bearbeitung)"/>
+			<MarkerCategory name="st_story_eod" DisplayName="End of Dragons"/>
+			<MarkerCategory name="st_story_side" DisplayName="Nebengeschichten (In Bearbeitung)"/>
+		</MarkerCategory>
+		<MarkerCategory name="st_erfolge" DisplayName="Erfolge"/>
+		<MarkerCategory name="separatorgeneral08" IsSeparator="1" DisplayName="__Tutorials und Erläuterungen__"/>
+		<MarkerCategory name="st_tutorials" DisplayName="Tutorials">
+			<MarkerCategory name="st_tutorials_jumpingpuzzles" IsSeparator="1" DisplayName="Sprungrätsel (In Bearbeitung)"/>
+			<MarkerCategory name="st_tutorials_worldbosses" IsSeparator="1" DisplayName="Weltbosse (In Bearbeitung)"/>
+			<MarkerCategory name="st_tutorials_fractal" IsSeparator="1" DisplayName="Fraktale (In Bearbeitung)"/>
+			<MarkerCategory name="st_tutorials_strikes" IsSeparator="1" DisplayName="Angriffsmissionen (In Bearbeitung)"/>
+			<MarkerCategory name="st_tutorials_raids" IsSeparator="1" DisplayName="Schlachtzüge (In Bearbeitung)"/>
+			<MarkerCategory name="st_tutorials_misc" IsSeparator="1" DisplayName="Weiteres (In Bearbeitung)"/>
+		</MarkerCategory>
 		<MarkerCategory name="separatorgeneral08" IsSeparator="1" DisplayName="__________Festivals__________"/>
 		<MarkerCategory name="st_festivals" DisplayName="Festivals">
-			<MarkerCategory name="st_festivals_lunanewyear" IsSeparator="1" DisplayName="Mondneujahr (In Bearbeitung)"/>
-			<MarkerCategory name="st_festivals_sab" IsSeparator="1" DisplayName="Super Adventure Box (In Bearbeitung)"/>
-			<MarkerCategory name="st_festivals_dragonbash" IsSeparator="1" DisplayName="Drachengepolter (In Bearbeitung)"/>
-			<MarkerCategory name="st_festivals_fourwinds" IsSeparator="1" DisplayName="Fest der Vier Winde (In Bearbeitung)"/>
-			<MarkerCategory name="st_festivals_halloween" IsSeparator="1" DisplayName="Halloween (In Bearbeitung)"/>
-			<MarkerCategory name="st_festivals_wintersday" IsSeparator="1" DisplayName="Wintertag (In Bearbeitung)"/>
+			<MarkerCategory name="st_festivals_lunanewyear" DisplayName="Mondneujahr (In Bearbeitung)"/>
+			<MarkerCategory name="st_festivals_sab" DisplayName="Super Adventure Box (In Bearbeitung)"/>
+			<MarkerCategory name="st_festivals_dragonbash" DisplayName="Drachengepolter (In Bearbeitung)"/>
+			<MarkerCategory name="st_festivals_fourwinds" DisplayName="Fest der Vier Winde (In Bearbeitung)"/>
+			<MarkerCategory name="st_festivals_halloween" DisplayName="Halloween (In Bearbeitung)"/>
+			<MarkerCategory name="st_festivals_wintersday" DisplayName="Wintertag (In Bearbeitung)"/>
 		</MarkerCategory>
 		<MarkerCategory name="separatorgeneral09"  IsSeparator="1" DisplayName="__________Weiteres___________"/>
-		<MarkerCategory name="st_fractals" IsSeparator="1" DisplayName="Fraktale der Nebel (In Bearbeitung)"/>
-		<MarkerCategory name="st_raids" IsSeparator="1" DisplayName="Schlachtzüge (In Bearbeitung)"/>
 		<MarkerCategory name="st_misc" DisplayName="Weiteres"/>
 		<MarkerCategory name="separatorgeneral10"  IsSeparator="1" DisplayName="___________Gilden____________"/>
 		<MarkerCategory name="st_guilds" IsSeparator="1" DisplayName="Gildenmissionen (In Bearbeitung)"/>

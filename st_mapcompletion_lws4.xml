@@ -1,8 +1,10 @@
 <OverlayData>
 <MarkerCategory name="st_guides">
+	<MarkerCategory name="st_mapcompletion">
 		<MarkerCategory name="st_mapcompletion_lws4">
 			<!-- ENTRIES MISSING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 		</MarkerCategory>
+	</MarkerCategory>
 </MarkerCategory>
 	
 	<POIs>

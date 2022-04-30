@@ -1,239 +1,240 @@
 <OverlayData>
-	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
+	<MarkerCategory name="st_guides">
+		<MarkerCategory name="st_story">
 
-<!--	#####################################################################################
-		##################### GRUNDSPIEL ####################################################
-		#####################################################################################	-->
+	<!--	#####################################################################################
+			##################### GRUNDSPIEL ####################################################
+			#####################################################################################	-->
 
-		<MarkerCategory name="st_story_core">
-			<MarkerCategory name="st_story_core_0" DisplayName="XXX: XXX" iconFile="Data/SchattenfluegelTrails/Story/XXX.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-
-<!--	#####################################################################################
-		##################### LEBENDIGE WELT STAFFEL 2 ######################################
-		#####################################################################################	-->
-
-		<MarkerCategory name="st_story_lws2">
-			<MarkerCategory name="st_story_lws2_0" DisplayName="XXX: XXX" iconFile="Data/SchattenfluegelTrails/Story/XXX.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-
-<!--	#####################################################################################
-		##################### HEART OF THORNES ##############################################
-		#####################################################################################	-->
-
-		<MarkerCategory name="st_story_hot">
-			<MarkerCategory name="st_story_hot_0" DisplayName="XXX: XXX" iconFile="Data/SchattenfluegelTrails/Story/XXX.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-
-<!--	#####################################################################################
-		##################### LEBENDIGE WELT STAFFEL 3 ######################################
-		#####################################################################################	-->
-
-		<MarkerCategory name="st_story_lws3">
-			<MarkerCategory name="st_story_lws3_1" DisplayName="1: Aus den Schatten" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_ausdenschatten.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws3_2" DisplayName="2: Lodernde Flammen" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_loderndeflammen.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws3_3" DisplayName="3: Ein Riss im Eis" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_einrissimeis.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws3_4" DisplayName="4: Der Kopf der Schlange" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_derkopfderschlange.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws3_5" DisplayName="5: Krisenherd" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_krisenherd.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws3_6" DisplayName="6: Am Ende des Pfads" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_amendedespfads.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-
-<!--	#####################################################################################
-		##################### PATH OF FIRE ##################################################
-		#####################################################################################	-->
-
-		<MarkerCategory name="st_story_pof">
-			<MarkerCategory name="st_story_pof_1" DisplayName="1: Entzünden der Flamme" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_2" DisplayName="2: Flammender Vorreiter" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_3" DisplayName="3: Nacht der Feuer" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_4" DisplayName="4: Das Opfer" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_5" DisplayName="5: Erinnerungen im Kristall" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_6" DisplayName="6: Geheiligter Boden" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_7" DisplayName="7: Der Wahrheit stellen" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_7_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_8" DisplayName="8: Der Weg nach vorn" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_8_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_9" DisplayName="9: Der Abschied" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_9_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_10" DisplayName="10: Feind meines Feindes" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_10_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_11" DisplayName="11: Bestie des Krieges" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_11_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_12" DisplayName="12: Gottesmord" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_12_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_pof_13" DisplayName="13: Kleiner Sieg (Epilog)" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_13_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-
-<!--	#####################################################################################
-		##################### LEBENDIGE WELT STAFFEL 4 ######################################
-		#####################################################################################	-->
-
-		<MarkerCategory name="st_story_lws4">
-			<MarkerCategory name="st_story_lws4_1" DisplayName="1: Tagesanbruch" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_tagesanbruch.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws4_2" DisplayName="2: Ein Fehler im System" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_einfehlerimsystem.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws4_3" DisplayName="3: Lang lebe der Lich" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_langlebederlich.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws4_4" DisplayName="4: Unser Leitstern" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_unserleitstern.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws4_5" DisplayName="5: Alles oder Nichts" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_allesodernichts.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_lws4_6" DisplayName="6: Ewiger Krieg" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_ewigerkrieg.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-		
-<!--	#####################################################################################
-		##################### EISBRUTSAGA ###################################################
-		#####################################################################################	-->
-	
-		<MarkerCategory name="st_story_ebs">	
-			<MarkerCategory name="st_story_ebs_0" DisplayName="Prolog: Durch Blut gebunden" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_prolog.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_ebs_1" DisplayName="1: Geflüster im Dunklen" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_geflüsterimdunkeln.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_ebs_2" DisplayName="2: Schatten im Eis" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_schattenimeis.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_ebs_A" DisplayName="Visionen der Vergangenheit: Stahl und Feuer" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_visionendervergangenheit.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_A_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_ebs_3" DisplayName="3: Keine Gnade" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_keinegnade.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_ebs_4" DisplayName="4: Jormags Erwachen" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_jormagserwachen.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_ebs_5" DisplayName="5: Champions" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_champions.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-		</MarkerCategory>
-
-<!--	#####################################################################################
-		##################### END OF DRAGONS ################################################
-		#####################################################################################	-->
-		
-		<MarkerCategory name="st_story_eod">
-			<MarkerCategory name="st_story_eod_0" DisplayName="0: Konvergenz" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_1" DisplayName="1: Alte Freunde" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_2" DisplayName="2: Öffentlichkeitsarbeit" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_3" DisplayName="3: Eure Art von Leuten" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_4" DisplayName="4: Traue keinem Piraten" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_5" DisplayName="5: Kleine Umwege" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_6" DisplayName="6: Jade und die Zukunft" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_6_bildungsreise" DisplayName="Bildungsreise" achievementId="6254" info="Erfolg 'Bildungsreise': XXXTextXXXMissingXXX"/>
-				<MarkerCategory name="st_story_eod_6_industriespionage" DisplayName="Industriespionage" achievementId="6425" info="Erfolg 'Industriespionage': XXXTextXXXMissingXXX"/>
-				<MarkerCategory name="st_story_eod_6_rohrreiniger" DisplayName="Rohrreiniger" achievementId="6454" info="Erfolg 'Rohrreiniger': XXXTextXXXMissingXXX"/>
-				<MarkerCategory name="st_story_eod_6_zeitpilot" DisplayName="Zeitpilot" achievementId="6101" info="Erfolg 'Zeitpilot': XXXTextXXXMissingXXX"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_7" DisplayName="7: Tiefste Geheimnisse" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_7_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_7_rueckendeckung" DisplayName="Rückendeckung" achievementId="6123" info="Erfolg 'Rückendeckung': XXXTextXXXMissingXXX"/>
-				<MarkerCategory name="st_story_eod_7_maiohmai" DisplayName="Mai oh Mai" achievementId="6275" info="Erfolg 'Mai oh Mai': XXXTextXXXMissingXXX"/>
-				<MarkerCategory name="st_story_eod_7_gnadenstoss" DisplayName="Gnadenstoß" achievementId="6173" info="Erfolg 'Gnadenstoß': XXXTextXXXMissingXXX"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_8" DisplayName="8: Auswirkungen" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_8_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_8_deeskalationstraining" DisplayName="Deeskalations-Training" achievementId="XXX" info="Erfolg 'Deeskalations-Training': Krone, Herz, Herz, Krone, Herz, Krone, Krone, Herz, Krone, Krone, Faust, Herz, Krone" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_deeskalationstraining.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-				<MarkerCategory name="st_story_eod_8_nikasrache" DisplayName="Nikas Rache" achievementId="XXX" info="Erfolg 'Nikas Rache': Die Spezialität des Kochs bestellen, essen und dann Hauptmann Fa bekämpfen (dazu entweder nicht antworten und abwarten oder absichtlich falsch antworten)." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_nikasrache.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-				<MarkerCategory name="st_story_eod_8_studiedesmakabren" DisplayName="Studie des Makabren" achievementId="XXX" info="Erfolg 'Studie des Makabren': Alle 14 Hinweise auf Übergriffe finden. ACHTUNG!: Ein markiertes Missionsziel aufheben und zuletzt abschließen, sonst sind die nicht markierten Hinweise nicht mehr interagierbar!!"/>
-				<MarkerCategory name="st_story_eod_8_beweglichkeitisttrupf" DisplayName="Beweglichkeit ist Trumpf" achievementId="XXX" info="Erfolg 'Beweglichkeit ist Trumpf': Den Boss besiegen, ohne Schaden durch seinen Säureodem zu nehmen (dreieckiger Effektfeld-Angriff nach vorne). Am besten hinter dem Boss halten und nah genug um zur Not schnell nach vorne ausweichen zu können." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beweglichkeitisttrupf.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-				<MarkerCategory name="st_story_eod_8_beeilungkommandeur" DisplayName="Beeilung Kommandeur" achievementId="XXX" info="Erfolg 'Beeilung Kommandeur': Den Boss in der Zeit abschließen." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beeilungkommandeur.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
-			</MarkerCategory>
-			<MarkerCategory name="st_story_eod_9" DisplayName="9: Eine Spinne fangen" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="separatorstory_9_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
-				<MarkerCategory name="st_story_eod_9_echowaldinauflösung" DisplayName="Echowald in Auflösung" achievementId="XXX" info="Erfolg 'Echowald in Auflösung': Alle 5 Instabilitäten im Echowald finden. Dazu einfach zu den Stellen laufen."/>
-				<MarkerCategory name="st_story_eod_9_sehrzuvorkommend" DisplayName="Sehr zuvorkommend" achievementId="XXX" info="Erfolg 'Sehr zuvorkommend': Anstatt die Story-Schritte im Sprecher- oder Jadebruderschafts-Lager abzuschließen, einfach direkt zum Ätherklingen-Versteck gehen. (Konkurriert mit 'Sprecher-Saboteur' und 'Bruderschaft-Saboteur'!)"/>
-				<MarkerCategory name="st_story_eod_9_bruderschaftsaboteur" DisplayName="Bruderschaft-Saboteur" achievementId="XXX" info="Erfolg 'Bruderschaft-Saboteur': Während der Story-Mission 'Eine SPinne fangen' den Schritt im Jadebruderschafts-Lager abschließen. (Konkurriert mit 'Sprecher-Saboteur' und 'Gestohlener Donner'!)"/>
-				<MarkerCategory name="st_story_eod_9_sprechersaboteur" DisplayName="Sprecher-Saboteur" achievementId="XXX" info="Erfolg 'Sprecher-Saboteur': Während der Story-Mission 'Eine SPinne fangen' den Schritt im Sprecher-Lager abschließen. (Konkurriert mit 'Bruderschaft-Saboteur' und 'Gestohlener Donner'!)"/>
-				<MarkerCategory name="st_story_eod_9_zumschweigengebracht" DisplayName="Zum Schweigen gebracht" achievementId="XXX">
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_1" DisplayName="Schritt 1" info="Erfolg 'Zum Schweigen gebracht'- Schritt 1: BIS ABSCHLUSS DES ERFOLGS NICHT DIE NEUE NACHRICHT ÖFFNEN!! Mit dem NPC Shisokana am Sprecher-Lager sprechen (am Herz)"/>
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_2" DisplayName="Schritt 2" info="Erfolg 'Zum Schweigen gebracht'- Schritt 2: Zum Jadebruderschaft-Lager gehen und dort am Herzen sich verkleiden lassen."/>
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_3" DisplayName="Schritt 3" info="Erfolg 'Zum Schweigen gebracht'- Schritt 3: Tech aus der Truhe des Brudershcaft-Leutnants stehlen."/>
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_4" DisplayName="Schritt 4" info="Erfolg 'Zum Schweigen gebracht'- Schritt 4: Zum Sprecher-Lager zurückkehren. Das Lager mit Verkleidung betreten."/>
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_5" DisplayName="Schritt 5" info="Erfolg 'Zum Schweigen gebracht'- Schritt 5: Zugang zum Sprecher-Ritualisten-Zelt erlangen. Dazu zum Zelteingang gehen."/>
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_6" DisplayName="Schritt 6" info="Erfolg 'Zum Schweigen gebracht'- Schritt 6: Die gestohlene Tech im Ritualisten-Zelt platzieren. Dazu mit dem Zelt interagieren."/>
-					<MarkerCategory name="st_story_eod_9_zumschweigengebracht_7" DisplayName="Schritt 7" info="Erfolg 'Zum Schweigen gebracht'- Schritt 7: Dem Leutnant am Sprecher-Refugium POI über den 'Verrat' des Ritualisten berichten."/>
+			<MarkerCategory name="st_story_core">
+				<MarkerCategory name="st_story_core_0" DisplayName="XXX: XXX" iconFile="Data/SchattenfluegelTrails/Story/XXX.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
 				</MarkerCategory>
-				<MarkerCategory name="st_story_eod_9_jadeschatten" DisplayName="Jadeschatten" achievementId="XXX">	
-					<MarkerCategory name="st_story_eod_9_jadeschatten_1" DisplayName="Schritt 1" info="Erfolg 'Jadeschatten' - Schritt 1: BIS ABSCHLUSS DES ERFOLGS NICHT DIE NEUE NACHRICHT ÖFFNEN!! Mit Kage am Jadebruderschafts-Lager sprechen (am Herz)"/>
-					<MarkerCategory name="st_story_eod_9_jadeschatten_2" DisplayName="Schritt 2" info="Erfolg 'Jadeschatten' - Schritt 2: Verkleidet zur Vorratsversteck gehen."/>
-					<MarkerCategory name="st_story_eod_9_jadeschatten_3" DisplayName="Schritt 3" info="Erfolg 'Jadeschatten' - Schritt 3: Verkleidet mit der Vorratslager interagieren."/>
-					<MarkerCategory name="st_story_eod_9_jadeschatten_4" DisplayName="Schritt 4" info="Erfolg 'Jadeschatten' - Schritt 4: Zum Sprecher-Lager gehen und sich verkleiden lassen."/>
-					<MarkerCategory name="st_story_eod_9_jadeschatten_5" DisplayName="Schritt 5" info="Erfolg 'Jadeschatten' - Schritt 5: Die Fackel nehmen."/>
-					<MarkerCategory name="st_story_eod_9_jadeschatten_6" DisplayName="Schritt 6" info="Erfolg 'Jadeschatten' - Schritt 6: Zum Jadebruderschafts-Lager zurückkehren und verkleiden."/>
-					<MarkerCategory name="st_story_eod_9_jadeschatten_7" DisplayName="Schritt 7" info="Erfolg 'Jadeschatten' - Schritt 7: Nachdem man die Fackel erlangt hat nochmals mit dem Vorratslager interagieren."/>
-				</MarkerCategory>
-				<MarkerCategory name="st_story_eod_9_fortentwicklungimverfall" DisplayName="Fortentwicklung im Verfall" achievementId="XXX" info="Erfolg 'Fortentwicklung im Verfall': Mit Ankkas Tagebuch interagieren."/>
-		</MarkerCategory>
-			<MarkerCategory name="st_story_eod_10" DisplayName="10: Leer" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
-				<MarkerCategory name="st_story_eod_10_daswarenanderezeiten" DisplayName="Das waren andere Zeiten" achievementId="XXX" info="Erfolg 'Das waren andere Zeiten': Am Ende der Instanz, vor dem Verlassen, mit der Box hinten im Raum interagieren."/>
-				<MarkerCategory name="st_story_eod_10_leisertod" DisplayName="Leiser Tod" achievementId="XXX" info="Erfolg 'Leiser Tod': Den Bosskampf in unter 7 Minuten abschließen."/>
-				<MarkerCategory name="st_story_eod_10_unerschuettert" DisplayName="Unerschüttert" achievementId="XXX" info="Erfolg 'Unerschüttert': Den Bosskampf abschließen ohne niedergeschlagen zu werden. Es gibt viele Effektfelder und Gift-Zustände."/>
-				<MarkerCategory name="st_story_eod_10_enterkommando" DisplayName="Enterkommando" achievementId="XXX" info="Erfolg 'Enterkommando': Gleich am Anfang zu Ankkas Schiff gleiten. Dort wird man abgeschossen und erhält den Erfolg."/>	
 			</MarkerCategory>
 
-		</MarkerCategory>
+	<!--	#####################################################################################
+			##################### LEBENDIGE WELT STAFFEL 2 ######################################
+			#####################################################################################	-->
+
+			<MarkerCategory name="st_story_lws2">
+				<MarkerCategory name="st_story_lws2_0" DisplayName="XXX: XXX" iconFile="Data/SchattenfluegelTrails/Story/XXX.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+	<!--	#####################################################################################
+			##################### HEART OF THORNES ##############################################
+			#####################################################################################	-->
+
+			<MarkerCategory name="st_story_hot">
+				<MarkerCategory name="st_story_hot_0" DisplayName="XXX: XXX" iconFile="Data/SchattenfluegelTrails/Story/XXX.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+	<!--	#####################################################################################
+			##################### LEBENDIGE WELT STAFFEL 3 ######################################
+			#####################################################################################	-->
+
+			<MarkerCategory name="st_story_lws3">
+				<MarkerCategory name="st_story_lws3_1" DisplayName="1: Aus den Schatten" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_ausdenschatten.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws3_2" DisplayName="2: Lodernde Flammen" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_loderndeflammen.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws3_3" DisplayName="3: Ein Riss im Eis" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_einrissimeis.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws3_4" DisplayName="4: Der Kopf der Schlange" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_derkopfderschlange.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws3_5" DisplayName="5: Krisenherd" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_krisenherd.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws3_6" DisplayName="6: Am Ende des Pfads" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws3_amendedespfads.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+	<!--	#####################################################################################
+			##################### PATH OF FIRE ##################################################
+			#####################################################################################	-->
+
+			<MarkerCategory name="st_story_pof">
+				<MarkerCategory name="st_story_pof_1" DisplayName="1: Entzünden der Flamme" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_2" DisplayName="2: Flammender Vorreiter" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_3" DisplayName="3: Nacht der Feuer" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_4" DisplayName="4: Das Opfer" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_5" DisplayName="5: Erinnerungen im Kristall" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_6" DisplayName="6: Geheiligter Boden" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_7" DisplayName="7: Der Wahrheit stellen" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_7_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_8" DisplayName="8: Der Weg nach vorn" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_8_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_9" DisplayName="9: Der Abschied" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_9_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_10" DisplayName="10: Feind meines Feindes" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_10_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_11" DisplayName="11: Bestie des Krieges" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_11_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_12" DisplayName="12: Gottesmord" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_12_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_pof_13" DisplayName="13: Kleiner Sieg (Epilog)" iconFile="Data/SchattenfluegelTrails/Story/st_story_pof_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_13_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+	<!--	#####################################################################################
+			##################### LEBENDIGE WELT STAFFEL 4 ######################################
+			#####################################################################################	-->
+
+			<MarkerCategory name="st_story_lws4">
+				<MarkerCategory name="st_story_lws4_1" DisplayName="1: Tagesanbruch" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_tagesanbruch.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws4_2" DisplayName="2: Ein Fehler im System" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_einfehlerimsystem.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws4_3" DisplayName="3: Lang lebe der Lich" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_langlebederlich.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws4_4" DisplayName="4: Unser Leitstern" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_unserleitstern.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws4_5" DisplayName="5: Alles oder Nichts" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_allesodernichts.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws4_6" DisplayName="6: Ewiger Krieg" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws4_ewigerkrieg.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
 			
+	<!--	#####################################################################################
+			##################### EISBRUTSAGA ###################################################
+			#####################################################################################	-->
+		
+			<MarkerCategory name="st_story_ebs">	
+				<MarkerCategory name="st_story_ebs_0" DisplayName="Prolog: Durch Blut gebunden" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_prolog.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_ebs_1" DisplayName="1: Geflüster im Dunklen" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_geflüsterimdunkeln.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_ebs_2" DisplayName="2: Schatten im Eis" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_schattenimeis.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_ebs_A" DisplayName="Visionen der Vergangenheit: Stahl und Feuer" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_visionendervergangenheit.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_A_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_ebs_3" DisplayName="3: Keine Gnade" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_keinegnade.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_ebs_4" DisplayName="4: Jormags Erwachen" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_jormagserwachen.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_ebs_5" DisplayName="5: Champions" iconFile="Data/SchattenfluegelTrails/Story/st_story_ebs_champions.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+	<!--	#####################################################################################
+			##################### END OF DRAGONS ################################################
+			#####################################################################################	-->
+			
+			<MarkerCategory name="st_story_eod">
+				<MarkerCategory name="st_story_eod_0" DisplayName="0: Konvergenz" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_1" DisplayName="1: Alte Freunde" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_2" DisplayName="2: Öffentlichkeitsarbeit" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_2_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_3" DisplayName="3: Eure Art von Leuten" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_3_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_4" DisplayName="4: Traue keinem Piraten" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act1.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_4_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_5" DisplayName="5: Kleine Umwege" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_5_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_6" DisplayName="6: Jade und die Zukunft" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_6_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+					<MarkerCategory name="st_story_eod_6_bildungsreise" DisplayName="Bildungsreise" achievementId="6254" info="Erfolg 'Bildungsreise': XXXTextXXXMissingXXX"/>
+					<MarkerCategory name="st_story_eod_6_industriespionage" DisplayName="Industriespionage" achievementId="6425" info="Erfolg 'Industriespionage': XXXTextXXXMissingXXX"/>
+					<MarkerCategory name="st_story_eod_6_rohrreiniger" DisplayName="Rohrreiniger" achievementId="6454" info="Erfolg 'Rohrreiniger': XXXTextXXXMissingXXX"/>
+					<MarkerCategory name="st_story_eod_6_zeitpilot" DisplayName="Zeitpilot" achievementId="6101" info="Erfolg 'Zeitpilot': XXXTextXXXMissingXXX"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_7" DisplayName="7: Tiefste Geheimnisse" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act2.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_7_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+					<MarkerCategory name="st_story_eod_7_rueckendeckung" DisplayName="Rückendeckung" achievementId="6123" info="Erfolg 'Rückendeckung': XXXTextXXXMissingXXX"/>
+					<MarkerCategory name="st_story_eod_7_maiohmai" DisplayName="Mai oh Mai" achievementId="6275" info="Erfolg 'Mai oh Mai': XXXTextXXXMissingXXX"/>
+					<MarkerCategory name="st_story_eod_7_gnadenstoss" DisplayName="Gnadenstoß" achievementId="6173" info="Erfolg 'Gnadenstoß': XXXTextXXXMissingXXX"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_8" DisplayName="8: Auswirkungen" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_8_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+					<MarkerCategory name="st_story_eod_8_deeskalationstraining" DisplayName="Deeskalations-Training" achievementId="XXX" info="Erfolg 'Deeskalations-Training': Krone, Herz, Herz, Krone, Herz, Krone, Krone, Herz, Krone, Krone, Faust, Herz, Krone" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_deeskalationstraining.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+					<MarkerCategory name="st_story_eod_8_nikasrache" DisplayName="Nikas Rache" achievementId="XXX" info="Erfolg 'Nikas Rache': Die Spezialität des Kochs bestellen, essen und dann Hauptmann Fa bekämpfen (dazu entweder nicht antworten und abwarten oder absichtlich falsch antworten)." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_nikasrache.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+					<MarkerCategory name="st_story_eod_8_studiedesmakabren" DisplayName="Studie des Makabren" achievementId="XXX" info="Erfolg 'Studie des Makabren': Alle 14 Hinweise auf Übergriffe finden. ACHTUNG!: Ein markiertes Missionsziel aufheben und zuletzt abschließen, sonst sind die nicht markierten Hinweise nicht mehr interagierbar!!"/>
+					<MarkerCategory name="st_story_eod_8_beweglichkeitisttrupf" DisplayName="Beweglichkeit ist Trumpf" achievementId="XXX" info="Erfolg 'Beweglichkeit ist Trumpf': Den Boss besiegen, ohne Schaden durch seinen Säureodem zu nehmen (dreieckiger Effektfeld-Angriff nach vorne). Am besten hinter dem Boss halten und nah genug um zur Not schnell nach vorne ausweichen zu können." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beweglichkeitisttrupf.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+					<MarkerCategory name="st_story_eod_8_beeilungkommandeur" DisplayName="Beeilung Kommandeur" achievementId="XXX" info="Erfolg 'Beeilung Kommandeur': Den Boss in der Zeit abschließen." iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3_beeilungkommandeur.png" iconSize="1.5" heightOffset="1" fadeNear="2000" fadeFar="5100"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_eod_9" DisplayName="9: Eine Spinne fangen" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_9_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+					<MarkerCategory name="st_story_eod_9_echowaldinauflösung" DisplayName="Echowald in Auflösung" achievementId="XXX" info="Erfolg 'Echowald in Auflösung': Alle 5 Instabilitäten im Echowald finden. Dazu einfach zu den Stellen laufen."/>
+					<MarkerCategory name="st_story_eod_9_sehrzuvorkommend" DisplayName="Sehr zuvorkommend" achievementId="XXX" info="Erfolg 'Sehr zuvorkommend': Anstatt die Story-Schritte im Sprecher- oder Jadebruderschafts-Lager abzuschließen, einfach direkt zum Ätherklingen-Versteck gehen. (Konkurriert mit 'Sprecher-Saboteur' und 'Bruderschaft-Saboteur'!)"/>
+					<MarkerCategory name="st_story_eod_9_bruderschaftsaboteur" DisplayName="Bruderschaft-Saboteur" achievementId="XXX" info="Erfolg 'Bruderschaft-Saboteur': Während der Story-Mission 'Eine SPinne fangen' den Schritt im Jadebruderschafts-Lager abschließen. (Konkurriert mit 'Sprecher-Saboteur' und 'Gestohlener Donner'!)"/>
+					<MarkerCategory name="st_story_eod_9_sprechersaboteur" DisplayName="Sprecher-Saboteur" achievementId="XXX" info="Erfolg 'Sprecher-Saboteur': Während der Story-Mission 'Eine SPinne fangen' den Schritt im Sprecher-Lager abschließen. (Konkurriert mit 'Bruderschaft-Saboteur' und 'Gestohlener Donner'!)"/>
+					<MarkerCategory name="st_story_eod_9_zumschweigengebracht" DisplayName="Zum Schweigen gebracht" achievementId="XXX">
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_1" DisplayName="Schritt 1" info="Erfolg 'Zum Schweigen gebracht'- Schritt 1: BIS ABSCHLUSS DES ERFOLGS NICHT DIE NEUE NACHRICHT ÖFFNEN!! Mit dem NPC Shisokana am Sprecher-Lager sprechen (am Herz)"/>
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_2" DisplayName="Schritt 2" info="Erfolg 'Zum Schweigen gebracht'- Schritt 2: Zum Jadebruderschaft-Lager gehen und dort am Herzen sich verkleiden lassen."/>
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_3" DisplayName="Schritt 3" info="Erfolg 'Zum Schweigen gebracht'- Schritt 3: Tech aus der Truhe des Brudershcaft-Leutnants stehlen."/>
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_4" DisplayName="Schritt 4" info="Erfolg 'Zum Schweigen gebracht'- Schritt 4: Zum Sprecher-Lager zurückkehren. Das Lager mit Verkleidung betreten."/>
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_5" DisplayName="Schritt 5" info="Erfolg 'Zum Schweigen gebracht'- Schritt 5: Zugang zum Sprecher-Ritualisten-Zelt erlangen. Dazu zum Zelteingang gehen."/>
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_6" DisplayName="Schritt 6" info="Erfolg 'Zum Schweigen gebracht'- Schritt 6: Die gestohlene Tech im Ritualisten-Zelt platzieren. Dazu mit dem Zelt interagieren."/>
+						<MarkerCategory name="st_story_eod_9_zumschweigengebracht_7" DisplayName="Schritt 7" info="Erfolg 'Zum Schweigen gebracht'- Schritt 7: Dem Leutnant am Sprecher-Refugium POI über den 'Verrat' des Ritualisten berichten."/>
+					</MarkerCategory>
+					<MarkerCategory name="st_story_eod_9_jadeschatten" DisplayName="Jadeschatten" achievementId="XXX">	
+						<MarkerCategory name="st_story_eod_9_jadeschatten_1" DisplayName="Schritt 1" info="Erfolg 'Jadeschatten' - Schritt 1: BIS ABSCHLUSS DES ERFOLGS NICHT DIE NEUE NACHRICHT ÖFFNEN!! Mit Kage am Jadebruderschafts-Lager sprechen (am Herz)"/>
+						<MarkerCategory name="st_story_eod_9_jadeschatten_2" DisplayName="Schritt 2" info="Erfolg 'Jadeschatten' - Schritt 2: Verkleidet zur Vorratsversteck gehen."/>
+						<MarkerCategory name="st_story_eod_9_jadeschatten_3" DisplayName="Schritt 3" info="Erfolg 'Jadeschatten' - Schritt 3: Verkleidet mit der Vorratslager interagieren."/>
+						<MarkerCategory name="st_story_eod_9_jadeschatten_4" DisplayName="Schritt 4" info="Erfolg 'Jadeschatten' - Schritt 4: Zum Sprecher-Lager gehen und sich verkleiden lassen."/>
+						<MarkerCategory name="st_story_eod_9_jadeschatten_5" DisplayName="Schritt 5" info="Erfolg 'Jadeschatten' - Schritt 5: Die Fackel nehmen."/>
+						<MarkerCategory name="st_story_eod_9_jadeschatten_6" DisplayName="Schritt 6" info="Erfolg 'Jadeschatten' - Schritt 6: Zum Jadebruderschafts-Lager zurückkehren und verkleiden."/>
+						<MarkerCategory name="st_story_eod_9_jadeschatten_7" DisplayName="Schritt 7" info="Erfolg 'Jadeschatten' - Schritt 7: Nachdem man die Fackel erlangt hat nochmals mit dem Vorratslager interagieren."/>
+					</MarkerCategory>
+					<MarkerCategory name="st_story_eod_9_fortentwicklungimverfall" DisplayName="Fortentwicklung im Verfall" achievementId="XXX" info="Erfolg 'Fortentwicklung im Verfall': Mit Ankkas Tagebuch interagieren."/>
+			</MarkerCategory>
+				<MarkerCategory name="st_story_eod_10" DisplayName="10: Leer" iconFile="Data/SchattenfluegelTrails/Story/st_story_eod_act3.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="st_story_eod_10_daswarenanderezeiten" DisplayName="Das waren andere Zeiten" achievementId="XXX" info="Erfolg 'Das waren andere Zeiten': Am Ende der Instanz, vor dem Verlassen, mit der Box hinten im Raum interagieren."/>
+					<MarkerCategory name="st_story_eod_10_leisertod" DisplayName="Leiser Tod" achievementId="XXX" info="Erfolg 'Leiser Tod': Den Bosskampf in unter 7 Minuten abschließen."/>
+					<MarkerCategory name="st_story_eod_10_unerschuettert" DisplayName="Unerschüttert" achievementId="XXX" info="Erfolg 'Unerschüttert': Den Bosskampf abschließen ohne niedergeschlagen zu werden. Es gibt viele Effektfelder und Gift-Zustände."/>
+					<MarkerCategory name="st_story_eod_10_enterkommando" DisplayName="Enterkommando" achievementId="XXX" info="Erfolg 'Enterkommando': Gleich am Anfang zu Ankkas Schiff gleiten. Dort wird man abgeschossen und erhält den Erfolg."/>	
+				</MarkerCategory>
+
+			</MarkerCategory>
+		</MarkerCategory>
 	</MarkerCategory>
 
 	<POIs>
@@ -243,86 +244,86 @@
 		
 		
 		<!-- ##################################### NEW POIs ############################################# -->
-		<POI MapID="1415" xpos="-559.095" ypos="41.6563" zpos="40.7683" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="2iUXWmf5KUGTYdeOrq0+hw=="/>
-		<POI MapID="1415" xpos="-592.313" ypos="37.4498" zpos="91.1596" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="uf/XBd24EEKBDXS4OHCRuQ=="/>
-		<POI MapID="1415" xpos="-663.236" ypos="18.7918" zpos="104.381" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="g6qFmSPhkUeOYP7toK0JxA=="/>
-		<POI MapID="1415" xpos="-678.948" ypos="20.0917" zpos="84.7164" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="4FDMxY9Dn0+QQlBIl0N08g=="/>		
-		<POI MapID="1445" xpos="574.355" ypos="111.606" zpos="549.867" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="r9fZ+/cCW0W0usmxsTUc/Q=="/>
-		<POI MapID="1445" xpos="586.853" ypos="118.095" zpos="580.801" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_zeitpilot" GUID="njOvz5qOkUKJyLVtdD5Iog=="/>
-		<POI MapID="1445" xpos="576.673" ypos="144.903" zpos="547.939" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="rL+lZgxgHEWqB5q3aSudVA=="/>
-		<POI MapID="1445" xpos="577.795" ypos="145.26" zpos="497.727" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="nWLFXMapEk6Kxy5F+QOgRg=="/>
-		<POI MapID="1445" xpos="589.218" ypos="133.751" zpos="464.798" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="tB7ARDYdnESE3GhWrTJqWw=="/>
-		<POI MapID="1445" xpos="620.07" ypos="133.304" zpos="458.788" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="R2R/LTcKAEOCXJB38la1ug=="/>
-		<POI MapID="1445" xpos="613.446" ypos="148.309" zpos="492.696" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="i9cql46fAUaPJADclZKPEA=="/>
-		<POI MapID="1445" xpos="590.643" ypos="109.679" zpos="516.148" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="qfzjefnUSkm3SE+p80QcCA=="/>
-		<POI MapID="1445" xpos="625.681" ypos="109.679" zpos="503.872" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="NezLc0a34UGM2XEcPCZPhg=="/>
-		<POI MapID="1445" xpos="630.405" ypos="136.833" zpos="590.092" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="SGr+ES3+kEeUPPg8C5O3Zg=="/>
-		<POI MapID="1445" xpos="638.306" ypos="149.737" zpos="577.617" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="NO6amEHTgUCeCDVPkMlCmQ=="/>
-		<POI MapID="1445" xpos="668.809" ypos="147.035" zpos="557.573" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="v+I1l1/XT0C/NCrHSf3Vyw=="/>
-		<POI MapID="1445" xpos="677.842" ypos="147.436" zpos="581.635" type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="qngrUd3wJke7YHzlGQ+Whw=="/>
-		<POI MapID="1416" xpos="-42.4939" ypos="69.7825" zpos="7.02508" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="yssgAVM9f0mPdYVH7G6VRA=="/>
-		<POI MapID="1416" xpos="-120.135" ypos="69.7788" zpos="-10.0335" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="laGIOR52I0aEi0ybtMZ3yQ=="/>
-		<POI MapID="1416" xpos="-62.5611" ypos="69.7788" zpos="-77.4842" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="wGyryImnu0m5h6Pffc45AA=="/>
-		<POI MapID="1416" xpos="25.9813" ypos="69.8642" zpos="-12.9029" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="Yc3d9ljTOEi9smXo25hrPA=="/>
-		<POI MapID="1416" xpos="-55.0147" ypos="70.9029" zpos="-99.1666" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_maiohmai" GUID="D1zbi9aFlkWVvqoc0/24mw=="/>
-		<POI MapID="1416" xpos="-54.3323" ypos="71.4286" zpos="-103.042" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_maiohmai" GUID="PLgcB/5dVk+Zu7n2g8FCEA=="/>
-		<POI MapID="1416" xpos="-61.1853" ypos="70.3777" zpos="-103.499" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_maiohmai" GUID="rSq9p931aUiNV+zaPnSteg=="/>
-		<POI MapID="1416" xpos="-81.7259" ypos="133.275" zpos="-179.308" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="4EfM+REOEEOdAfhTCjFBRA=="/>
-		<POI MapID="1416" xpos="-111.808" ypos="133.277" zpos="-188.418" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="12L09hvIGkeSEpnx/whQkw=="/>
-		<POI MapID="1416" xpos="-106.212" ypos="137.342" zpos="-138.435" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="uetLydVbTkStmpAeXk8ykg=="/>
-		<POI MapID="1416" xpos="-122.013" ypos="137.369" zpos="-130.201" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="G7OC2TmmTEW33wXZ1oI5sw=="/>
-		<POI MapID="1416" xpos="-105.674" ypos="124.286" zpos="-97.0239" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="9askaccv3EKsFukpfO3iRg=="/>
-		<POI MapID="1416" xpos="-67.4292" ypos="110.113" zpos="-121.111" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="lkz2CZMT7U+DmtsIbYNngw=="/>
-		<POI MapID="1416" xpos="-82.6619" ypos="110.113" zpos="-121.846" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="dnHTjFYY5UWQAvr/XnrqHA=="/>
-		<POI MapID="1416" xpos="-103.623" ypos="109.242" zpos="-133.482" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="tETS9mgiX0OsdR41wC43/g=="/>
-		<POI MapID="1416" xpos="-106.665" ypos="108.338" zpos="-108.876" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="x/4hlsHUtESzqt5Opapjng=="/>
-		<POI MapID="1416" xpos="-121.69" ypos="129.982" zpos="-108.088" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="YeDaEEUJYE6a2NzC7LEy3A=="/>
-		<POI MapID="1416" xpos="-76.0026" ypos="133.234" zpos="-220.655" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="sHd0gugENUqyev12qYABSQ=="/>
-		<POI MapID="1416" xpos="-105.808" ypos="151.423" zpos="-207.372" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="MjOHITNy/UGcbyIOKkzmCA=="/>
-		<POI MapID="1416" xpos="-115.61" ypos="154.324" zpos="-192.39" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="+urPxVgu8kW7fyN/4XqwiQ=="/>
-		<POI MapID="1416" xpos="-113.429" ypos="159.143" zpos="-173.635" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="Q/qu7QT2wUuYizASZEGjgQ=="/>
-		<POI MapID="1416" xpos="-91.7524" ypos="151.329" zpos="-219.628" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="Jq7bJ+ZcMUSPCrWx52QtrA=="/>
-		<POI MapID="1416" xpos="-71.7709" ypos="151.423" zpos="-221.083" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="/QBHlfhOq0qzVgPK42Ht3A=="/>
-		<POI MapID="1416" xpos="-51.2258" ypos="155.585" zpos="-206.296" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="eJ9uzh/xV0Clb+uuNxMUmg=="/>
-		<POI MapID="1416" xpos="-52.2853" ypos="160.275" zpos="-178.527" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="Eo/kZqemwE6NTnUHk7jfBQ=="/>
-		<POI MapID="1416" xpos="-57.6635" ypos="162.2" zpos="-192.817" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="1iw+mGdDr0KuutVFxwHpKw=="/>
-		<POI MapID="1416" xpos="-107.049" ypos="160.297" zpos="-157.445" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="c8zynbt+GUqRxFp1EkTZSA=="/>
-		<POI MapID="1416" xpos="-120.552" ypos="160.543" zpos="-150.22" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="PKk/3QzLgEee6bu6tG3DdA=="/>
-		<POI MapID="1416" xpos="-121.131" ypos="160.543" zpos="-137.757" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="UMmw9NWWWUaFzVyWNLSlBw=="/>
-		<POI MapID="1416" xpos="-114" ypos="160.562" zpos="-113.829" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="EE74cIB/a0OmUZL6mI6mHw=="/>
-		<POI MapID="1416" xpos="-92.8814" ypos="169.94" zpos="-207.958" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="o8rE4oPE6EO+E6dw9MXyKw=="/>
-		<POI MapID="1416" xpos="-96.4738" ypos="169.94" zpos="-206.94" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="1hVzKu0qkkiwMMhJOoD6Fw=="/>
-		<POI MapID="1416" xpos="-100.634" ypos="170.092" zpos="-227.788" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="gooRrZmNKEO+yGncI23yaQ=="/>
-		<POI MapID="1416" xpos="-111.772" ypos="170.113" zpos="-233.306" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="UlDbKGqeaUq1PlZsAoGXnQ=="/>
-		<POI MapID="1416" xpos="-114.647" ypos="170.113" zpos="-226.214" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="5a7bY2NrJkKQGZkAKS1Ghg=="/>
-		<POI MapID="1416" xpos="-107.32" ypos="170.079" zpos="-222.223" type="st_guides.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="rwqz/kbV/E6GANnD0AwqIQ=="/>
-		<POI MapID="1464" xpos="-835.457" ypos="12.1158" zpos="641.632" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="ioVM3NZ4QkmNUafIQ628NA=="/>
-		<POI MapID="1464" xpos="-788.722" ypos="9.90601" zpos="578.559" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="spfrwuliqkCWSqnf+sIeDA=="/>
-		<POI MapID="1464" xpos="-765.603" ypos="13.865" zpos="606.088" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="aS5zLExzBkagBnyx3qt8uw=="/>
-		<POI MapID="1464" xpos="-723.939" ypos="11.6331" zpos="616.667" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="q46gv447l06ITLkV2XX9Nw=="/>
-		<POI MapID="1464" xpos="-763.715" ypos="9.86872" zpos="547.351" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="v6RtLzqIGUu9CRHS4zavmw=="/>
-		<POI MapID="1464" xpos="-724.731" ypos="28.1855" zpos="561.793" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="ZW8zytqlE0KgXxwqk7Qtww=="/>
-		<POI MapID="1464" xpos="-771.513" ypos="2.03232" zpos="478.117" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="SDX4Fc6M2UCB9uMzVzLxkg=="/>
-		<POI MapID="1464" xpos="-793.123" ypos="9.73058" zpos="423.205" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="3KlHJ8m8eES+nD4gQB68tQ=="/>
-		<POI MapID="1464" xpos="-800.095" ypos="11.0726" zpos="395.759" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="Pva0tnJdqUyJYwl0WK//9Q=="/>
-		<POI MapID="1464" xpos="-833.464" ypos="9.8632" zpos="445.256" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="HSCnZy0i/0Ob160oQBArLw=="/>
-		<POI MapID="1464" xpos="-834.098" ypos="11.1718" zpos="453.22" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="0uvt9zLnbUGjK8VLqBMh3Q=="/>
-		<POI MapID="1464" xpos="-879.334" ypos="10.8936" zpos="482.897" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="MTb6/2SApkaupYaVtwlhrw=="/>
-		<POI MapID="1464" xpos="-895.098" ypos="-1.05029" zpos="520.706" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="ro9n+pS6rEKYWqnMUB1h0w=="/>
-		<POI MapID="1464" xpos="-724.625" ypos="9.73156" zpos="501.882" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="jtoT3qlXSkKfNAMrmQttKg=="/>
-		<POI MapID="1464" xpos="-799.395" ypos="2.28714" zpos="516.928" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_beeilungkommandeur" GUID="75/74Ob9ME66uNa1YWZkTw=="/>
-		<POI MapID="1464" xpos="-802.688" ypos="1.95811" zpos="511.08" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_beweglichkeitisttrupf" GUID="7kXv7TzxTkS26M9Xy1I5Ww=="/>
-		<POI MapID="1420" xpos="659.698" ypos="5.51221" zpos="19.7989" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_nikasrache" GUID="AnTa9pc2akySi1AkZVaeYA=="/>
-		<POI MapID="1420" xpos="654.818" ypos="2.62128" zpos="13.7371" type="st_guides.st_story_eod.st_story_eod_8.st_story_eod_8_deeskalationstraining" GUID="nhVsgE7M9UiUjY0Thpsmww=="/>
-		<POI MapID="1452" xpos="-825.819" ypos="132.557" zpos="-81.257" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="+lyZ4piUuEmaCYYJyvFkdw=="/>
-		<POI MapID="1452" xpos="-879.332" ypos="178.444" zpos="-492.513" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="2DPE+FpRKEiWoEt77FjU0w=="/>
-		<POI MapID="1452" xpos="-141.268" ypos="178.42" zpos="346.659" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="1KH7346Wf0ye03ngCjnuRQ=="/>
-		<POI MapID="1452" xpos="437.077" ypos="60.2108" zpos="-289.606" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="sUBL87S2QEm+Zq/CfKvpEg=="/>
-		<POI MapID="1452" xpos="807.519" ypos="93.3886" zpos="-77.2583" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="cqLRMulDQEi3dAQapa6XMA=="/>
-		<POI MapID="1452" xpos="-141.268" ypos="178.42" zpos="346.659" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="1KH7346Wf0ye03ngCjnuRQ=="/>
-		<POI MapID="1452" xpos="437.077" ypos="60.2108" zpos="-289.606" type="st_guides.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="sUBL87S2QEm+Zq/CfKvpEg=="/>
+		<POI MapID="1415" xpos="-559.095" ypos="41.6563" zpos="40.7683" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="2iUXWmf5KUGTYdeOrq0+hw=="/>
+		<POI MapID="1415" xpos="-592.313" ypos="37.4498" zpos="91.1596" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="uf/XBd24EEKBDXS4OHCRuQ=="/>
+		<POI MapID="1415" xpos="-663.236" ypos="18.7918" zpos="104.381" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="g6qFmSPhkUeOYP7toK0JxA=="/>
+		<POI MapID="1415" xpos="-678.948" ypos="20.0917" zpos="84.7164" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_industriespionage" GUID="4FDMxY9Dn0+QQlBIl0N08g=="/>		
+		<POI MapID="1445" xpos="574.355" ypos="111.606" zpos="549.867" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="r9fZ+/cCW0W0usmxsTUc/Q=="/>
+		<POI MapID="1445" xpos="586.853" ypos="118.095" zpos="580.801" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_zeitpilot" GUID="njOvz5qOkUKJyLVtdD5Iog=="/>
+		<POI MapID="1445" xpos="576.673" ypos="144.903" zpos="547.939" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="rL+lZgxgHEWqB5q3aSudVA=="/>
+		<POI MapID="1445" xpos="577.795" ypos="145.26" zpos="497.727" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="nWLFXMapEk6Kxy5F+QOgRg=="/>
+		<POI MapID="1445" xpos="589.218" ypos="133.751" zpos="464.798" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="tB7ARDYdnESE3GhWrTJqWw=="/>
+		<POI MapID="1445" xpos="620.07" ypos="133.304" zpos="458.788" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="R2R/LTcKAEOCXJB38la1ug=="/>
+		<POI MapID="1445" xpos="613.446" ypos="148.309" zpos="492.696" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="i9cql46fAUaPJADclZKPEA=="/>
+		<POI MapID="1445" xpos="590.643" ypos="109.679" zpos="516.148" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="qfzjefnUSkm3SE+p80QcCA=="/>
+		<POI MapID="1445" xpos="625.681" ypos="109.679" zpos="503.872" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="NezLc0a34UGM2XEcPCZPhg=="/>
+		<POI MapID="1445" xpos="630.405" ypos="136.833" zpos="590.092" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="SGr+ES3+kEeUPPg8C5O3Zg=="/>
+		<POI MapID="1445" xpos="638.306" ypos="149.737" zpos="577.617" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="NO6amEHTgUCeCDVPkMlCmQ=="/>
+		<POI MapID="1445" xpos="668.809" ypos="147.035" zpos="557.573" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="v+I1l1/XT0C/NCrHSf3Vyw=="/>
+		<POI MapID="1445" xpos="677.842" ypos="147.436" zpos="581.635" type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_rohrreiniger" GUID="qngrUd3wJke7YHzlGQ+Whw=="/>
+		<POI MapID="1416" xpos="-42.4939" ypos="69.7825" zpos="7.02508" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="yssgAVM9f0mPdYVH7G6VRA=="/>
+		<POI MapID="1416" xpos="-120.135" ypos="69.7788" zpos="-10.0335" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="laGIOR52I0aEi0ybtMZ3yQ=="/>
+		<POI MapID="1416" xpos="-62.5611" ypos="69.7788" zpos="-77.4842" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="wGyryImnu0m5h6Pffc45AA=="/>
+		<POI MapID="1416" xpos="25.9813" ypos="69.8642" zpos="-12.9029" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_rueckendeckung" GUID="Yc3d9ljTOEi9smXo25hrPA=="/>
+		<POI MapID="1416" xpos="-55.0147" ypos="70.9029" zpos="-99.1666" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_maiohmai" GUID="D1zbi9aFlkWVvqoc0/24mw=="/>
+		<POI MapID="1416" xpos="-54.3323" ypos="71.4286" zpos="-103.042" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_maiohmai" GUID="PLgcB/5dVk+Zu7n2g8FCEA=="/>
+		<POI MapID="1416" xpos="-61.1853" ypos="70.3777" zpos="-103.499" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_maiohmai" GUID="rSq9p931aUiNV+zaPnSteg=="/>
+		<POI MapID="1416" xpos="-81.7259" ypos="133.275" zpos="-179.308" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="4EfM+REOEEOdAfhTCjFBRA=="/>
+		<POI MapID="1416" xpos="-111.808" ypos="133.277" zpos="-188.418" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="12L09hvIGkeSEpnx/whQkw=="/>
+		<POI MapID="1416" xpos="-106.212" ypos="137.342" zpos="-138.435" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="uetLydVbTkStmpAeXk8ykg=="/>
+		<POI MapID="1416" xpos="-122.013" ypos="137.369" zpos="-130.201" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="G7OC2TmmTEW33wXZ1oI5sw=="/>
+		<POI MapID="1416" xpos="-105.674" ypos="124.286" zpos="-97.0239" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="9askaccv3EKsFukpfO3iRg=="/>
+		<POI MapID="1416" xpos="-67.4292" ypos="110.113" zpos="-121.111" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="lkz2CZMT7U+DmtsIbYNngw=="/>
+		<POI MapID="1416" xpos="-82.6619" ypos="110.113" zpos="-121.846" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="dnHTjFYY5UWQAvr/XnrqHA=="/>
+		<POI MapID="1416" xpos="-103.623" ypos="109.242" zpos="-133.482" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="tETS9mgiX0OsdR41wC43/g=="/>
+		<POI MapID="1416" xpos="-106.665" ypos="108.338" zpos="-108.876" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="x/4hlsHUtESzqt5Opapjng=="/>
+		<POI MapID="1416" xpos="-121.69" ypos="129.982" zpos="-108.088" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="YeDaEEUJYE6a2NzC7LEy3A=="/>
+		<POI MapID="1416" xpos="-76.0026" ypos="133.234" zpos="-220.655" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="sHd0gugENUqyev12qYABSQ=="/>
+		<POI MapID="1416" xpos="-105.808" ypos="151.423" zpos="-207.372" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="MjOHITNy/UGcbyIOKkzmCA=="/>
+		<POI MapID="1416" xpos="-115.61" ypos="154.324" zpos="-192.39" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="+urPxVgu8kW7fyN/4XqwiQ=="/>
+		<POI MapID="1416" xpos="-113.429" ypos="159.143" zpos="-173.635" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="Q/qu7QT2wUuYizASZEGjgQ=="/>
+		<POI MapID="1416" xpos="-91.7524" ypos="151.329" zpos="-219.628" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="Jq7bJ+ZcMUSPCrWx52QtrA=="/>
+		<POI MapID="1416" xpos="-71.7709" ypos="151.423" zpos="-221.083" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="/QBHlfhOq0qzVgPK42Ht3A=="/>
+		<POI MapID="1416" xpos="-51.2258" ypos="155.585" zpos="-206.296" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="eJ9uzh/xV0Clb+uuNxMUmg=="/>
+		<POI MapID="1416" xpos="-52.2853" ypos="160.275" zpos="-178.527" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="Eo/kZqemwE6NTnUHk7jfBQ=="/>
+		<POI MapID="1416" xpos="-57.6635" ypos="162.2" zpos="-192.817" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="1iw+mGdDr0KuutVFxwHpKw=="/>
+		<POI MapID="1416" xpos="-107.049" ypos="160.297" zpos="-157.445" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="c8zynbt+GUqRxFp1EkTZSA=="/>
+		<POI MapID="1416" xpos="-120.552" ypos="160.543" zpos="-150.22" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="PKk/3QzLgEee6bu6tG3DdA=="/>
+		<POI MapID="1416" xpos="-121.131" ypos="160.543" zpos="-137.757" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="UMmw9NWWWUaFzVyWNLSlBw=="/>
+		<POI MapID="1416" xpos="-114" ypos="160.562" zpos="-113.829" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="EE74cIB/a0OmUZL6mI6mHw=="/>
+		<POI MapID="1416" xpos="-92.8814" ypos="169.94" zpos="-207.958" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="o8rE4oPE6EO+E6dw9MXyKw=="/>
+		<POI MapID="1416" xpos="-96.4738" ypos="169.94" zpos="-206.94" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="1hVzKu0qkkiwMMhJOoD6Fw=="/>
+		<POI MapID="1416" xpos="-100.634" ypos="170.092" zpos="-227.788" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="gooRrZmNKEO+yGncI23yaQ=="/>
+		<POI MapID="1416" xpos="-111.772" ypos="170.113" zpos="-233.306" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="UlDbKGqeaUq1PlZsAoGXnQ=="/>
+		<POI MapID="1416" xpos="-114.647" ypos="170.113" zpos="-226.214" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="5a7bY2NrJkKQGZkAKS1Ghg=="/>
+		<POI MapID="1416" xpos="-107.32" ypos="170.079" zpos="-222.223" type="st_guides.st_story.st_story_eod.st_story_eod_7.st_story_eod_7_gnadenstoss" GUID="rwqz/kbV/E6GANnD0AwqIQ=="/>
+		<POI MapID="1464" xpos="-835.457" ypos="12.1158" zpos="641.632" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="ioVM3NZ4QkmNUafIQ628NA=="/>
+		<POI MapID="1464" xpos="-788.722" ypos="9.90601" zpos="578.559" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="spfrwuliqkCWSqnf+sIeDA=="/>
+		<POI MapID="1464" xpos="-765.603" ypos="13.865" zpos="606.088" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="aS5zLExzBkagBnyx3qt8uw=="/>
+		<POI MapID="1464" xpos="-723.939" ypos="11.6331" zpos="616.667" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="q46gv447l06ITLkV2XX9Nw=="/>
+		<POI MapID="1464" xpos="-763.715" ypos="9.86872" zpos="547.351" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="v6RtLzqIGUu9CRHS4zavmw=="/>
+		<POI MapID="1464" xpos="-724.731" ypos="28.1855" zpos="561.793" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="ZW8zytqlE0KgXxwqk7Qtww=="/>
+		<POI MapID="1464" xpos="-771.513" ypos="2.03232" zpos="478.117" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="SDX4Fc6M2UCB9uMzVzLxkg=="/>
+		<POI MapID="1464" xpos="-793.123" ypos="9.73058" zpos="423.205" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="3KlHJ8m8eES+nD4gQB68tQ=="/>
+		<POI MapID="1464" xpos="-800.095" ypos="11.0726" zpos="395.759" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="Pva0tnJdqUyJYwl0WK//9Q=="/>
+		<POI MapID="1464" xpos="-833.464" ypos="9.8632" zpos="445.256" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="HSCnZy0i/0Ob160oQBArLw=="/>
+		<POI MapID="1464" xpos="-834.098" ypos="11.1718" zpos="453.22" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="0uvt9zLnbUGjK8VLqBMh3Q=="/>
+		<POI MapID="1464" xpos="-879.334" ypos="10.8936" zpos="482.897" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="MTb6/2SApkaupYaVtwlhrw=="/>
+		<POI MapID="1464" xpos="-895.098" ypos="-1.05029" zpos="520.706" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="ro9n+pS6rEKYWqnMUB1h0w=="/>
+		<POI MapID="1464" xpos="-724.625" ypos="9.73156" zpos="501.882" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_studiedesmakabren" GUID="jtoT3qlXSkKfNAMrmQttKg=="/>
+		<POI MapID="1464" xpos="-799.395" ypos="2.28714" zpos="516.928" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_beeilungkommandeur" GUID="75/74Ob9ME66uNa1YWZkTw=="/>
+		<POI MapID="1464" xpos="-802.688" ypos="1.95811" zpos="511.08" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_beweglichkeitisttrupf" GUID="7kXv7TzxTkS26M9Xy1I5Ww=="/>
+		<POI MapID="1420" xpos="659.698" ypos="5.51221" zpos="19.7989" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_nikasrache" GUID="AnTa9pc2akySi1AkZVaeYA=="/>
+		<POI MapID="1420" xpos="654.818" ypos="2.62128" zpos="13.7371" type="st_guides.st_story.st_story_eod.st_story_eod_8.st_story_eod_8_deeskalationstraining" GUID="nhVsgE7M9UiUjY0Thpsmww=="/>
+		<POI MapID="1452" xpos="-825.819" ypos="132.557" zpos="-81.257" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="+lyZ4piUuEmaCYYJyvFkdw=="/>
+		<POI MapID="1452" xpos="-879.332" ypos="178.444" zpos="-492.513" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="2DPE+FpRKEiWoEt77FjU0w=="/>
+		<POI MapID="1452" xpos="-141.268" ypos="178.42" zpos="346.659" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="1KH7346Wf0ye03ngCjnuRQ=="/>
+		<POI MapID="1452" xpos="437.077" ypos="60.2108" zpos="-289.606" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="sUBL87S2QEm+Zq/CfKvpEg=="/>
+		<POI MapID="1452" xpos="807.519" ypos="93.3886" zpos="-77.2583" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="cqLRMulDQEi3dAQapa6XMA=="/>
+		<POI MapID="1452" xpos="-141.268" ypos="178.42" zpos="346.659" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="1KH7346Wf0ye03ngCjnuRQ=="/>
+		<POI MapID="1452" xpos="437.077" ypos="60.2108" zpos="-289.606" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="sUBL87S2QEm+Zq/CfKvpEg=="/>
 		
-		<Trail type="st_guides.st_story_eod.st_story_eod_6.st_story_eod_6_zeitpilot" GUID="NmOiTeW3ZuTWP3Qou2u1zw==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Story/st_story_eod_6_zeitpilot.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_efg.png"/>
+		<Trail type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_zeitpilot" GUID="NmOiTeW3ZuTWP3Qou2u1zw==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Story/st_story_eod_6_zeitpilot.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_efg.png"/>
 
 		
 		
