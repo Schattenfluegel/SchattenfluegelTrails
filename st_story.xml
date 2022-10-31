@@ -322,7 +322,11 @@
 		<POI MapID="1452" xpos="807.519" ypos="93.3886" zpos="-77.2583" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="cqLRMulDQEi3dAQapa6XMA=="/>
 		<POI MapID="1452" xpos="-141.268" ypos="178.42" zpos="346.659" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="1KH7346Wf0ye03ngCjnuRQ=="/>
 		<POI MapID="1452" xpos="437.077" ypos="60.2108" zpos="-289.606" type="st_guides.st_story.st_story_eod.st_story_eod_9.st_story_eod_9_echowaldinaufl__sung" GUID="sUBL87S2QEm+Zq/CfKvpEg=="/>
-		
+		<POI MapID="1434" xpos="-98.2663" ypos="111.251" zpos="23.9376" type="st_guides.st_story_eod.st_story_eod_10.st_story_eod_10_enterkommando" GUID="vvBl92tX1UqOY5aVQ1tWzw=="/>
+
+
+
+
 		<Trail type="st_guides.st_story.st_story_eod.st_story_eod_6.st_story_eod_6_zeitpilot" GUID="NmOiTeW3ZuTWP3Qou2u1zw==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Story/st_story_eod_6_zeitpilot.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_efg.png"/>
 
 		

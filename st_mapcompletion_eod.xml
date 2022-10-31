@@ -594,6 +594,10 @@
 
 	<!-- DRACHEN-ENDE (XXX) -->
 
+		<Trail type="st_guides.st_mapcompletion.st_mapcompletion_eod.st_mapcompletion_eod_dragonsend.st_mapcompletion_eod_dragonsend_trail.st_mapcompletion_eod_dragonsend_trail_toggletrail" GUID="2/bzH3ywv0aZWXSvWdUcwQ==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Erkundung/st_mapcompletion_eod_dragonsend_trail_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_mc.png"/>
+		<Trail type="st_guides.st_mapcompletion.st_mapcompletion_eod.st_mapcompletion_eod_dragonsend.st_mapcompletion_eod_dragonsend_trail.st_mapcompletion_eod_dragonsend_trail_toggletrail" GUID="rLGYXFXXYUyGpaj/xw6S2g==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Erkundung/st_mapcompletion_eod_dragonsendBETA_trail_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_mc.png"/>
+
+
 <!-- ERRORS -->
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
