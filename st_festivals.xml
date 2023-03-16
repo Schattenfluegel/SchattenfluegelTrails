@@ -2,6 +2,22 @@
 	<MarkerCategory name="st_guides">
 								 
 		<MarkerCategory name="st_festivals" DisplayName="Festivals">
+			<MarkerCategory name="st_festivals_wintersday" DisplayName="Wintertag">
+				<MarkerCategory name="st_festivals_wintersday_race" DisplayName="Rennen">
+					<MarkerCategory name="st_festivals_wintersday_race_toggletrails" DisplayName="Trails">
+						<MarkerCategory name="st_festivals_wintersday_race_toggletrails_toggletrail01" DisplayName="Rennen Trail" />
+					</MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="st_festivals_halloween" DisplayName="Halloween">
+				<MarkerCategory name="st_festivals_halloween_farming" DisplayName="Farming">
+					<MarkerCategory name="st_festivals_halloween_farming_candycorn" DisplayName="Candy Corn">
+						<MarkerCategory name="st_festivals_halloween_farming_candycorn_node" DisplayName="Candy Corn Nodes">
+							
+						</MarkerCategory>
+					</MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
 			<MarkerCategory name="st_festivals_lunanewyear" DisplayName="Mondneujahr">
 				<MarkerCategory name="st_festivals_lunanewyear_race" DisplayName="Rennen">
 					<MarkerCategory name="st_festivals_lunanewyear_race_toggletrails" DisplayName="Toggle Trail">
@@ -72,13 +88,49 @@
 -->
 		<POI MapID="18" xpos="57.2381" ypos="100.444" zpos="-469.319" type="tw_guides.tw_festival_dragonbash.tw_festival_dragonbash_dragonpinatas.tw_festival_dragonbash_dragonpinatas_signs.tw_festival_dragonbash_dragonpinatas_dragonpinata" GUID="85eZ7TymXUmG4+nPrYJaaA=="/>
 		<POI MapID="18" xpos="77.2443" ypos="100.436" zpos="-468.941" type="tw_guides.tw_festival_dragonbash.tw_festival_dragonbash_dragonpinatas.tw_festival_dragonbash_dragonpinatas_signs.tw_festival_dragonbash_dragonpinatas_dragonpinata" GUID="yTqIIdwt6EWUC7RTiDT4qQ=="/>
+		<POI MapID="866" xpos="-81.1425" ypos="181.062" zpos="139.358" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="KbuoEzIQFE+aO6A8ypuwbg=="/>
+		<POI MapID="866" xpos="114.48" ypos="180.643" zpos="94.3651" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="GyjmWgugEk2xzHiaeq4v2w=="/>
+		<POI MapID="866" xpos="125.552" ypos="176.765" zpos="-156.862" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="2zuLX+eX+U2uGvV2I39ctA=="/>
+		<POI MapID="866" xpos="103.336" ypos="176.776" zpos="-189.237" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="yT1v9ETcrUWRkylIDfmNMQ=="/>
+		<POI MapID="866" xpos="-56.8779" ypos="194.464" zpos="15.2631" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="pml4pNjxkUCfKklZqOBFhQ=="/>
+		<POI MapID="866" xpos="53.6261" ypos="179.608" zpos="136.688" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="M+NJzlcVWk2MJ8du+dQ1lQ=="/>
+		<POI MapID="866" xpos="138.177" ypos="173.979" zpos="153.636" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="WMUG8m5LKk2kjcjkHa+qbQ=="/>
+		<POI MapID="866" xpos="-51.443" ypos="194.399" zpos="-58.9271" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="U0Rs5L7320G7KB+GiVLLdA=="/>
+		<POI MapID="866" xpos="39.06" ypos="196.387" zpos="46.7275" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="S+qCqbOR5kKOVviYyJQ1yQ=="/>
+		<POI MapID="866" xpos="-55.1733" ypos="179.927" zpos="193.491" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="G6+y+qD000O0q2PMhsHI5w=="/>
+		<POI MapID="866" xpos="-20.2026" ypos="193.978" zpos="-37.544" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="CqaX61VYxE+PY89Bu5bH/Q=="/>
+		<POI MapID="866" xpos="17.8403" ypos="194.828" zpos="-65.1121" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="eTs28eEOWU+pJeYBmpYWbQ=="/>
+		<POI MapID="866" xpos="-7.93695" ypos="177.601" zpos="-133.149" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="Sb0gybiH20ajvDGotIxB6A=="/>
+		<POI MapID="866" xpos="-57.9045" ypos="193.81" zpos="-10.733" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="sud5fnFyFU+zNcw4ZGUCKg=="/>
+		<POI MapID="866" xpos="-113.933" ypos="178.343" zpos="-48.9521" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="EAQjryfg1EKhkfYjBakC6Q=="/>
+		<POI MapID="866" xpos="-49.3814" ypos="177.655" zpos="113.485" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="yAR3QNrXbkCRWNIa1SDmdg=="/>
+		<POI MapID="866" xpos="-150.817" ypos="177.014" zpos="-8.01089" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="HtZqgHrKsUCkboBGBMiUdw=="/>
+		<POI MapID="866" xpos="-111.474" ypos="178.304" zpos="-111.07" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="dGz7kfTGi0CuMTgWnyWiug=="/>
+		<POI MapID="866" xpos="142.612" ypos="178.76" zpos="-83.7931" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="x06qEgvvwkuCEk3Q8GYiZA=="/>
+		<POI MapID="866" xpos="34.9192" ypos="179.953" zpos="182.766" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="zv2X6gcdF0yJ0WTaLZ0Z4Q=="/>
+		<POI MapID="866" xpos="45.1472" ypos="194.217" zpos="-14.9168" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="jN1ravBoykuyyIMURsHaRQ=="/>
+		<POI MapID="866" xpos="113.16" ypos="179.584" zpos="34.4119" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="OCy1Sti0S06FjVx7HhXEwA=="/>
+		<POI MapID="866" xpos="-40.8455" ypos="195.168" zpos="35.4304" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="pVMZePzgJ0WbelHHRxNjAA=="/>
+		<POI MapID="866" xpos="-47.5252" ypos="196.815" zpos="67.3179" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="qSW1n8WrlkGZExCMNS6v0w=="/>
+		<POI MapID="866" xpos="16.6956" ypos="195.276" zpos="-30.0797" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="lCXcAc05wUeQGo1RwvfuVA=="/>
+		<POI MapID="866" xpos="-12.4571" ypos="193.926" zpos="53.4141" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="qXdl39H6Y0amq5zvwF5P2g=="/>
+		<POI MapID="866" xpos="-11.8761" ypos="194.228" zpos="-55.7034" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="8SCke0vhkU+4H7cpOYjdTQ=="/>
+		<POI MapID="866" xpos="14.2069" ypos="194.713" zpos="36.6016" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="XOo7blJ+jke3PTLOpqo3ug=="/>
+		<POI MapID="866" xpos="-130.519" ypos="179.506" zpos="147.17" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="w8QstqYWKkOkHRHAvq0R6Q=="/>
+		<POI MapID="866" xpos="55.1607" ypos="181.527" zpos="122.99" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="glvuSyuiuUyNqFrg5Oq4Ew=="/>
+		<POI MapID="866" xpos="-156.841" ypos="176.895" zpos="-33.4777" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="EkyDvrxk9k2MyMOSR5w3mQ=="/>
+		<POI MapID="866" xpos="-152.334" ypos="179.496" zpos="-134.886" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="UEbj9rQaF02AT9TkudEnqA=="/>
+		<POI MapID="866" xpos="-112.651" ypos="178.596" zpos="-135.998" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="V7Lz9vmNVE2rDiuxBkF/kg=="/>
+		<POI MapID="23" xpos="-478.619" ypos="-116.961" zpos="-68.711" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="cS6xUaE7FEWywbPHtKZXKQ=="/>
+		<POI MapID="23" xpos="-527.146" ypos="-107.75" zpos="-92.069" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="mZFGoCHjtkKc3JaUygwsag=="/>
+		<POI MapID="23" xpos="-865.347" ypos="11.3209" zpos="-447.066" type="st_guides.st_festivals.st_festivals_halloween.st_festivals_halloween_farming.st_festivals_halloween_farming_candycorn.st_festivals_halloween_farming_candycorn_node" GUID="qj5RgmUQpECtn/um4Y3OkA=="/>
 
 
 		
 		<!-- Trails -->
 		<Trail type="st_guides.st_festivals.st_festivals_lunanewyear.st_festivals_lunanewyear_race.st_festivals_lunanewyear_race_toggletrails.st_festivals_lunanewyear_race_toggletrails_toggletrail01" GUID="FWdU7nNZ30+Z4eIpMieV2Q==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Mondneujahr_Rennen_Trail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_misc.png"/>
 		<Trail type="st_guides.st_festivals.st_festivals_lunanewyear.st_festivals_lunanewyear_firework1.st_festivals_lunanewyear_firework1_toggletrails.st_festivals_lunanewyear_firework1_toggletrails_toggletrail01" GUID="1ilQ2HpyQkOK4WBDlvG49w==" fadeNear="5000" fadeFar="5100" trailData="Data/SchattenfluegelTrails/Mondneujahr_FeuerwerkAbenteuer_2_Trail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_misc.png"/>
-				
+		<Trail type="st_guides.st_festivals.st_festivals_wintersday.st_festivals_wintersday_race.st_festivals_wintersday_race_toggletrails.st_festivals_wintersday_race_toggletrails_toggletrail01" GUID="Rle+/QlQkk6e6VjlCW4h4w==" trailData="..\SchattenfluegelTrails\Data\SchattenfluegelTrails\Festivals\WintertagRennenTrail.trl"/>	
 		
 	</POIs>
 </OverlayData>

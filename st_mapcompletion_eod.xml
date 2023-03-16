@@ -264,76 +264,120 @@
 						<MarkerCategory name="st_mapcompletion_eod_drachenende_trail_exit" DisplayName="Ausgang Icon" mapDisplaySize="20" iconFile="Data/SchattenfluegelTrails/st_exit.png" iconSize="0.6" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="50"/>
 					</MarkerCategory>
 					<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge" DisplayName="Heldenherausforderungen" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_heldenpunkt.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge01" DisplayName="XXX 1"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge02" DisplayName="XXX 2"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge03" DisplayName="XXX 3"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge04" DisplayName="XXX 4"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge05" DisplayName="XXX 5"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge06" DisplayName="XXX 6"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge01" DisplayName="Gruben-Aussichtspunkt"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge02" DisplayName="Tosender Wasserfall"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge03" DisplayName="Gruben-Plattform"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge04" DisplayName="Brutstätten-Spielteich"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge05" DisplayName="Erntekomplex Pavillion"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_herochallenge_herochallenge06" DisplayName="Erntetempel-Haupteingang"/>
 					</MarkerCategory>
 					<MarkerCategory name="st_mapcompletion_eod_drachenende_poi" DisplayName="Sehenswürdigkeiten" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest01" DisplayName="XXX 1"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest02" DisplayName="XXX 2"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest03" DisplayName="XXX 3"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest04" DisplayName="XXX 4"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest05" DisplayName="XXX 5"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest06" DisplayName="XXX 6"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest07" DisplayName="XXX 7"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest08" DisplayName="XXX 8"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest09" DisplayName="XXX 9"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest10" DisplayName="XXX 10"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest11" DisplayName="XXX 11"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest12" DisplayName="XXX 12"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest13" DisplayName="XXX 13"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest14" DisplayName="XXX 14"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest15" DisplayName="XXX 15"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest16" DisplayName="XXX 16"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest17" DisplayName="XXX 17"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest18" DisplayName="XXX 18"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest19" DisplayName="XXX 19"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest20" DisplayName="XXX 20"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest21" DisplayName="XXX 21"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest22" DisplayName="XXX 22"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest23" DisplayName="XXX 23"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest24" DisplayName="XXX 24"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest25" DisplayName="XXX 25"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest26" DisplayName="XXX 26"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest27" DisplayName="XXX 27"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest28" DisplayName="XXX 28"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest29" DisplayName="XXX 29"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest30" DisplayName="XXX 30"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest31" DisplayName="XXX 31"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest32" DisplayName="XXX 32"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest33" DisplayName="XXX 33"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest34" DisplayName="XXX 34"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest35" DisplayName="XXX 35"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest36" DisplayName="XXX 36"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest37" DisplayName="XXX 37"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest38" DisplayName="XXX 38"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest39" DisplayName="XXX 39"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest40" DisplayName="XXX 40"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest41" DisplayName="XXX 41"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest42" DisplayName="XXX 42"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest43" DisplayName="XXX 43"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest44" DisplayName="XXX 44"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest45" DisplayName="XXX 45"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest46" DisplayName="XXX 46"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest47" DisplayName="XXX 47"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest48" DisplayName="XXX 48"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest01" DisplayName="Logistik-Distrikt"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest02" DisplayName="Wohnviertel"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest03" DisplayName="Flüchtlingslager Xiko"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest04" DisplayName="Lagerhaus-Bezirk"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest05" DisplayName="Bruderschafts-Wache"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest06" DisplayName="Argo-Krabbler"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest07" DisplayName="Salzgischt-Horst"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest08" DisplayName="Grubepassage"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest09" DisplayName="Seewachen-Kreuzung"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest10" DisplayName="Tanasen-Pier"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest11" DisplayName="Die Grüne Grotte"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest12" DisplayName="Schrein der Schlange"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest13" DisplayName="Alua-Fälle"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest14" DisplayName="Sprecher-Lager"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest15" DisplayName="Schrein des Hanuku"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest16" DisplayName="Minenstandort JS-36"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest17" DisplayName="Die große Jademauer"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest18" DisplayName="Kaolai-Turm"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest19" DisplayName="Bergmanns Torheit"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest20" DisplayName="Minenstandort JS-02"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest21" DisplayName="Rheas Anlegestelle"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest22" DisplayName="Einsamkeit des Archemorus"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest23" DisplayName="Zuflucht von Ione"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest24" DisplayName="Auferstandenen-Chaos"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest25" DisplayName="Sprecher-Außenposten"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest26" DisplayName="Eisbrut-Ödland"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest27" DisplayName="Tempel der Schildkröte"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest28" DisplayName="Heilige Halle des Krebses"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest29" DisplayName="Juno-Brutstätte"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest30" DisplayName="Eloras Strand"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest31" DisplayName="Die Jade-Weite"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest32" DisplayName="Smaragdklippen"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest33" DisplayName="Quell der Ältesten"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest34" DisplayName="Xinraes Werft"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest35" DisplayName="Kloster des Gefrorenen Meeres"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest36" DisplayName="Mordrems Schande"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest37" DisplayName="Außenposten der Jadebruderschaft"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest38" DisplayName="Ödland des Zerstörers"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest39" DisplayName="Wächter-Warte"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest40" DisplayName="Tempel der Gefallenen"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest41" DisplayName="Erntetempel-Observatorium"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest42" DisplayName="Kuan-Jun-Pavillion"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest43" DisplayName="Gebrandmarkte Höhe"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest44" DisplayName="Xunlai-Jade-Museum"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest45" DisplayName="Erntebrücke"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest46" DisplayName="Erntetempel"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest47" DisplayName="Die Große Schmelze"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_poi_pointsofinterest48" DisplayName="Jadewind-Pause"/>
 					</MarkerCategory>
 					<MarkerCategory name="st_mapcompletion_eod_drachenende_vista" DisplayName="Panoramas" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_panorama.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista01" DisplayName="XXX 1"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista02" DisplayName="XXX 2"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista03" DisplayName="XXX 3"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista04" DisplayName="XXX 4"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista05" DisplayName="XXX 5"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista01" DisplayName="Argo-Krabbler"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista02" DisplayName="Tosender Wasserfall"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista03" DisplayName="Kaolai-Turm"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista04" DisplayName="Seemanns-Enklave"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_vista_vista05" DisplayName="Südliche Klippen"/>
 					</MarkerCategory>
 					<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint" DisplayName="Wegmarken" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint01" DisplayName="XXX 1"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint02" DisplayName="XXX 2"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint03" DisplayName="XXX 3"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint04" DisplayName="XXX 4"/>
-						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint05" DisplayName="XXX 5"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint01" DisplayName="Jade-Grube"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint02" DisplayName="Sprecher"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint03" DisplayName="Gefrorenes Meer"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint04" DisplayName="Bruderschaft"/>
+						<MarkerCategory name="st_mapcompletion_eod_drachenende_waypoint_waypoint05" DisplayName="Ernte-Komplex"/>
+					</MarkerCategory>
+				</MarkerCategory>
+				
+				<MarkerCategory name="st_mapcompletion_eod_gyalasenke" DisplayName="Gyala-Senke">
+					<MarkerCategory name="st_mapcompletion_eod_gyalasenke_trail" DisplayName="Trail">
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_trail_toggletrail" DisplayName="Toggle Trail"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_trail_startsign" DisplayName="Start Icon" mapDisplaySize="130" iconFile="Data/SchattenfluegelTrails/Erkundung/st_mapcompletion_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_trail_finish" DisplayName="Ziel Icon" mapDisplaySize="80" iconFile="Data/SchattenfluegelTrails/st_trail_finish_b.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_trail_enter" DisplayName="Eingang Icon" mapDisplaySize="20" iconFile="Data/SchattenfluegelTrails/st_enter.png" iconSize="0.6" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="50"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_trail_exit" DisplayName="Ausgang Icon" mapDisplaySize="20" iconFile="Data/SchattenfluegelTrails/st_exit.png" iconSize="0.6" fadeNear="0" fadeFar="2000" heightOffset="2.5" minSize="50"/>
+					</MarkerCategory>
+					<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi" DisplayName="Sehenswürdigkeiten" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_poi.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest01" DisplayName="Park-Bergbaubetrieb"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest02" DisplayName="Park-Steinbruch"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest03" DisplayName="Schildkrötengehege"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest04" DisplayName="Absetzbecken"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest05" DisplayName="Trübsinniger Graben"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest06" DisplayName="Schiffswrack-Ausgrabung"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest07" DisplayName="Basis Jadesäulen-Punkt"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest08" DisplayName="Fossiler Aussichtspunkt"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest09" DisplayName="Basis Behemoth-Bresche"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest10" DisplayName="Behemoths Gefälle"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest11" DisplayName="Anlegestelle des Prospektors"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest12" DisplayName="Muschelseiten-Ausgrabung"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest13" DisplayName="Schmelzbecken"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest14" DisplayName="Myzelkolonie"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest15" DisplayName="Stalagmiten-Inselchen"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest16" DisplayName="Luxon-Endpunkt-Fort"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest17" DisplayName="Kristallhöhle"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest18" DisplayName="Ley-Linien-Nexus"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest19" DisplayName="Himmlisches Becken"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest20" DisplayName="Litoral-Höhle"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_poi_pointsofinterest21" DisplayName="Ley-Linien-Inselchen"/>
+					</MarkerCategory>
+					<MarkerCategory name="st_mapcompletion_eod_gyalasenke_vista" DisplayName="Panoramas" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_panorama.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_vista_vista01" DisplayName="Basis Jadesäulen-Punkt"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_vista_vista02" DisplayName="Heulende Höhlen"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_vista_vista03" DisplayName="Die Tiefe"/>
+					</MarkerCategory>
+					<MarkerCategory name="st_mapcompletion_eod_gyalasenke_waypoint" DisplayName="Wegmarken" mapDisplaySize="30" iconFile="Data/SchattenfluegelTrails/Erkundung/st_erkundung_wegmarke.png" iconSize="0.5" fadeNear="0" fadeFar="2000" heightOffset="0.5" minSize="10">
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_waypoint_waypoint01" DisplayName="Park-Bergbaubetrieb"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_waypoint_waypoint02" DisplayName="Jadesäulen-Punkt"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_waypoint_waypoint03" DisplayName="Behemoth-Bresche"/>
+						<MarkerCategory name="st_mapcompletion_eod_gyalasenke_waypoint_waypoint04" DisplayName="Luxon-Endpunkt"/>
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
@@ -597,7 +641,9 @@
 		<Trail type="st_guides.st_mapcompletion.st_mapcompletion_eod.st_mapcompletion_eod_dragonsend.st_mapcompletion_eod_dragonsend_trail.st_mapcompletion_eod_dragonsend_trail_toggletrail" GUID="2/bzH3ywv0aZWXSvWdUcwQ==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Erkundung/st_mapcompletion_eod_dragonsend_trail_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_mc.png"/>
 		<Trail type="st_guides.st_mapcompletion.st_mapcompletion_eod.st_mapcompletion_eod_dragonsend.st_mapcompletion_eod_dragonsend_trail.st_mapcompletion_eod_dragonsend_trail_toggletrail" GUID="rLGYXFXXYUyGpaj/xw6S2g==" fadeNear="0" fadeFar="2000" trailData="Data/SchattenfluegelTrails/Erkundung/st_mapcompletion_eod_dragonsendBETA_trail_toggletrail.trl" animSpeed="0.1" texture="Data/SchattenfluegelTrails/st_trail_mc.png"/>
 
-
+	<!-- GYALA-SENKE (XXX) -->
+	
+	
 <!-- ERRORS -->
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -11,7 +11,40 @@
 					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
 				</MarkerCategory>
 			</MarkerCategory>
+			
+	<!--	#####################################################################################
+			##################### LEBENDIGE WELT STAFFEL 1 ######################################
+			#####################################################################################	-->
 
+			<MarkerCategory name="st_story_lws1">
+				<MarkerCategory name="st_story_lws1_1" DisplayName="Flamme und Frost" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_flammeundfrost.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_1_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Himmelspiraten" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_himmelspiraten.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Mechanisches Chaos" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_mechanischeschaos.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Feldassistent d.G.Vorpp" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_feldassistentdesgesandtenvorpp.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Turm der Albträume" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_turmderalbtraeume.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Im Inneren d.Albträume" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_iminnerenderalbtraeume.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Der Albtraum ist vorbei" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_deralbtraumistvorbei.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="Flucht aus Löwenstein" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_fluchtausloewenstein.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+				<MarkerCategory name="st_story_lws1_0" DisplayName="D.Schlacht um Löwenstein" iconFile="Data/SchattenfluegelTrails/Story/st_story_lws1_dieschlachtumloewenstein.png" iconSize="0.5" heightOffset="1" fadeNear="2000" fadeFar="5100">
+					<MarkerCategory name="separatorstory_0_1"  IsSeparator="1" DisplayName="___________Erfolge__________"/>
+				</MarkerCategory>
+			</MarkerCategory>
 	<!--	#####################################################################################
 			##################### LEBENDIGE WELT STAFFEL 2 ######################################
 			#####################################################################################	-->

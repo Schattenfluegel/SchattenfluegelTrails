@@ -1,11 +1,12 @@
 <OverlayData>
 	<MarkerCategory name="st_guides" DisplayName="SchattenfluegelTrails">
-		<MarkerCategory name="separatorgeneral00"  IsSeparator="1" DisplayName="[Schattenfluegel Trails Build 3.6.1]"/>
+		<MarkerCategory name="separatorgeneral00"  IsSeparator="1" DisplayName="[Schattenfluegel Trails Build 3.7]"/>
 		<MarkerCategory name="separatorgeneral01"  IsSeparator="1" DisplayName="_________Nodefarming_________"/>
 		<MarkerCategory name="separatornf01" IsSeparator="1" DisplayName="Regular Nodes"/>
 		<MarkerCategory name="st_regularnodes_ore" DisplayName="Erz"/>
 		<MarkerCategory name="st_regularnodes_wood" DisplayName="Holz"/>
 		<MarkerCategory name="st_regularnodes_plant" DisplayName="Pflanzen"/>
+		<MarkerCategory name="st_regularnodes_synthesizer" DisplayName="Synthetisierer"/>
 		<MarkerCategory name="separatornf02" IsSeparator="1" DisplayName="Gathering Trails"/>
 		<MarkerCategory name="st_gatheringnodes_richnodes" DisplayName="Reichhaltige Erzknoten"/>
 		<MarkerCategory name="st_gatheringnodes_cluster" DisplayName="Node Cluster"/>

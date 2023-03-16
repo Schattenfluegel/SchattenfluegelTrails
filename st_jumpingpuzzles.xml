@@ -625,6 +625,18 @@
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_goemmslab_toggleexplanations" DisplayName="Erläuterungen" />
 				</MarkerCategory>
 				
+				<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun" DisplayName= "Greifenturm-Strecke [Springer + Absteigen + Gleiten]">
+					<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_toggletrail" DisplayName="Toggle Route" />
+					<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_togglesigns" DisplayName="Toggle Signs">
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_togglesigns_startsign" DisplayName="Start"  iconFile="Data/SchattenfluegelTrails/Sprungraetsel/st_jumpingpuzzles_shortcuts_startsign.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_togglesigns_springer" DisplayName="Springer"  iconFile="Data/SchattenfluegelTrails/st_guides_mounts_springer.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_togglesigns_leanforward" DisplayName="Lehnen"  iconFile="Data/SchattenfluegelTrails/st_guides_leanforward.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_togglesigns_enter" DisplayName="Eingang"  iconFile="Data/SchattenfluegelTrails/st_enter.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+						<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_togglesigns_exit" DisplayName="Ausgang"  iconFile="Data/SchattenfluegelTrails/st_exit.png" miniMapVisibility="0" mapVisibility="0" iconSize="0.3" fadeNear="1900" fadeFar="2000" heightOffset="0" minSize="10"/>
+					</MarkerCategory>
+					<MarkerCategory name="st_jumpingpuzzles_shortcuts_griffonhookrun_toggleexplanations" DisplayName="Erläuterungen" />
+				</MarkerCategory>
+				
 				<MarkerCategory name="st_jumpingpuzzles_shortcuts_spelunkersdelve" DisplayName= "Höhlenforschersenke [Springer/Himmelss. + Gleiten]">
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_spelunkersdelve_toggletrail" DisplayName="Toggle Route" />
 					<MarkerCategory name="st_jumpingpuzzles_shortcuts_spelunkersdelve_togglesigns" DisplayName="Toggle Signs">
@@ -5521,6 +5533,10 @@
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		~~~ New POIs ############################################################################ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<Trail type="st_guides.st_jumpingpuzzles.st_jumpingpuzzles_shortcuts.st_jumpingpuzzles_shortcuts_griffonhookrun.st_jumpingpuzzles_shortcuts_griffonhookrun_toggletrail" GUID="pc1JzeqBHUiKcr7/vQCdjA==" trailData="..\SchattenfluegelTrails\Data\SchattenfluegelTrails\Sprungraetsel\st_jumpingpuzzles_shortcuts_griffonhookrun_toggletrail.trl"/>
+		<POI MapID="50" xpos="692.561" ypos="7.5609" zpos="282.731" type="st_guides.st_jumpingpuzzles.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_startsign" GUID="8SlZkRPhyEmjhkuiwZB6QA=="/>
+		<POI MapID="50" xpos="670.65" ypos="67.5021" zpos="373.121" type="st_guides.st_jumpingpuzzles.st_jumpingpuzzles_quickruns.st_jumpingpuzzles_quickruns_finish" GUID="AQeYavH2sUChIZis0WgDPA=="/>
+
 
 	</POIs>
 </OverlayData>
